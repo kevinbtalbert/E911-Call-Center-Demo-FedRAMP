@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250416-0099",
+  "timestamp_received": "2025-04-16T15:07:54Z",
+  "caller_number": "001015569902355770",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.09273,
+    "longitude": -88.64235,
+    "county": "Iron River",
+    "state": "MD",
+    "census_tract": "52415"
+  },
+  "location_type": "Commercial",
+  "incident_address": "78576 Mary Hills Suite 880, New Gina, WY 46847",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 594,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7284",
+  "audio_file_name": "911-20250416-0099.mp3",
+  "audio_duration_seconds": 90,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "at",
+    "chance",
+    "subject",
+    "fund",
+    "heart",
+    "move"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Number hope organization ten seem relate fire all including market down later week democratic few born.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

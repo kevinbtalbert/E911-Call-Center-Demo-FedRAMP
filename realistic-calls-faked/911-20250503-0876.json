@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250503-0876",
+  "timestamp_received": "2025-05-03T09:19:23Z",
+  "caller_number": "+16720418629319",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25628,
+    "longitude": -78.04471,
+    "county": "Leland",
+    "state": "SC",
+    "census_tract": "36163"
+  },
+  "location_type": "Residential",
+  "incident_address": "678 Edwards Spurs, Vaughnfort, AL 15839",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 1006,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2161",
+  "audio_file_name": "911-20250503-0876.mp3",
+  "audio_duration_seconds": 140,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "parent",
+    "century",
+    "hair",
+    "east",
+    "building",
+    "window",
+    "for",
+    "ability"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Study its far doctor suffer total even dinner their call her from generation industry open arm family election green process artist good.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

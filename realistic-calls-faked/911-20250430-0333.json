@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250430-0333",
+  "timestamp_received": "2025-04-30T22:19:31Z",
+  "caller_number": "70636219865504",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 46,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55838,
+    "longitude": -81.56929,
+    "county": "Collinwood",
+    "state": "OH",
+    "census_tract": "38574"
+  },
+  "location_type": "Commercial",
+  "incident_address": "0766 Gail Rapids Apt. 396, Alanfurt, NH 25374",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 418,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4507",
+  "audio_file_name": "911-20250430-0333.mp3",
+  "audio_duration_seconds": 100,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.8,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "can",
+    "college",
+    "care",
+    "think",
+    "brother",
+    "far",
+    "chair",
+    "describe"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Program try school wait never fly pull big method message though always same we order reach better performance imagine police right traditional.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

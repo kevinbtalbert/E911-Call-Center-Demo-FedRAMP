@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250420-0565",
+  "timestamp_received": "2025-04-20T20:37:44Z",
+  "caller_number": "0016283723722593",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 27,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.94065,
+    "longitude": -73.99681,
+    "county": "Dumont",
+    "state": "SC",
+    "census_tract": "51615"
+  },
+  "location_type": "Highway",
+  "incident_address": "70089 Thomas Fords, Selenaton, WA 58929",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 406,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1171",
+  "audio_file_name": "911-20250420-0565.mp3",
+  "audio_duration_seconds": 85,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.9,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "action",
+    "culture",
+    "do",
+    "seven",
+    "radio"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Phone thought method mouth happen play why campaign population through personal actually let key or song politics he very quality local inside probably music throw present history hard.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

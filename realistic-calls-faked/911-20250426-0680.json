@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250426-0680",
+  "timestamp_received": "2025-04-26T17:27:08Z",
+  "caller_number": "+121325086286856",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 75,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.24537,
+    "longitude": -75.64963,
+    "county": "Pottstown",
+    "state": "VA",
+    "census_tract": "94912"
+  },
+  "location_type": "Industrial",
+  "incident_address": "7608 Jason Ports, Port Michael, HI 68745",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 576,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4552",
+  "audio_file_name": "911-20250426-0680.mp3",
+  "audio_duration_seconds": 160,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.9,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "our",
+    "prepare",
+    "face",
+    "level",
+    "themselves"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Hotel back dark administration never hold billion citizen hour throughout method add war red if participant middle.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250511-0861",
+  "timestamp_received": "2025-05-11T01:42:40Z",
+  "caller_number": "+122011270422593",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 55,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.72816,
+    "longitude": -74.07764,
+    "county": "Jersey City",
+    "state": "KY",
+    "census_tract": "73077"
+  },
+  "location_type": "Highway",
+  "incident_address": "81433 Richard Club, Mercerfort, TX 40792",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 1041,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2714",
+  "audio_file_name": "911-20250511-0861.mp3",
+  "audio_duration_seconds": 100,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.4,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "treat",
+    "including",
+    "main",
+    "maintain",
+    "born",
+    "you",
+    "southern",
+    "oil"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Social brother management total campaign old trial manager focus hard two husband consider.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

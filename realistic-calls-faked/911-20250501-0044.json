@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250501-0044",
+  "timestamp_received": "2025-05-01T22:35:15Z",
+  "caller_number": "315999650477358",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.96372,
+    "longitude": -76.99081,
+    "county": "Chillum",
+    "state": "MD",
+    "census_tract": "59968"
+  },
+  "location_type": "School",
+  "incident_address": "USCGC Lopez, FPO AP 87096",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 1074,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1606",
+  "audio_file_name": "911-20250501-0044.mp3",
+  "audio_duration_seconds": 62,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.9,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "herself",
+    "sign",
+    "far",
+    "east",
+    "available"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Child Republican plant science first blood accept final growth especially car cost large never impact ago government behavior.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

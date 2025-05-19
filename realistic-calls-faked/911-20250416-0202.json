@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250416-0202",
+  "timestamp_received": "2025-04-16T09:30:11Z",
+  "caller_number": "6496935782",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 62,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.44874,
+    "longitude": -99.73314,
+    "county": "Abilene",
+    "state": "PA",
+    "census_tract": "11388"
+  },
+  "location_type": "Industrial",
+  "incident_address": "7769 Daniels Hill, East Danielport, NV 43151",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 399,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9423",
+  "audio_file_name": "911-20250416-0202.mp3",
+  "audio_duration_seconds": 65,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.1,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "easy",
+    "interesting",
+    "computer",
+    "what",
+    "produce",
+    "girl",
+    "huge"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Similar low source major include dog fact medical three situation article sign energy fish hot.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

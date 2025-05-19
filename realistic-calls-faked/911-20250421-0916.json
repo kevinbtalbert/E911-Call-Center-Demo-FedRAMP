@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250421-0916",
+  "timestamp_received": "2025-04-21T16:54:15Z",
+  "caller_number": "0017496875744654",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 20,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.68451,
+    "longitude": -80.66756,
+    "county": "Belle Glade",
+    "state": "NC",
+    "census_tract": "11855"
+  },
+  "location_type": "School",
+  "incident_address": "87398 Daniel Crossroad, Rebeccahaven, NM 62245",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 379,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7495",
+  "audio_file_name": "911-20250421-0916.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 7.1,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "evidence",
+    "always",
+    "single",
+    "around",
+    "show",
+    "future",
+    "debate"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Health nation production follow individual none investment seat nation smile fall this back film close season political million receive top policy.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250505-0850",
+  "timestamp_received": "2025-05-05T18:55:31Z",
+  "caller_number": "707167148957925",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 59,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.42067,
+    "longitude": -104.22884,
+    "county": "Carlsbad",
+    "state": "PA",
+    "census_tract": "13825"
+  },
+  "location_type": "Highway",
+  "incident_address": "235 Carla Centers Apt. 934, East Kimberlybury, MA 35809",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 691,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6225",
+  "audio_file_name": "911-20250505-0850.mp3",
+  "audio_duration_seconds": 86,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.2,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "campaign",
+    "experience",
+    "strategy",
+    "stand",
+    "benefit",
+    "assume",
+    "then"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Yeah tax we newspaper step four know site whose late ago lay president window paper step bring best summer top fear during cultural hundred fast.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

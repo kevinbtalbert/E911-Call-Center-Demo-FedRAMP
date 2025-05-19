@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0648",
+  "timestamp_received": "2025-04-26T03:58:41Z",
+  "caller_number": "+10122016318",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.81,
+    "longitude": -73.9625,
+    "county": "Morningside Heights",
+    "state": "GA",
+    "census_tract": "34112"
+  },
+  "location_type": "Industrial",
+  "incident_address": "02391 Hernandez Cliffs, East Lisa, SC 90381",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 747,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8190",
+  "audio_file_name": "911-20250426-0648.mp3",
+  "audio_duration_seconds": 36,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.4,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "describe",
+    "at",
+    "should",
+    "order",
+    "concern"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Machine contain business organization interview cost street consumer girl adult summer each production lead player human.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

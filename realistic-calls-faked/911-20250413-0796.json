@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250413-0796",
+  "timestamp_received": "2025-04-13T17:42:33Z",
+  "caller_number": "0013744892396042",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.72255,
+    "longitude": -116.37697,
+    "county": "Palm Desert",
+    "state": "NC",
+    "census_tract": "56784"
+  },
+  "location_type": "Commercial",
+  "incident_address": "25670 David Neck Apt. 959, South Katherinetown, NV 94973",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 1174,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7580",
+  "audio_file_name": "911-20250413-0796.mp3",
+  "audio_duration_seconds": 144,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.9,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "in",
+    "shake",
+    "operation",
+    "able",
+    "street",
+    "meet",
+    "standard",
+    "whatever"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Degree eight personal join throughout near act room five teach address including table pass order truth able many rise.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

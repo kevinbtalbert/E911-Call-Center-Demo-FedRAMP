@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250422-0379",
+  "timestamp_received": "2025-04-22T21:37:03Z",
+  "caller_number": "0013716160881972",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.06635,
+    "longitude": -84.67837,
+    "county": "Acworth",
+    "state": "OH",
+    "census_tract": "79784"
+  },
+  "location_type": "School",
+  "incident_address": "996 Castillo Trail, New Jamesmouth, IN 05785",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 70,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7420",
+  "audio_file_name": "911-20250422-0379.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.3,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "language",
+    "information",
+    "tell",
+    "tonight"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Consider expert address reveal near six letter wife all college either test.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

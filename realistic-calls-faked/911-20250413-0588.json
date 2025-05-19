@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250413-0588",
+  "timestamp_received": "2025-04-13T11:59:21Z",
+  "caller_number": "5063240510",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 89,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.56754,
+    "longitude": -89.64066,
+    "county": "Pekin",
+    "state": "MD",
+    "census_tract": "70187"
+  },
+  "location_type": "Commercial",
+  "incident_address": "5838 Welch Meadows, East Patricia, NH 37349",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 968,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4963",
+  "audio_file_name": "911-20250413-0588.mp3",
+  "audio_duration_seconds": 75,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.5,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "positive",
+    "entire",
+    "work",
+    "small",
+    "too",
+    "tell",
+    "seat"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Despite tax carry magazine state now listen born organization site remember serious exist staff apply become condition majority.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

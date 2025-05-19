@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250415-0288",
+  "timestamp_received": "2025-04-15T01:23:30Z",
+  "caller_number": "1570908599",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 55,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.95143,
+    "longitude": -91.77127,
+    "county": "Rolla",
+    "state": "MD",
+    "census_tract": "79984"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "9207 Aguilar Expressway Suite 999, Wangshire, MS 86585",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 93,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1606",
+  "audio_file_name": "911-20250415-0288.mp3",
+  "audio_duration_seconds": 116,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.4,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "fast",
+    "need",
+    "painting",
+    "outside",
+    "role",
+    "question",
+    "wonder",
+    "lay"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Far movement hand himself weight eat form bill again matter finally peace window create compare couple continue sister standard family center wide identify nice visit.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

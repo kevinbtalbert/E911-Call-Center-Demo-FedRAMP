@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250421-0492",
+  "timestamp_received": "2025-04-21T06:43:01Z",
+  "caller_number": "46272053649911",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.24537,
+    "longitude": -75.64963,
+    "county": "Pottstown",
+    "state": "PA",
+    "census_tract": "10647"
+  },
+  "location_type": "Industrial",
+  "incident_address": "856 Rodgers Springs, Port Walter, AZ 22876",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 591,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1705",
+  "audio_file_name": "911-20250421-0492.mp3",
+  "audio_duration_seconds": 58,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.4,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "wonder",
+    "these",
+    "we",
+    "wide",
+    "reveal",
+    "sure"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "News team purpose law themselves near become city consumer employee wall he local mention eye house knowledge.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

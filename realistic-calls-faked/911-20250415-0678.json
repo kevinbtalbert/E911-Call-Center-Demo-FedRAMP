@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250415-0678",
+  "timestamp_received": "2025-04-15T21:56:15Z",
+  "caller_number": "5705155782638",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25628,
+    "longitude": -78.04471,
+    "county": "Leland",
+    "state": "PA",
+    "census_tract": "31519"
+  },
+  "location_type": "School",
+  "incident_address": "42716 Elizabeth Summit, Mejiahaven, SC 50024",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 371,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9785",
+  "audio_file_name": "911-20250415-0678.mp3",
+  "audio_duration_seconds": 31,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.4,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "oil",
+    "leg",
+    "save",
+    "loss",
+    "rich"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Well young plan agency range general year light serious sell reason including benefit yard country but.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

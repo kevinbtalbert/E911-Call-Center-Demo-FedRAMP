@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250423-0203",
+  "timestamp_received": "2025-04-23T08:39:05Z",
+  "caller_number": "640473504763928",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 42,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.61062,
+    "longitude": -72.97261,
+    "county": "Rutland",
+    "state": "PA",
+    "census_tract": "57349"
+  },
+  "location_type": "School",
+  "incident_address": "952 Stephanie Brooks, Davismouth, MI 72969",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 991,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1760",
+  "audio_file_name": "911-20250423-0203.mp3",
+  "audio_duration_seconds": 40,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.7,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "as",
+    "any",
+    "decision",
+    "movement",
+    "world",
+    "study",
+    "how",
+    "responsibility"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Soon treat former democratic safe vote already after wait bill huge machine church feeling discover significant easy evening buy.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

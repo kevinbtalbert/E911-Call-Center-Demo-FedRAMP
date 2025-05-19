@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250419-0793",
+  "timestamp_received": "2025-04-19T02:44:10Z",
+  "caller_number": "6716033841",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 62,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.61033,
+    "longitude": -88.31476,
+    "county": "Murray",
+    "state": "VA",
+    "census_tract": "59298"
+  },
+  "location_type": "Highway",
+  "incident_address": "PSC 7876, Box 0287, APO AA 78862",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 232,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3800",
+  "audio_file_name": "911-20250419-0793.mp3",
+  "audio_duration_seconds": 76,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.1,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "yes",
+    "line",
+    "including",
+    "real",
+    "economy",
+    "meeting"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Full air onto individual Mr community member during participant determine possible forget.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

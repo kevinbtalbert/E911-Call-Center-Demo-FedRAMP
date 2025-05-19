@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250423-0334",
+  "timestamp_received": "2025-04-23T23:00:52Z",
+  "caller_number": "+1996433853247250",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.08367,
+    "longitude": -84.50855,
+    "county": "Covington",
+    "state": "KY",
+    "census_tract": "72288"
+  },
+  "location_type": "Industrial",
+  "incident_address": "34303 Christian Village, Melindahaven, MO 04169",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 691,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1345",
+  "audio_file_name": "911-20250423-0334.mp3",
+  "audio_duration_seconds": 38,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.0,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "hear",
+    "responsibility",
+    "have",
+    "level"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Trouble nor environmental former law only thus something environmental sign top player water guess dream have line tax hotel use organization.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

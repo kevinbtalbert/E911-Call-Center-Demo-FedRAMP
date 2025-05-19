@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250510-0502",
+  "timestamp_received": "2025-05-10T00:56:03Z",
+  "caller_number": "8953376841",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 71,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.91023,
+    "longitude": -121.75689,
+    "county": "Watsonville",
+    "state": "KY",
+    "census_tract": "37041"
+  },
+  "location_type": "Industrial",
+  "incident_address": "7760 Paul Fork Suite 597, Port Christopher, NJ 31477",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 456,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7189",
+  "audio_file_name": "911-20250510-0502.mp3",
+  "audio_duration_seconds": 57,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.6,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "and",
+    "difficult",
+    "enough",
+    "social",
+    "security",
+    "reveal",
+    "later"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "To enough than break a myself to teach only red work rise describe bring behavior general affect game face low lawyer single on vote.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

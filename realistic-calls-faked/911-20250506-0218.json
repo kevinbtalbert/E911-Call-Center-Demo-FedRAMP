@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250506-0218",
+  "timestamp_received": "2025-05-06T19:30:49Z",
+  "caller_number": "3734151773",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 66,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.16024,
+    "longitude": -93.08883,
+    "county": "Lino Lakes",
+    "state": "GA",
+    "census_tract": "85584"
+  },
+  "location_type": "Commercial",
+  "incident_address": "7574 Wheeler Trace Apt. 284, East Nicoleshire, VT 38671",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 1136,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7933",
+  "audio_file_name": "911-20250506-0218.mp3",
+  "audio_duration_seconds": 152,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 8.7,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "fill",
+    "respond",
+    "nothing",
+    "fight"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Pull child source campaign parent teacher either direction surface on chance activity hair meet thank might local tonight win popular onto may model.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

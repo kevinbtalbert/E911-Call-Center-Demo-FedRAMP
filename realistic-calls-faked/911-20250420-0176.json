@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250420-0176",
+  "timestamp_received": "2025-04-20T00:06:11Z",
+  "caller_number": "8711216636515",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 18,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.17492,
+    "longitude": -122.2608,
+    "county": "American Canyon",
+    "state": "GA",
+    "census_tract": "39402"
+  },
+  "location_type": "Industrial",
+  "incident_address": "71470 Stacy Drive Apt. 590, Brownstad, NE 62551",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 492,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1359",
+  "audio_file_name": "911-20250420-0176.mp3",
+  "audio_duration_seconds": 180,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.4,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "degree",
+    "deep",
+    "age",
+    "serve",
+    "institution",
+    "edge"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Base attorney if fear Republican the modern prove else store begin top garden send clearly glass.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

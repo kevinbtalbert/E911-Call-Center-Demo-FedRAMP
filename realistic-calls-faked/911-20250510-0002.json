@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250510-0002",
+  "timestamp_received": "2025-05-10T14:32:39Z",
+  "caller_number": "5534192832",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.65538,
+    "longitude": -74.38987,
+    "county": "Scotch Plains",
+    "state": "SC",
+    "census_tract": "65392"
+  },
+  "location_type": "Public Park",
+  "incident_address": "835 Jeremy Bypass Suite 641, New Nancy, IL 86410",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 378,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4527",
+  "audio_file_name": "911-20250510-0002.mp3",
+  "audio_duration_seconds": 116,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.9,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "material",
+    "those",
+    "poor",
+    "central"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "East no enjoy once today human despite young meeting before another body physical society instead.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

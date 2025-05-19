@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250507-0863",
+  "timestamp_received": "2025-05-07T02:26:35Z",
+  "caller_number": "77496784527331",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 22,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.60876,
+    "longitude": -77.37331,
+    "county": "Mechanicsville",
+    "state": "NY",
+    "census_tract": "83013"
+  },
+  "location_type": "Commercial",
+  "incident_address": "6754 Lori Turnpike, Joshuastad, TN 57934",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 358,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2984",
+  "audio_file_name": "911-20250507-0863.mp3",
+  "audio_duration_seconds": 41,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.1,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "others",
+    "PM",
+    "air",
+    "least"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Live kind area final policy front decision yard author cultural simply energy character.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

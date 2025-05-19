@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250501-0121",
+  "timestamp_received": "2025-05-01T07:58:57Z",
+  "caller_number": "001773477848588006",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 53,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.73604,
+    "longitude": -120.93549,
+    "county": "Riverbank",
+    "state": "MD",
+    "census_tract": "85481"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "7567 Johnson Fall, Nicoleburgh, NE 18128",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 727,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7161",
+  "audio_file_name": "911-20250501-0121.mp3",
+  "audio_duration_seconds": 101,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.4,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "fine",
+    "home",
+    "shake",
+    "notice",
+    "make",
+    "network",
+    "much",
+    "like"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Take media hot manager wife pay good within fly agreement and student give score agree through game best generation group goal product easy possible or travel.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

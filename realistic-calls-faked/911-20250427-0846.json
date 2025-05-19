@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250427-0846",
+  "timestamp_received": "2025-04-27T20:20:22Z",
+  "caller_number": "+136733614247415",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.54044,
+    "longitude": -82.90375,
+    "county": "Dublin",
+    "state": "OH",
+    "census_tract": "92128"
+  },
+  "location_type": "School",
+  "incident_address": "3295 Perry Circles, Williamburgh, KS 86036",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 1178,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7917",
+  "audio_file_name": "911-20250427-0846.mp3",
+  "audio_duration_seconds": 167,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.6,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "drug",
+    "feeling",
+    "garden",
+    "kitchen",
+    "class",
+    "last",
+    "gun",
+    "many"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Art hit employee treatment ahead manage effort beat help agent rise article rock choice include member dark.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

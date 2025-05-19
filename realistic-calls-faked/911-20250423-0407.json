@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250423-0407",
+  "timestamp_received": "2025-04-23T19:45:04Z",
+  "caller_number": "1132661158",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.85059,
+    "longitude": -87.882,
+    "county": "Westchester",
+    "state": "VA",
+    "census_tract": "28029"
+  },
+  "location_type": "Public Park",
+  "incident_address": "052 Allen Shoals Apt. 196, West Virginiaburgh, AK 41597",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 667,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4309",
+  "audio_file_name": "911-20250423-0407.mp3",
+  "audio_duration_seconds": 68,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.3,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "difficult",
+    "toward",
+    "question",
+    "live",
+    "weight",
+    "guy"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Fast risk when arm mother through significant truth time bag seek eye second statement occur role office instead society.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

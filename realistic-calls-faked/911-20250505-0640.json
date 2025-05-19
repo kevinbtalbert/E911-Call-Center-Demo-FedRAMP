@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250505-0640",
+  "timestamp_received": "2025-05-05T19:47:10Z",
+  "caller_number": "8721215190",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.25064,
+    "longitude": -91.73625,
+    "county": "Searcy",
+    "state": "VA",
+    "census_tract": "56965"
+  },
+  "location_type": "Residential",
+  "incident_address": "624 Butler Falls Apt. 016, Ronaldborough, WY 31410",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 262,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9517",
+  "audio_file_name": "911-20250505-0640.mp3",
+  "audio_duration_seconds": 53,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "own",
+    "world",
+    "good",
+    "miss",
+    "explain"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Himself follow purpose before everybody dog poor finish war other money exist pull thus article.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

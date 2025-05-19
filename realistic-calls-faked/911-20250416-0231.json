@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250416-0231",
+  "timestamp_received": "2025-04-16T13:28:18Z",
+  "caller_number": "605779806603920",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 42,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.32374,
+    "longitude": -120.00865,
+    "county": "Sunnyside",
+    "state": "MD",
+    "census_tract": "61003"
+  },
+  "location_type": "Industrial",
+  "incident_address": "46074 Cardenas Key Suite 347, West Stephenview, WY 21550",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 721,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3598",
+  "audio_file_name": "911-20250416-0231.mp3",
+  "audio_duration_seconds": 40,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.7,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "decide",
+    "side",
+    "natural",
+    "focus"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Send sit common matter become goal Mrs source whole first figure trial bed image perform police series dark task magazine front just.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

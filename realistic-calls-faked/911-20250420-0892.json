@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250420-0892",
+  "timestamp_received": "2025-04-20T16:45:39Z",
+  "caller_number": "0620821240",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.55308,
+    "longitude": -87.93341,
+    "county": "Pleasant Prairie",
+    "state": "MD",
+    "census_tract": "58502"
+  },
+  "location_type": "Public Park",
+  "incident_address": "4536 Maria Crossroad Apt. 350, North Johnview, MS 71511",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 442,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2273",
+  "audio_file_name": "911-20250420-0892.mp3",
+  "audio_duration_seconds": 95,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 7.3,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "try",
+    "without",
+    "think",
+    "oil",
+    "agree",
+    "car",
+    "nor"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Experience wait us either even treatment once same keep goal letter chair tonight area majority skin fill by blue student in notice only walk spend.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

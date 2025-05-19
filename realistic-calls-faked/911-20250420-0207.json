@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250420-0207",
+  "timestamp_received": "2025-04-20T19:54:37Z",
+  "caller_number": "999497320331922",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 81,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.72371,
+    "longitude": -73.95097,
+    "county": "Greenpoint",
+    "state": "TN",
+    "census_tract": "31983"
+  },
+  "location_type": "Industrial",
+  "incident_address": "1028 Coleman Mountains, Kevinville, OH 52044",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 988,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2127",
+  "audio_file_name": "911-20250420-0207.mp3",
+  "audio_duration_seconds": 88,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.0,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "help",
+    "history",
+    "listen",
+    "find",
+    "miss"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Back painting degree coach plant everyone central join kid reason economy build tonight present concern term talk side generation interest pay then turn course hear.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250414-0035",
+  "timestamp_received": "2025-04-14T11:51:29Z",
+  "caller_number": "0014097499309",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55838,
+    "longitude": -81.56929,
+    "county": "Collinwood",
+    "state": "NC",
+    "census_tract": "18564"
+  },
+  "location_type": "School",
+  "incident_address": "30913 Scott Manor Apt. 636, Salaston, DC 68485",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 211,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1878",
+  "audio_file_name": "911-20250414-0035.mp3",
+  "audio_duration_seconds": 68,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.9,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "debate",
+    "foot",
+    "production",
+    "moment",
+    "finish",
+    "community",
+    "treatment",
+    "garden"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Put test race sound enough machine whatever everything fear walk word side relate real major look night various return explain of.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

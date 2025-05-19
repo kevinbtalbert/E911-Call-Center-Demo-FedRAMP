@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250424-0903",
+  "timestamp_received": "2025-04-24T09:56:34Z",
+  "caller_number": "00112683905101181",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 68,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25807,
+    "longitude": -88.70464,
+    "county": "Tupelo",
+    "state": "SC",
+    "census_tract": "55026"
+  },
+  "location_type": "Industrial",
+  "incident_address": "9106 Graham Path, Cameronton, DE 37412",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 716,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5367",
+  "audio_file_name": "911-20250424-0903.mp3",
+  "audio_duration_seconds": 68,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 7.6,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "pass",
+    "bag",
+    "social",
+    "vote",
+    "yeah",
+    "director",
+    "conference",
+    "change"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Guy note either career wide operation forget piece business land board together machine test choose.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

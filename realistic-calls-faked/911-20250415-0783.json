@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250415-0783",
+  "timestamp_received": "2025-04-15T12:49:22Z",
+  "caller_number": "0162625104946",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.18924,
+    "longitude": -98.15529,
+    "county": "San Juan",
+    "state": "PA",
+    "census_tract": "73167"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "USCGC Sanchez, FPO AA 87734",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 261,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3387",
+  "audio_file_name": "911-20250415-0783.mp3",
+  "audio_duration_seconds": 78,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.3,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "avoid",
+    "role",
+    "full",
+    "deal",
+    "price",
+    "ahead",
+    "how"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Area ten only view society fall a finally point cut note quite increase draw nor develop himself.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

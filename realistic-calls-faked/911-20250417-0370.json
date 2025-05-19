@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250417-0370",
+  "timestamp_received": "2025-04-17T13:34:14Z",
+  "caller_number": "6008844740837",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 85,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.52487,
+    "longitude": -77.55777,
+    "county": "Bon Air",
+    "state": "SC",
+    "census_tract": "47401"
+  },
+  "location_type": "Commercial",
+  "incident_address": "190 Carter Vista, North Samuel, AR 53410",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 583,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2468",
+  "audio_file_name": "911-20250417-0370.mp3",
+  "audio_duration_seconds": 69,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "number",
+    "risk",
+    "more",
+    "statement",
+    "throw"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Hotel while personal street size woman everything especially join last week mean bring off month five it.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

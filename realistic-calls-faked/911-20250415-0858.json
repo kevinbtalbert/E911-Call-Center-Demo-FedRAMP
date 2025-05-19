@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250415-0858",
+  "timestamp_received": "2025-04-15T06:22:37Z",
+  "caller_number": "0019481001123301",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.93121,
+    "longitude": -73.89875,
+    "county": "Yonkers",
+    "state": "GA",
+    "census_tract": "15466"
+  },
+  "location_type": "Public Park",
+  "incident_address": "5673 Jeffrey Stream Apt. 684, West Johnport, GA 23466",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 458,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1543",
+  "audio_file_name": "911-20250415-0858.mp3",
+  "audio_duration_seconds": 128,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.9,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "soon",
+    "against",
+    "main",
+    "production",
+    "poor",
+    "finish",
+    "current",
+    "purpose"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Single add role happen pass tough role establish modern attention myself however former knowledge condition ago maybe continue expert under well strategy head bag whatever glass.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

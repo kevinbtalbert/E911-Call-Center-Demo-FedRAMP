@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250503-0454",
+  "timestamp_received": "2025-05-03T01:32:03Z",
+  "caller_number": "+1320317266528246",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.85059,
+    "longitude": -87.882,
+    "county": "Westchester",
+    "state": "MD",
+    "census_tract": "22280"
+  },
+  "location_type": "School",
+  "incident_address": "272 Smith Valleys Apt. 208, Beckland, TN 98317",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 1000,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4031",
+  "audio_file_name": "911-20250503-0454.mp3",
+  "audio_duration_seconds": 75,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "help",
+    "admit",
+    "beat",
+    "agency",
+    "she",
+    "evidence"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Many boy west data arm population rise write floor inside pretty describe our several to.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

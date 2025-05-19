@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250414-0041",
+  "timestamp_received": "2025-04-14T12:07:55Z",
+  "caller_number": "+10139837354033",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 50,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.32374,
+    "longitude": -120.00865,
+    "county": "Sunnyside",
+    "state": "PA",
+    "census_tract": "27172"
+  },
+  "location_type": "Public Park",
+  "incident_address": "USS Burgess, FPO AA 32298",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 1052,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2989",
+  "audio_file_name": "911-20250414-0041.mp3",
+  "audio_duration_seconds": 37,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.0,
+  "incident_type": "Gunshots",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "receive",
+    "region",
+    "however",
+    "dream"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 10.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Simply herself move grow end mention market better wonder light style trial have including none determine certainly end various often.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

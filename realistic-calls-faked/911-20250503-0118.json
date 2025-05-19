@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250503-0118",
+  "timestamp_received": "2025-05-03T18:56:26Z",
+  "caller_number": "8952028457",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.82232,
+    "longitude": -74.15987,
+    "county": "Nutley",
+    "state": "PA",
+    "census_tract": "63483"
+  },
+  "location_type": "Residential",
+  "incident_address": "32833 Robert Club, Port Davidtown, MI 41339",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 243,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6798",
+  "audio_file_name": "911-20250503-0118.mp3",
+  "audio_duration_seconds": 171,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.1,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "reality",
+    "catch",
+    "kind",
+    "would"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Shake garden report agreement sport develop task central dinner by candidate bad real six back simple serious amount blue soldier message arrive budget education at.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

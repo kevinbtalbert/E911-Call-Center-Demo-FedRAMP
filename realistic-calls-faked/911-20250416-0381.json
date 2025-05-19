@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250416-0381",
+  "timestamp_received": "2025-04-16T03:39:18Z",
+  "caller_number": "5302151675",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 20,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.78504,
+    "longitude": -85.76942,
+    "county": "Greenfield",
+    "state": "OH",
+    "census_tract": "51062"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "463 Elizabeth Ridges Suite 348, North Aarontown, DE 36694",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 321,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2015",
+  "audio_file_name": "911-20250416-0381.mp3",
+  "audio_duration_seconds": 143,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.6,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "treatment",
+    "inside",
+    "shoulder",
+    "choice"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Star one interesting where floor east front season trial book national baby last manage southern care or share marriage better gun choice take police.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250416-0575",
+  "timestamp_received": "2025-04-16T22:08:43Z",
+  "caller_number": "0011971408346954",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.91023,
+    "longitude": -121.75689,
+    "county": "Watsonville",
+    "state": "VA",
+    "census_tract": "31087"
+  },
+  "location_type": "Public Park",
+  "incident_address": "60958 Robert Curve Suite 456, Wheelerbury, RI 84082",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 1098,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7291",
+  "audio_file_name": "911-20250416-0575.mp3",
+  "audio_duration_seconds": 146,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.6,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "national",
+    "strategy",
+    "number",
+    "American"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Center work back central peace administration per lawyer teacher practice traditional condition summer purpose phone explain image hospital.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

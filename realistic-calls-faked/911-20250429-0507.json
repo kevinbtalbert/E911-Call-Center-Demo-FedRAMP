@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250429-0507",
+  "timestamp_received": "2025-04-29T08:35:11Z",
+  "caller_number": "4662750152",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.54428,
+    "longitude": -84.23381,
+    "county": "Stockbridge",
+    "state": "OH",
+    "census_tract": "71151"
+  },
+  "location_type": "School",
+  "incident_address": "4203 Brown Place Suite 483, North Ashley, NY 65173",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1004,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1453",
+  "audio_file_name": "911-20250429-0507.mp3",
+  "audio_duration_seconds": 173,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 7.8,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "center",
+    "draw",
+    "new",
+    "huge",
+    "religious"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "International somebody ten friend within child care magazine environmental professional garden region.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

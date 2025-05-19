@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250416-0478",
+  "timestamp_received": "2025-04-16T19:36:20Z",
+  "caller_number": "1402503857626",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.7392,
+    "longitude": -84.62081,
+    "county": "Waverly",
+    "state": "NC",
+    "census_tract": "95147"
+  },
+  "location_type": "Residential",
+  "incident_address": "163 Berry Trace Suite 806, West William, AK 94884",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 902,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2698",
+  "audio_file_name": "911-20250416-0478.mp3",
+  "audio_duration_seconds": 157,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.2,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "style",
+    "against",
+    "bag",
+    "shake",
+    "keep",
+    "official",
+    "over"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Whom particular decade service poor mean hard trade tough majority go heavy little through.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

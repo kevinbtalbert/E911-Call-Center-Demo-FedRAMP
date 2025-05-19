@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250412-0883",
+  "timestamp_received": "2025-04-12T00:45:26Z",
+  "caller_number": "00120101544484792",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.7392,
+    "longitude": -84.62081,
+    "county": "Waverly",
+    "state": "SC",
+    "census_tract": "67375"
+  },
+  "location_type": "Public Park",
+  "incident_address": "51870 Erika Extension Apt. 775, East Maxwellview, SC 78750",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 791,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1975",
+  "audio_file_name": "911-20250412-0883.mp3",
+  "audio_duration_seconds": 32,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.3,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "visit",
+    "morning",
+    "off",
+    "ago"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Compare reality black appear policy capital seven area change sell our common game strategy force ground why.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

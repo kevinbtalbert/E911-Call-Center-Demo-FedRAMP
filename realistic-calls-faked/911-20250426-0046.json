@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250426-0046",
+  "timestamp_received": "2025-04-26T12:54:11Z",
+  "caller_number": "0018280737416",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 21,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.76212,
+    "longitude": -95.63079,
+    "county": "Palestine",
+    "state": "KY",
+    "census_tract": "17355"
+  },
+  "location_type": "Public Park",
+  "incident_address": "434 Jennifer Turnpike, Jonesfort, MO 70541",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 827,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8056",
+  "audio_file_name": "911-20250426-0046.mp3",
+  "audio_duration_seconds": 67,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 7.1,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "media",
+    "turn",
+    "reality",
+    "myself",
+    "so"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Reduce speech order trial body eat professor coach partner none population position whom former someone black better develop section newspaper reach.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

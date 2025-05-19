@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250417-0624",
+  "timestamp_received": "2025-04-17T02:33:19Z",
+  "caller_number": "0732466899",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.35843,
+    "longitude": -71.05977,
+    "county": "Boston",
+    "state": "TN",
+    "census_tract": "93920"
+  },
+  "location_type": "Highway",
+  "incident_address": "030 Yates Forks Apt. 779, West Richard, GA 37676",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 919,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5116",
+  "audio_file_name": "911-20250417-0624.mp3",
+  "audio_duration_seconds": 121,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 7.4,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "level",
+    "executive",
+    "month",
+    "black",
+    "various",
+    "court",
+    "behavior",
+    "international"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Each easy sport two ready spring best skin coach happen ball stage arm early drug serve establish rock choice.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

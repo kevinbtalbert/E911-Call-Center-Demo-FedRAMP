@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250417-0597",
+  "timestamp_received": "2025-04-17T09:56:05Z",
+  "caller_number": "0264009333",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.18924,
+    "longitude": -98.15529,
+    "county": "San Juan",
+    "state": "GA",
+    "census_tract": "87193"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "USCGC Sanchez, FPO AP 06080",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 994,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1008",
+  "audio_file_name": "911-20250417-0597.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.7,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "continue",
+    "able",
+    "protect",
+    "door",
+    "night",
+    "language",
+    "college",
+    "pressure"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Nice past month exist voice mind sell include laugh identify security event successful.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

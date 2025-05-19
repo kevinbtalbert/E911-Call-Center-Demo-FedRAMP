@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250419-0243",
+  "timestamp_received": "2025-04-19T04:26:49Z",
+  "caller_number": "5151229462135",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 59,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.54072,
+    "longitude": -116.56346,
+    "county": "Nampa",
+    "state": "NC",
+    "census_tract": "72371"
+  },
+  "location_type": "Highway",
+  "incident_address": "9709 Frey Lakes, Jamesview, AK 64675",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 1182,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7540",
+  "audio_file_name": "911-20250419-0243.mp3",
+  "audio_duration_seconds": 97,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.9,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "five",
+    "cold",
+    "power",
+    "red",
+    "enjoy",
+    "you",
+    "front"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Seek service leader bag necessary candidate within person same affect herself toward here along public recent friend sort.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250506-0495",
+  "timestamp_received": "2025-05-06T11:47:54Z",
+  "caller_number": "58166028413623",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.4251,
+    "longitude": -71.06616,
+    "county": "Malden",
+    "state": "GA",
+    "census_tract": "57663"
+  },
+  "location_type": "School",
+  "incident_address": "0407 John Valley Suite 147, Lebury, DE 73373",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 1111,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4326",
+  "audio_file_name": "911-20250506-0495.mp3",
+  "audio_duration_seconds": 132,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "glass",
+    "floor",
+    "future",
+    "among",
+    "require"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Voice health short also left course station beyond back girl question probably always bit see vote least so especially almost myself red concern more.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

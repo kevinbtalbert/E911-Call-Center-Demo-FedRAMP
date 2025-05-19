@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250509-0422",
+  "timestamp_received": "2025-05-09T23:03:22Z",
+  "caller_number": "+12689334864",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.34912,
+    "longitude": -111.90466,
+    "county": "Saratoga Springs",
+    "state": "KY",
+    "census_tract": "59415"
+  },
+  "location_type": "Industrial",
+  "incident_address": "35067 Stevens Ridges Suite 833, Michaelmouth, NM 58468",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 954,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4823",
+  "audio_file_name": "911-20250509-0422.mp3",
+  "audio_duration_seconds": 87,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 1.8,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "door",
+    "big",
+    "color",
+    "south",
+    "together",
+    "design",
+    "follow",
+    "future"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Race should key toward group popular modern pay push school might represent exactly.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

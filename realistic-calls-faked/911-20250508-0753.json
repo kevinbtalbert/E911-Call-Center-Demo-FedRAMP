@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250508-0753",
+  "timestamp_received": "2025-05-08T15:07:41Z",
+  "caller_number": "0017064937590447",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 20.88953,
+    "longitude": -156.47432,
+    "county": "Kahului",
+    "state": "GA",
+    "census_tract": "38119"
+  },
+  "location_type": "Commercial",
+  "incident_address": "583 Jose Bridge, South Diana, AK 21447",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 258,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1599",
+  "audio_file_name": "911-20250508-0753.mp3",
+  "audio_duration_seconds": 95,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.9,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "support",
+    "international",
+    "happy",
+    "young",
+    "above"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Fly piece anyone take time nation week trouble foreign lot total meet a.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

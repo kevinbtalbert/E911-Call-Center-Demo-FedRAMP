@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250422-0896",
+  "timestamp_received": "2025-04-22T09:02:18Z",
+  "caller_number": "12125798969102",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 53,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 25.67927,
+    "longitude": -80.31727,
+    "county": "Kendall",
+    "state": "PA",
+    "census_tract": "26706"
+  },
+  "location_type": "Industrial",
+  "incident_address": "827 Wendy Highway, Gregoryton, MS 75282",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 337,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3547",
+  "audio_file_name": "911-20250422-0896.mp3",
+  "audio_duration_seconds": 45,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.5,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "on",
+    "spring",
+    "green",
+    "staff",
+    "music"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Bed similar less medical ground international group trial use these answer head father again.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

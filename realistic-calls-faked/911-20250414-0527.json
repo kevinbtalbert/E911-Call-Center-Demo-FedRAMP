@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250414-0527",
+  "timestamp_received": "2025-04-14T18:32:52Z",
+  "caller_number": "835991676403239",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 86,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55815,
+    "longitude": -73.0515,
+    "county": "Waterbury",
+    "state": "OH",
+    "census_tract": "98862"
+  },
+  "location_type": "Public Park",
+  "incident_address": "252 Nicole Roads, Trujilloville, MS 79472",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 1009,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7944",
+  "audio_file_name": "911-20250414-0527.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.2,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "drive",
+    "on",
+    "painting",
+    "person"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Suffer close cost continue past seven election raise everything which soon section investment region my medical the this avoid situation.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

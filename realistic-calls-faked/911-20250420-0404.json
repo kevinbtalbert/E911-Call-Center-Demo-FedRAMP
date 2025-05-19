@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250420-0404",
+  "timestamp_received": "2025-04-20T03:35:51Z",
+  "caller_number": "0777321750",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 37,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.52515,
+    "longitude": -93.75018,
+    "county": "Shreveport",
+    "state": "VA",
+    "census_tract": "64484"
+  },
+  "location_type": "Highway",
+  "incident_address": "202 Whitaker Summit, New Jamesfort, IL 60744",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 729,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6286",
+  "audio_file_name": "911-20250420-0404.mp3",
+  "audio_duration_seconds": 173,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.6,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "American",
+    "fear",
+    "contain",
+    "family",
+    "you"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Suggest expert participant sister management agent seek movement tend simple firm assume why above student including baby serious author.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

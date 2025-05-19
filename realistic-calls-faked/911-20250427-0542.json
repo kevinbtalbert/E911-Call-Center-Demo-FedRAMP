@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250427-0542",
+  "timestamp_received": "2025-04-27T06:46:48Z",
+  "caller_number": "71074043368957",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 71,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 30.17746,
+    "longitude": -81.38758,
+    "county": "Palm Valley",
+    "state": "NC",
+    "census_tract": "78327"
+  },
+  "location_type": "Public Park",
+  "incident_address": "246 Elizabeth Islands Apt. 109, North Ericaton, CT 65560",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 132,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1130",
+  "audio_file_name": "911-20250427-0542.mp3",
+  "audio_duration_seconds": 92,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.1,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "new",
+    "gun",
+    "risk",
+    "activity",
+    "answer"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Professor north clear several phone reflect pay allow activity push per though hair person owner especially leave realize professional view.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

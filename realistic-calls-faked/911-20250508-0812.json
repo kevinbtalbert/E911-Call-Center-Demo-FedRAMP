@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250508-0812",
+  "timestamp_received": "2025-05-08T21:13:24Z",
+  "caller_number": "+1308048088611258",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.00622,
+    "longitude": -77.4286,
+    "county": "Sterling",
+    "state": "OH",
+    "census_tract": "16959"
+  },
+  "location_type": "Highway",
+  "incident_address": "306 Maldonado Tunnel Suite 721, East Seanfurt, CT 00604",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 960,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2981",
+  "audio_file_name": "911-20250508-0812.mp3",
+  "audio_duration_seconds": 150,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 7.2,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "north",
+    "tonight",
+    "who",
+    "surface",
+    "the"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Too wind tree campaign free usually low stock later authority later according house improve population ever yeah story beyond line dog themselves.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250427-0180",
+  "timestamp_received": "2025-04-27T04:19:48Z",
+  "caller_number": "+134383640412091",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 30,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55815,
+    "longitude": -73.0515,
+    "county": "Waterbury",
+    "state": "NC",
+    "census_tract": "16014"
+  },
+  "location_type": "Residential",
+  "incident_address": "24421 Troy Lake, South Craig, AK 54731",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 409,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6384",
+  "audio_file_name": "911-20250427-0180.mp3",
+  "audio_duration_seconds": 121,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.8,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "available",
+    "where",
+    "baby",
+    "reach"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Threat plant late claim federal tough process piece talk bring garden get yet outside above miss effort business paper movie military.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

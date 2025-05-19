@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250420-0411",
+  "timestamp_received": "2025-04-20T12:42:16Z",
+  "caller_number": "719189866469365",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 64,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 27.09978,
+    "longitude": -82.45426,
+    "county": "Venice",
+    "state": "MD",
+    "census_tract": "50088"
+  },
+  "location_type": "School",
+  "incident_address": "335 Baker Skyway, Fostertown, TX 61935",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 828,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8878",
+  "audio_file_name": "911-20250420-0411.mp3",
+  "audio_duration_seconds": 48,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.2,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "any",
+    "control",
+    "drug",
+    "second"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Suggest soon become enter talk south beyond control agent growth major describe sure century relationship recognize defense radio decision your if else control night.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

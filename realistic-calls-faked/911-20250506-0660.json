@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250506-0660",
+  "timestamp_received": "2025-05-06T21:12:14Z",
+  "caller_number": "08593565352437",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 68,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.65995,
+    "longitude": -111.99633,
+    "county": "Kearns",
+    "state": "KY",
+    "census_tract": "27346"
+  },
+  "location_type": "Public Park",
+  "incident_address": "76557 Todd Wall Suite 852, Charlesburgh, WA 72696",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 1191,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4160",
+  "audio_file_name": "911-20250506-0660.mp3",
+  "audio_duration_seconds": 155,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.2,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "stop",
+    "information",
+    "soldier",
+    "suffer",
+    "anything",
+    "process",
+    "south",
+    "significant"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "System open play compare event rate suggest into theory decade person many question once very pattern.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

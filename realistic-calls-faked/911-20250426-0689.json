@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250426-0689",
+  "timestamp_received": "2025-04-26T21:09:48Z",
+  "caller_number": "+12912789885",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.54428,
+    "longitude": -84.23381,
+    "county": "Stockbridge",
+    "state": "TN",
+    "census_tract": "37426"
+  },
+  "location_type": "Highway",
+  "incident_address": "PSC 2499, Box 1960, APO AP 69946",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 451,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1385",
+  "audio_file_name": "911-20250426-0689.mp3",
+  "audio_duration_seconds": 34,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.9,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "factor",
+    "rest",
+    "girl",
+    "yourself",
+    "sing",
+    "then"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Let dinner relationship everything lay indicate buy fly not wife against start itself performance eight natural.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

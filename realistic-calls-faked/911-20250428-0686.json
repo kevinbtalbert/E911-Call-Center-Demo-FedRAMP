@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250428-0686",
+  "timestamp_received": "2025-04-28T20:47:36Z",
+  "caller_number": "04393516026957",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.71715,
+    "longitude": -122.40433,
+    "county": "Visitacion Valley",
+    "state": "MD",
+    "census_tract": "98566"
+  },
+  "location_type": "Highway",
+  "incident_address": "Unit 5266 Box 8480, DPO AE 87852",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 797,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8073",
+  "audio_file_name": "911-20250428-0686.mp3",
+  "audio_duration_seconds": 52,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.3,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "scientist",
+    "interview",
+    "hundred",
+    "model",
+    "least",
+    "change",
+    "strong",
+    "network"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Full maintain though church stop water discover party activity what several group outside career recently support among president.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

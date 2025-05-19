@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250421-0087",
+  "timestamp_received": "2025-04-21T21:42:14Z",
+  "caller_number": "00118376452088147",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.35283,
+    "longitude": -111.78903,
+    "county": "Gilbert",
+    "state": "KY",
+    "census_tract": "51853"
+  },
+  "location_type": "Industrial",
+  "incident_address": "0313 Nguyen Expressway, Brendafurt, IA 01671",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 876,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3142",
+  "audio_file_name": "911-20250421-0087.mp3",
+  "audio_duration_seconds": 124,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "why",
+    "ok",
+    "real",
+    "read",
+    "choice"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Eat matter rather full wide service art green child movie blue maintain first next.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

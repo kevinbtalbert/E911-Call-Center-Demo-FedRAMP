@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250501-0854",
+  "timestamp_received": "2025-05-01T19:59:37Z",
+  "caller_number": "801153609643945",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 37,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.78504,
+    "longitude": -85.76942,
+    "county": "Greenfield",
+    "state": "OH",
+    "census_tract": "19979"
+  },
+  "location_type": "Commercial",
+  "incident_address": "497 David Alley, Johnsonville, ID 44379",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 397,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1876",
+  "audio_file_name": "911-20250501-0854.mp3",
+  "audio_duration_seconds": 82,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.8,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "cut",
+    "piece",
+    "window",
+    "ahead",
+    "determine"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Whole seat until quality young national teach positive read why admit son yes many enter everybody third form green yard.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

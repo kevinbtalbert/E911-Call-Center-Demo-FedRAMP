@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250421-0032",
+  "timestamp_received": "2025-04-21T06:35:48Z",
+  "caller_number": "67866912517785",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 46,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.08014,
+    "longitude": -83.2321,
+    "county": "Milledgeville",
+    "state": "OH",
+    "census_tract": "74038"
+  },
+  "location_type": "Highway",
+  "incident_address": "68018 Kevin Estates, Sarahbury, NC 37731",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 1035,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9041",
+  "audio_file_name": "911-20250421-0032.mp3",
+  "audio_duration_seconds": 144,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.0,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "suffer",
+    "economy",
+    "play",
+    "nearly",
+    "by",
+    "field",
+    "move",
+    "maybe"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Option oil commercial person top front under American tell ball we side enough decision occur peace.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

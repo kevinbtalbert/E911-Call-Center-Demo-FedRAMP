@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250420-0421",
+  "timestamp_received": "2025-04-20T06:34:07Z",
+  "caller_number": "26838488763802",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 27,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.71715,
+    "longitude": -122.40433,
+    "county": "Visitacion Valley",
+    "state": "NC",
+    "census_tract": "67002"
+  },
+  "location_type": "Industrial",
+  "incident_address": "USCGC Ross, FPO AE 31669",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 388,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6349",
+  "audio_file_name": "911-20250420-0421.mp3",
+  "audio_duration_seconds": 128,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 3.3,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "order",
+    "race",
+    "Congress",
+    "very",
+    "skill"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Agreement sure scene natural southern between up positive music poor suggest six better short spring ago still according I resource sure other their another only detail single.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

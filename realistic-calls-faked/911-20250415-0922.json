@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250415-0922",
+  "timestamp_received": "2025-04-15T10:51:41Z",
+  "caller_number": "9176707002",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 79,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.49428,
+    "longitude": -122.86705,
+    "county": "Aloha",
+    "state": "NC",
+    "census_tract": "27819"
+  },
+  "location_type": "Industrial",
+  "incident_address": "624 Rogers Mills Suite 300, New Amy, SC 99422",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 366,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6037",
+  "audio_file_name": "911-20250415-0922.mp3",
+  "audio_duration_seconds": 48,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 4.9,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "always",
+    "would",
+    "whose",
+    "interest",
+    "week",
+    "street",
+    "film"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Because several music myself run story over memory recent own cover condition decide ok cold need use may agent rate like head write society most skill expert.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

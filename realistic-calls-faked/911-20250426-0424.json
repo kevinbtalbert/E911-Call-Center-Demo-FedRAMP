@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0424",
+  "timestamp_received": "2025-04-26T09:49:28Z",
+  "caller_number": "6794036640163",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 79,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.47892,
+    "longitude": -87.45476,
+    "county": "Schererville",
+    "state": "MD",
+    "census_tract": "29323"
+  },
+  "location_type": "Highway",
+  "incident_address": "USNV Castillo, FPO AA 66827",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 358,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1562",
+  "audio_file_name": "911-20250426-0424.mp3",
+  "audio_duration_seconds": 111,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 10.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "product",
+    "than",
+    "great",
+    "war",
+    "hand"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Over reflect challenge keep bit hour nice sea represent carry stop former happy relate fight clear.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

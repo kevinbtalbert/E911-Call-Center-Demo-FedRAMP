@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250414-0748",
+  "timestamp_received": "2025-04-14T23:32:29Z",
+  "caller_number": "4881605801",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.33427,
+    "longitude": -76.43941,
+    "county": "Middle River",
+    "state": "PA",
+    "census_tract": "47889"
+  },
+  "location_type": "Commercial",
+  "incident_address": "7082 Vasquez Plaza Suite 504, Jessicaland, ME 37069",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 286,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5705",
+  "audio_file_name": "911-20250414-0748.mp3",
+  "audio_duration_seconds": 66,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.8,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "second",
+    "person",
+    "under",
+    "she",
+    "see",
+    "management",
+    "pick",
+    "morning"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Record summer ask standard dinner protect price woman think improve edge pay yes.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

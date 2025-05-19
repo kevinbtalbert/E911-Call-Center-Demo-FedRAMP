@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250501-0335",
+  "timestamp_received": "2025-05-01T01:50:58Z",
+  "caller_number": "16342125450809",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 54,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.63915,
+    "longitude": -120.45794,
+    "county": "Lompoc",
+    "state": "NC",
+    "census_tract": "40862"
+  },
+  "location_type": "Public Park",
+  "incident_address": "152 Carlson Islands Suite 966, Meganburgh, IA 02276",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 388,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8190",
+  "audio_file_name": "911-20250501-0335.mp3",
+  "audio_duration_seconds": 111,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.8,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "law",
+    "wonder",
+    "carry",
+    "happy",
+    "response",
+    "would",
+    "enter"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Business sport apply property enter name crime society church indeed break since though degree special laugh include price leader bit traditional.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

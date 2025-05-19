@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250507-0923",
+  "timestamp_received": "2025-05-07T09:35:43Z",
+  "caller_number": "0016530924643081",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 43,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.54491,
+    "longitude": -121.74052,
+    "county": "Davis",
+    "state": "NC",
+    "census_tract": "31623"
+  },
+  "location_type": "School",
+  "incident_address": "57504 Devin Manor, Torresbury, MN 96304",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 1050,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4790",
+  "audio_file_name": "911-20250507-0923.mp3",
+  "audio_duration_seconds": 50,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.9,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "set",
+    "occur",
+    "study",
+    "firm",
+    "whose",
+    "positive"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Discussion expert now process interest concern space education just able woman charge quite maybe loss audience any effort moment suddenly month serious evening.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250427-0674",
+  "timestamp_received": "2025-04-27T20:26:39Z",
+  "caller_number": "+147436939089413",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.27621,
+    "longitude": -72.86843,
+    "county": "East Haven",
+    "state": "KY",
+    "census_tract": "28579"
+  },
+  "location_type": "Public Park",
+  "incident_address": "671 Douglas Flats Apt. 542, Dianaburgh, SC 09382",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 1186,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1417",
+  "audio_file_name": "911-20250427-0674.mp3",
+  "audio_duration_seconds": 141,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.9,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "billion",
+    "whom",
+    "on",
+    "among",
+    "sense",
+    "over"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Official coach officer as consider north perform scene operation rock direction sign.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

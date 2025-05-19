@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250505-0420",
+  "timestamp_received": "2025-05-05T02:43:20Z",
+  "caller_number": "946989062327237",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.82232,
+    "longitude": -74.15987,
+    "county": "Nutley",
+    "state": "OH",
+    "census_tract": "48517"
+  },
+  "location_type": "Highway",
+  "incident_address": "23790 Jeanette Underpass, Stewartview, VT 71562",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 353,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9520",
+  "audio_file_name": "911-20250505-0420.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 8.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "physical",
+    "large",
+    "provide",
+    "need",
+    "special"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Ok reflect audience social inside finish dark modern writer these name person always laugh decision method good ask management around ok hard would.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

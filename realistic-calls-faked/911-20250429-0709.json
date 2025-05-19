@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250429-0709",
+  "timestamp_received": "2025-04-29T03:35:02Z",
+  "caller_number": "6395257477",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.64621,
+    "longitude": -73.97069,
+    "county": "Kensington",
+    "state": "GA",
+    "census_tract": "48099"
+  },
+  "location_type": "Commercial",
+  "incident_address": "2123 Robertson Mills, Patrickland, RI 11168",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 1021,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1397",
+  "audio_file_name": "911-20250429-0709.mp3",
+  "audio_duration_seconds": 174,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 7.4,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "until",
+    "series",
+    "strategy",
+    "light",
+    "health",
+    "or",
+    "protect",
+    "summer"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Camera cost organization police agreement art operation floor go box discover focus hair allow role attack difference.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

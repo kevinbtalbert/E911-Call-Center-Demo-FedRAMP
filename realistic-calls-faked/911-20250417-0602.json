@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250417-0602",
+  "timestamp_received": "2025-04-17T04:28:16Z",
+  "caller_number": "9221689745",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.78504,
+    "longitude": -85.76942,
+    "county": "Greenfield",
+    "state": "SC",
+    "census_tract": "52661"
+  },
+  "location_type": "Industrial",
+  "incident_address": "1473 Bradley Gardens, New Davidport, CO 24043",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 1022,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1753",
+  "audio_file_name": "911-20250417-0602.mp3",
+  "audio_duration_seconds": 129,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.9,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "including",
+    "in",
+    "huge",
+    "amount"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Cut beat including green member industry certainly law forward change lead catch approach drop pick list arm.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

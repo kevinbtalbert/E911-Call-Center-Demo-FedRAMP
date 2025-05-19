@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250503-0538",
+  "timestamp_received": "2025-05-03T06:59:27Z",
+  "caller_number": "950263560777894",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 81,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.09273,
+    "longitude": -88.64235,
+    "county": "Iron River",
+    "state": "NY",
+    "census_tract": "46608"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "PSC 3327, Box 6399, APO AE 34953",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 535,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5871",
+  "audio_file_name": "911-20250503-0538.mp3",
+  "audio_duration_seconds": 156,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 5.7,
+  "incident_type": "Gunshots",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "question",
+    "in",
+    "ahead",
+    "concern",
+    "score",
+    "each"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Help produce standard center whether threat none contain rate change nor hear front age bit significant also poor trouble agency return what question common argue once.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

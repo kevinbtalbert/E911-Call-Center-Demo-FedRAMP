@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250421-0643",
+  "timestamp_received": "2025-04-21T21:13:14Z",
+  "caller_number": "4432969142200",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 42,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.68066,
+    "longitude": -73.47429,
+    "county": "Massapequa",
+    "state": "NY",
+    "census_tract": "93941"
+  },
+  "location_type": "Highway",
+  "incident_address": "76835 Steven Causeway, Dorseymouth, NJ 14450",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 152,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7250",
+  "audio_file_name": "911-20250421-0643.mp3",
+  "audio_duration_seconds": 82,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.1,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "argue",
+    "trouble",
+    "could",
+    "seek",
+    "design",
+    "add",
+    "onto"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Program deep wish garden room interest whatever use those exist hard including look.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

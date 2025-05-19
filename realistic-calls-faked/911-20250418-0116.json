@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250418-0116",
+  "timestamp_received": "2025-04-18T19:03:15Z",
+  "caller_number": "7599805626",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.68066,
+    "longitude": -73.47429,
+    "county": "Massapequa",
+    "state": "PA",
+    "census_tract": "55332"
+  },
+  "location_type": "Residential",
+  "incident_address": "45547 Jason Mills Suite 742, Chandlerchester, OR 78873",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 955,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4803",
+  "audio_file_name": "911-20250418-0116.mp3",
+  "audio_duration_seconds": 49,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 1.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "beat",
+    "debate",
+    "listen",
+    "test",
+    "would",
+    "at",
+    "whether"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Because important trial increase new report sense carry control high network amount step strong fight nice less agree able enjoy what.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

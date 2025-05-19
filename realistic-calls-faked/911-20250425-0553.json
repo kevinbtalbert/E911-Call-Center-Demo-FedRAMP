@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250425-0553",
+  "timestamp_received": "2025-04-25T00:24:41Z",
+  "caller_number": "5460189113",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 42,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.14676,
+    "longitude": -73.49484,
+    "county": "New Canaan",
+    "state": "PA",
+    "census_tract": "74058"
+  },
+  "location_type": "Highway",
+  "incident_address": "8571 Jason Trafficway, Holtmouth, ND 55028",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 701,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4862",
+  "audio_file_name": "911-20250425-0553.mp3",
+  "audio_duration_seconds": 112,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.0,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "beautiful",
+    "management",
+    "face",
+    "campaign",
+    "should",
+    "character",
+    "significant"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Beat receive data base difference begin option figure alone peace week anything nation month audience here include special citizen bring occur put than already child provide court.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

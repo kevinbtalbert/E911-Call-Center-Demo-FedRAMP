@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250430-0772",
+  "timestamp_received": "2025-04-30T07:34:33Z",
+  "caller_number": "243759686862748",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.93113,
+    "longitude": -117.54866,
+    "county": "Norco",
+    "state": "MD",
+    "census_tract": "44588"
+  },
+  "location_type": "Industrial",
+  "incident_address": "09715 Freeman Isle, Allenborough, WV 28823",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 305,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7807",
+  "audio_file_name": "911-20250430-0772.mp3",
+  "audio_duration_seconds": 30,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.5,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "his",
+    "teach",
+    "risk",
+    "because"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "High share miss at adult city movement water sell if visit politics strategy specific budget drive bag society argue everything.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

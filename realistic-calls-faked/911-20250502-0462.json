@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250502-0462",
+  "timestamp_received": "2025-05-02T14:49:17Z",
+  "caller_number": "+15311123590426",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 22,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.14251,
+    "longitude": -118.25508,
+    "county": "Glendale",
+    "state": "NC",
+    "census_tract": "96867"
+  },
+  "location_type": "Highway",
+  "incident_address": "2866 Linda Key Apt. 085, Walkerborough, VT 89223",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 1036,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3591",
+  "audio_file_name": "911-20250502-0462.mp3",
+  "audio_duration_seconds": 37,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.7,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "glass",
+    "fall",
+    "west",
+    "employee",
+    "series",
+    "with",
+    "sometimes",
+    "statement"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Ball discussion behind live top fight stock fine range read recognize under individual listen name blue lay easy economic believe successful suffer property store hear institution return thank.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

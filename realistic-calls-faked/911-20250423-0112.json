@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250423-0112",
+  "timestamp_received": "2025-04-23T05:38:22Z",
+  "caller_number": "5693929060",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.57721,
+    "longitude": -93.71133,
+    "county": "West Des Moines",
+    "state": "VA",
+    "census_tract": "38668"
+  },
+  "location_type": "Highway",
+  "incident_address": "806 Mendoza Union Apt. 773, New Karenchester, DC 47477",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 824,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1990",
+  "audio_file_name": "911-20250423-0112.mp3",
+  "audio_duration_seconds": 153,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 5.8,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "fast",
+    "positive",
+    "before",
+    "look"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Class learn now on with less catch reflect continue the phone region ability physical his real most fast send.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

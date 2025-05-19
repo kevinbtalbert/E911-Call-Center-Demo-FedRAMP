@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250428-0921",
+  "timestamp_received": "2025-04-28T14:42:58Z",
+  "caller_number": "+14292101727482",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 70,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.92946,
+    "longitude": -116.97725,
+    "county": "Beaumont",
+    "state": "TN",
+    "census_tract": "12216"
+  },
+  "location_type": "Highway",
+  "incident_address": "75079 Young Fork Apt. 404, Velasquezchester, SD 83488",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 829,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4465",
+  "audio_file_name": "911-20250428-0921.mp3",
+  "audio_duration_seconds": 112,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.2,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "five",
+    "particular",
+    "hot",
+    "loss"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Go appear interest unit most ready single job structure type degree memory recent large benefit this leg concern offer.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

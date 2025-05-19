@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250425-0549",
+  "timestamp_received": "2025-04-25T02:34:16Z",
+  "caller_number": "001573562327700453",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 25,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "NC",
+    "census_tract": "76127"
+  },
+  "location_type": "Industrial",
+  "incident_address": "973 Shelly Trail Suite 322, Lisamouth, AK 41418",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 101,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1241",
+  "audio_file_name": "911-20250425-0549.mp3",
+  "audio_duration_seconds": 168,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "remember",
+    "small",
+    "among",
+    "risk",
+    "charge",
+    "garden",
+    "face",
+    "improve"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Risk red development often last trip leader although bit indeed wife Mr west growth on point ten hundred population do hospital skill them herself act white everything.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

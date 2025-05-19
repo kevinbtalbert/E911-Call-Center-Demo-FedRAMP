@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250420-0788",
+  "timestamp_received": "2025-04-20T07:31:08Z",
+  "caller_number": "+151438255203286",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 60,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "OH",
+    "census_tract": "24249"
+  },
+  "location_type": "School",
+  "incident_address": "198 Kimberly Ferry, Port Cassandra, AZ 44916",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 222,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8606",
+  "audio_file_name": "911-20250420-0788.mp3",
+  "audio_duration_seconds": 32,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.9,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "crime",
+    "wife",
+    "major",
+    "threat"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Different apply no month affect scene PM less I central read assume ten but admit actually majority big leader own within fall treat fill view.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

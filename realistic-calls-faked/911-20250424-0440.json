@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250424-0440",
+  "timestamp_received": "2025-04-24T02:59:51Z",
+  "caller_number": "5780378912",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 31,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.72371,
+    "longitude": -73.95097,
+    "county": "Greenpoint",
+    "state": "TN",
+    "census_tract": "49213"
+  },
+  "location_type": "School",
+  "incident_address": "3699 Luis Isle Suite 575, Heiditown, WV 36972",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 602,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4490",
+  "audio_file_name": "911-20250424-0440.mp3",
+  "audio_duration_seconds": 30,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.4,
+  "incident_type": "Gunshots",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "cost",
+    "thus",
+    "a",
+    "industry",
+    "who",
+    "note",
+    "any"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Grow check part myself address at any former least do series he throw bar five know behavior development professional.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

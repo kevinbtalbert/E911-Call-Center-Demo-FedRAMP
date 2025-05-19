@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250418-0571",
+  "timestamp_received": "2025-04-18T20:48:50Z",
+  "caller_number": "122150396558681",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.06084,
+    "longitude": -97.92977,
+    "county": "Hutchinson",
+    "state": "OH",
+    "census_tract": "31671"
+  },
+  "location_type": "School",
+  "incident_address": "41589 Jason Landing, Port Amy, VT 87206",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 362,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4283",
+  "audio_file_name": "911-20250418-0571.mp3",
+  "audio_duration_seconds": 74,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.7,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "husband",
+    "beyond",
+    "development",
+    "finish"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Short ago only size loss smile activity yard this attention talk specific.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

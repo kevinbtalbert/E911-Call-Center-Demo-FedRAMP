@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250510-0047",
+  "timestamp_received": "2025-05-10T07:25:38Z",
+  "caller_number": "5679825071461",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 45,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.60876,
+    "longitude": -77.37331,
+    "county": "Mechanicsville",
+    "state": "MD",
+    "census_tract": "93611"
+  },
+  "location_type": "Public Park",
+  "incident_address": "4573 Bailey Court, Bowenmouth, CA 39857",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 582,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1153",
+  "audio_file_name": "911-20250510-0047.mp3",
+  "audio_duration_seconds": 149,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 5.0,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "and",
+    "represent",
+    "against",
+    "gas",
+    "body",
+    "son",
+    "upon"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Might necessary former interview left something picture control price how scene third last involve above Democrat everything region.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

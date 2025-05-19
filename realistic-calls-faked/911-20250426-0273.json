@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250426-0273",
+  "timestamp_received": "2025-04-26T18:49:35Z",
+  "caller_number": "9053486401",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 60,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.73941,
+    "longitude": -93.12577,
+    "county": "Rosemount",
+    "state": "NC",
+    "census_tract": "86379"
+  },
+  "location_type": "Residential",
+  "incident_address": "246 Juan Vista Suite 185, South Kyleport, AK 03928",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 1105,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7622",
+  "audio_file_name": "911-20250426-0273.mp3",
+  "audio_duration_seconds": 62,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.1,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "wonder",
+    "foreign",
+    "Republican",
+    "thank",
+    "use",
+    "owner",
+    "surface",
+    "guy"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Window should five buy office old bad any find set senior tree bag require.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

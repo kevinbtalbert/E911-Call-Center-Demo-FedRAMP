@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250506-0256",
+  "timestamp_received": "2025-05-06T20:08:04Z",
+  "caller_number": "121377306260423",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 36,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.7392,
+    "longitude": -84.62081,
+    "county": "Waverly",
+    "state": "OH",
+    "census_tract": "82134"
+  },
+  "location_type": "School",
+  "incident_address": "71122 Joy Rapids Apt. 775, Smithhaven, UT 48773",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 409,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6491",
+  "audio_file_name": "911-20250506-0256.mp3",
+  "audio_duration_seconds": 174,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.6,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "play",
+    "blood",
+    "list",
+    "everything",
+    "newspaper",
+    "institution"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Beautiful there professor listen medical during until case agency beat cost cultural process.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

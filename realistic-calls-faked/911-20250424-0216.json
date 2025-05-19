@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250424-0216",
+  "timestamp_received": "2025-04-24T18:49:28Z",
+  "caller_number": "+1588863677472264",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 52,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.33427,
+    "longitude": -76.43941,
+    "county": "Middle River",
+    "state": "NC",
+    "census_tract": "62288"
+  },
+  "location_type": "Industrial",
+  "incident_address": "2169 Mccann Loop Apt. 093, New Christine, PA 75288",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 215,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3924",
+  "audio_file_name": "911-20250424-0216.mp3",
+  "audio_duration_seconds": 151,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 9.0,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "rule",
+    "watch",
+    "foot",
+    "economic",
+    "notice"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Range weight age over smile hope memory cover tree leader rich dream line require current car ask air officer learn raise kitchen drop computer.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

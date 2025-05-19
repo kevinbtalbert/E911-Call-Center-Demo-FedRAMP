@@ -1,0 +1,30 @@
+{
+  "call_id": "911-20250512-0001",
+  "timestamp_received": "2025-05-12T08:31:00Z",
+  "caller_number": "+15558314096",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.705883,
+    "longitude": -81.977486,
+    "county": "Washington",
+    "state": "VA",
+    "census_tract": "51530"
+  },
+  "location_type": "Residential",
+  "incident_address": "123 Elm St, Abingdon, VA 24210",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 558,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1853",
+  "audio_file_name": "abingdon_fire_911_1.mp3",
+  "audio_duration_seconds": 93,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.0
+}

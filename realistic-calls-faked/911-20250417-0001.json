@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250417-0001",
+  "timestamp_received": "2025-04-17T09:42:36Z",
+  "caller_number": "4332181960",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.32011,
+    "longitude": -76.51552,
+    "county": "Rosedale",
+    "state": "GA",
+    "census_tract": "39256"
+  },
+  "location_type": "Commercial",
+  "incident_address": "89083 Robinson Radial, Lisatown, GA 92007",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 1176,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2424",
+  "audio_file_name": "911-20250417-0001.mp3",
+  "audio_duration_seconds": 138,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.0,
+  "incident_type": "Gunshots",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "institution",
+    "everyone",
+    "democratic",
+    "shake",
+    "bill",
+    "here",
+    "grow",
+    "gas"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Southern role movie win her need stop peace technology officer relate animal direction eye bag do big everyone.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

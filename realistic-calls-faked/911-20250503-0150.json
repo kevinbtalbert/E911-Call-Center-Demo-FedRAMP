@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250503-0150",
+  "timestamp_received": "2025-05-03T12:38:05Z",
+  "caller_number": "68151185672438",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 27,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.91817,
+    "longitude": -78.19444,
+    "county": "Front Royal",
+    "state": "KY",
+    "census_tract": "26059"
+  },
+  "location_type": "Residential",
+  "incident_address": "76563 Johnson Glen, Lake Sallymouth, WA 61350",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 163,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3752",
+  "audio_file_name": "911-20250503-0150.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "machine",
+    "attention",
+    "nature",
+    "drug",
+    "wear",
+    "cell"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Success color adult beyond family movement hospital back shake quality child group describe alone push democratic recent student specific.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

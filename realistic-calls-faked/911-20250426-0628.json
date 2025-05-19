@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0628",
+  "timestamp_received": "2025-04-26T20:19:25Z",
+  "caller_number": "00194398844278952",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 27,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.27621,
+    "longitude": -72.86843,
+    "county": "East Haven",
+    "state": "OH",
+    "census_tract": "51015"
+  },
+  "location_type": "Highway",
+  "incident_address": "1794 Swanson Junction, Cassandrastad, RI 46905",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 441,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7270",
+  "audio_file_name": "911-20250426-0628.mp3",
+  "audio_duration_seconds": 81,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.0,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "successful",
+    "run",
+    "then",
+    "community",
+    "rise"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Manage them race tell song keep blood direction sure use evidence age degree whole.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250506-0738",
+  "timestamp_received": "2025-05-06T21:00:44Z",
+  "caller_number": "1741647763103",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 43,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.90054,
+    "longitude": -81.26367,
+    "county": "Deltona",
+    "state": "SC",
+    "census_tract": "34922"
+  },
+  "location_type": "Highway",
+  "incident_address": "319 Morales Centers, West Kyle, CT 54672",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 197,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4715",
+  "audio_file_name": "911-20250506-0738.mp3",
+  "audio_duration_seconds": 156,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.8,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "member",
+    "turn",
+    "everyone",
+    "order"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Half way measure total conference raise base professor direction meet significant term task somebody tell plan even second quite.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

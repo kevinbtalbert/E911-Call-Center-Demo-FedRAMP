@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250506-0956",
+  "timestamp_received": "2025-05-06T08:24:29Z",
+  "caller_number": "7061668464",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.64621,
+    "longitude": -73.97069,
+    "county": "Kensington",
+    "state": "GA",
+    "census_tract": "38113"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "098 Martinez Inlet, New Danielfurt, MO 79716",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 894,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2364",
+  "audio_file_name": "911-20250506-0956.mp3",
+  "audio_duration_seconds": 159,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "cause",
+    "sit",
+    "effort",
+    "eight",
+    "force",
+    "key",
+    "sure"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Material leave bar develop number table practice identify agent will avoid account produce evening quality far body save citizen.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

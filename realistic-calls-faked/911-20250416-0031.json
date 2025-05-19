@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250416-0031",
+  "timestamp_received": "2025-04-16T04:58:10Z",
+  "caller_number": "5719285654310",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.55308,
+    "longitude": -87.93341,
+    "county": "Pleasant Prairie",
+    "state": "GA",
+    "census_tract": "70910"
+  },
+  "location_type": "Highway",
+  "incident_address": "681 Hampton Squares Suite 394, Gonzalezberg, CA 59751",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 836,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6511",
+  "audio_file_name": "911-20250416-0031.mp3",
+  "audio_duration_seconds": 37,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.4,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "common",
+    "require",
+    "young",
+    "specific",
+    "whose",
+    "worry"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Remember nearly face feel church remember record company gun difference world society door management guess occur level work candidate this.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

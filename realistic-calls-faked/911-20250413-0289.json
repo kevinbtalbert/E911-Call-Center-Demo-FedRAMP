@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250413-0289",
+  "timestamp_received": "2025-04-13T18:57:56Z",
+  "caller_number": "+10872617607234",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.1009,
+    "longitude": -75.23266,
+    "county": "Utica",
+    "state": "MD",
+    "census_tract": "95699"
+  },
+  "location_type": "Residential",
+  "incident_address": "935 Santos Pike, Lake Penny, AK 37817",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 153,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4976",
+  "audio_file_name": "911-20250413-0289.mp3",
+  "audio_duration_seconds": 63,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.4,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "stock",
+    "today",
+    "whether",
+    "thought",
+    "brother",
+    "central",
+    "reason"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Its air source six image several name chair produce behavior nearly of general piece type describe no speak better store think short southern finish front under build.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

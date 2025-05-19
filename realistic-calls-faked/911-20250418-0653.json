@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250418-0653",
+  "timestamp_received": "2025-04-18T20:39:47Z",
+  "caller_number": "9044813881901",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.06635,
+    "longitude": -84.67837,
+    "county": "Acworth",
+    "state": "PA",
+    "census_tract": "95490"
+  },
+  "location_type": "School",
+  "incident_address": "6767 Butler Cliffs Suite 249, Rojasville, AZ 74981",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 904,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1833",
+  "audio_file_name": "911-20250418-0653.mp3",
+  "audio_duration_seconds": 81,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.0,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "check",
+    "behind",
+    "instead",
+    "former",
+    "use"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Thank level sometimes can check day above region glass discover laugh them key price follow couple chance pay government open ready mother model new.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250429-0191",
+  "timestamp_received": "2025-04-29T20:26:58Z",
+  "caller_number": "0258835868122",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 85,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.35283,
+    "longitude": -111.78903,
+    "county": "Gilbert",
+    "state": "NY",
+    "census_tract": "35751"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "2446 Sabrina Rue Suite 679, New Jeanette, WI 86865",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 662,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8353",
+  "audio_file_name": "911-20250429-0191.mp3",
+  "audio_duration_seconds": 75,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.6,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "moment",
+    "can",
+    "food",
+    "western"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Once stop attack ahead run discuss professor material quickly food discuss sign true somebody black thing rock himself wind two.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

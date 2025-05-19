@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250508-0297",
+  "timestamp_received": "2025-05-08T20:00:25Z",
+  "caller_number": "20385934015364",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 27,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.64995,
+    "longitude": -117.23991,
+    "county": "Opportunity",
+    "state": "OH",
+    "census_tract": "78389"
+  },
+  "location_type": "School",
+  "incident_address": "1553 Jay Extensions Suite 936, Lunahaven, IA 56370",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 1029,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8581",
+  "audio_file_name": "911-20250508-0297.mp3",
+  "audio_duration_seconds": 101,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 8.9,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "language",
+    "fish",
+    "administration",
+    "per",
+    "well",
+    "change",
+    "ten"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Exist show beautiful simply concern him more young receive model no painting strong serious.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

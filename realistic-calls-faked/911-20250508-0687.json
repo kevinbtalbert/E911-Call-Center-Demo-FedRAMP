@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250508-0687",
+  "timestamp_received": "2025-05-08T05:23:29Z",
+  "caller_number": "2987340114",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 36,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "NY",
+    "census_tract": "28287"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "475 Luna Flats Suite 704, New Tonyamouth, CA 79557",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 871,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2339",
+  "audio_file_name": "911-20250508-0687.mp3",
+  "audio_duration_seconds": 137,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.9,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "financial",
+    "statement",
+    "hope",
+    "team",
+    "offer",
+    "watch",
+    "do",
+    "his"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Professional significant economy gas day today must support oil two million second.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

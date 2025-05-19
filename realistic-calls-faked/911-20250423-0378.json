@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250423-0378",
+  "timestamp_received": "2025-04-23T01:35:55Z",
+  "caller_number": "3197899901",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.96097,
+    "longitude": -75.60804,
+    "county": "West Chester",
+    "state": "GA",
+    "census_tract": "98864"
+  },
+  "location_type": "Residential",
+  "incident_address": "03471 Daniel Spurs Suite 197, Williamsville, SC 99810",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 577,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8437",
+  "audio_file_name": "911-20250423-0378.mp3",
+  "audio_duration_seconds": 30,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.9,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "hold",
+    "until",
+    "set",
+    "vote"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Within wrong return election ok expect within level model test TV pick baby when future front close budget line coach more test kitchen seat likely single out.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

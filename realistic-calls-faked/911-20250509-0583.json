@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250509-0583",
+  "timestamp_received": "2025-05-09T17:37:41Z",
+  "caller_number": "1846512421",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.84568,
+    "longitude": -102.36764,
+    "county": "Odessa",
+    "state": "PA",
+    "census_tract": "55259"
+  },
+  "location_type": "Residential",
+  "incident_address": "378 Thomas Station Apt. 483, Kinghaven, CO 90848",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 1144,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7048",
+  "audio_file_name": "911-20250509-0583.mp3",
+  "audio_duration_seconds": 107,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 7.1,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "improve",
+    "full",
+    "glass",
+    "guess",
+    "world",
+    "need",
+    "personal",
+    "head"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Cold performance matter senior TV decade table cover ready from market major leave mind live hand decide small.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

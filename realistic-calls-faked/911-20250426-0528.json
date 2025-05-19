@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0528",
+  "timestamp_received": "2025-04-26T08:39:39Z",
+  "caller_number": "0640980587",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 89,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.60876,
+    "longitude": -77.37331,
+    "county": "Mechanicsville",
+    "state": "OH",
+    "census_tract": "15060"
+  },
+  "location_type": "Highway",
+  "incident_address": "5906 Kimberly Pines Suite 902, Barbaraberg, VT 96148",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 800,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5403",
+  "audio_file_name": "911-20250426-0528.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.1,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "entire",
+    "hope",
+    "dog",
+    "collection",
+    "include"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "House against certainly food father movement according performance general people nothing majority show return wife someone crime store with system firm get.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

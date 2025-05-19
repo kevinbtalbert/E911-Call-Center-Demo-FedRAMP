@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250426-0403",
+  "timestamp_received": "2025-04-26T23:13:25Z",
+  "caller_number": "05920823530976",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 22,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.05266,
+    "longitude": -78.87836,
+    "county": "Fayetteville",
+    "state": "NY",
+    "census_tract": "10611"
+  },
+  "location_type": "Residential",
+  "incident_address": "489 Martinez Port, Lake Vanessastad, ND 17764",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 473,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5091",
+  "audio_file_name": "911-20250426-0403.mp3",
+  "audio_duration_seconds": 125,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.1,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "these",
+    "be",
+    "probably",
+    "early",
+    "very",
+    "large"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Important view issue four lose serious prepare run white face suggest finally somebody film election represent fish who prevent lot peace sure.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

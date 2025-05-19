@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250412-0179",
+  "timestamp_received": "2025-04-12T03:11:24Z",
+  "caller_number": "+1306000258955296",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 27,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55838,
+    "longitude": -81.56929,
+    "county": "Collinwood",
+    "state": "NC",
+    "census_tract": "85255"
+  },
+  "location_type": "Industrial",
+  "incident_address": "96096 Sheila Loaf Apt. 658, South Jerry, DC 66594",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 365,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2475",
+  "audio_file_name": "911-20250412-0179.mp3",
+  "audio_duration_seconds": 160,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.8,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "brother",
+    "officer",
+    "hot",
+    "several",
+    "true",
+    "study"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "We data behavior join pick order agreement remain turn bad him score candidate law place group.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

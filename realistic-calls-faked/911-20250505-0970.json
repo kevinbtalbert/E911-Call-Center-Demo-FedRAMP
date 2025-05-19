@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250505-0970",
+  "timestamp_received": "2025-05-05T17:50:29Z",
+  "caller_number": "731024264596394",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55838,
+    "longitude": -81.56929,
+    "county": "Collinwood",
+    "state": "TN",
+    "census_tract": "53649"
+  },
+  "location_type": "Industrial",
+  "incident_address": "Unit 8458 Box 3109, DPO AE 25716",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 506,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2665",
+  "audio_file_name": "911-20250505-0970.mp3",
+  "audio_duration_seconds": 72,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 3.2,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "tax",
+    "never",
+    "general",
+    "Republican"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Her race reason list alone cost plant paper home contain second common near keep class.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

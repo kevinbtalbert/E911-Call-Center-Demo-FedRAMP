@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250425-0557",
+  "timestamp_received": "2025-04-25T07:54:34Z",
+  "caller_number": "3919603482",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 70,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.91452,
+    "longitude": -69.96533,
+    "county": "Brunswick",
+    "state": "NY",
+    "census_tract": "50075"
+  },
+  "location_type": "Public Park",
+  "incident_address": "7883 Gonzalez Wells, East Stephanie, AK 04766",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 885,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5173",
+  "audio_file_name": "911-20250425-0557.mp3",
+  "audio_duration_seconds": 173,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.4,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "election",
+    "dog",
+    "effort",
+    "hair",
+    "find"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Together event issue look Republican better discuss short candidate hundred black four three offer lose also employee message above billion see especially.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

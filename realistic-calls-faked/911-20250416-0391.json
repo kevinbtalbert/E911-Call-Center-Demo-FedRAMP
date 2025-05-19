@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250416-0391",
+  "timestamp_received": "2025-04-16T01:53:59Z",
+  "caller_number": "001551962822250182",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.91817,
+    "longitude": -78.19444,
+    "county": "Front Royal",
+    "state": "PA",
+    "census_tract": "56081"
+  },
+  "location_type": "Commercial",
+  "incident_address": "47286 Brianna Glen Apt. 012, East Sandra, LA 75176",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 144,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8622",
+  "audio_file_name": "911-20250416-0391.mp3",
+  "audio_duration_seconds": 161,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "of",
+    "order",
+    "small",
+    "painting",
+    "pretty",
+    "hour",
+    "story"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Always improve a truth through stock apply oil involve continue local expect always response pass anyone set offer early several much concern civil.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

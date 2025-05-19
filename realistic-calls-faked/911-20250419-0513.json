@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250419-0513",
+  "timestamp_received": "2025-04-19T16:26:59Z",
+  "caller_number": "3251071555",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 80,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 27.71809,
+    "longitude": -82.35176,
+    "county": "Sun City Center",
+    "state": "PA",
+    "census_tract": "37627"
+  },
+  "location_type": "Public Park",
+  "incident_address": "94042 Paula Viaduct Suite 564, North Brittneyburgh, MN 11983",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 859,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9405",
+  "audio_file_name": "911-20250419-0513.mp3",
+  "audio_duration_seconds": 46,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.9,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "capital",
+    "discussion",
+    "song",
+    "along",
+    "main",
+    "might",
+    "only"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "State run though tough glass sea role financial which use wind pattern themselves body reality teach finish many.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

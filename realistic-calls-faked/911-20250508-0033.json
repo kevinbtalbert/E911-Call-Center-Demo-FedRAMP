@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250508-0033",
+  "timestamp_received": "2025-05-08T17:14:56Z",
+  "caller_number": "84473647102767",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 25.67927,
+    "longitude": -80.31727,
+    "county": "Kendall",
+    "state": "MD",
+    "census_tract": "45509"
+  },
+  "location_type": "Public Park",
+  "incident_address": "255 Hester Curve Suite 881, Johnville, NV 32996",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 532,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2976",
+  "audio_file_name": "911-20250508-0033.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.8,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "cell",
+    "anything",
+    "war",
+    "ten",
+    "industry"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Spend value return couple city you level these market bed hotel lead drive on any example.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

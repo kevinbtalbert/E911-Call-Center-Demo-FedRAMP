@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250429-0873",
+  "timestamp_received": "2025-04-29T19:46:57Z",
+  "caller_number": "4916263177",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.15376,
+    "longitude": -87.88754,
+    "county": "Bourbonnais",
+    "state": "NY",
+    "census_tract": "12367"
+  },
+  "location_type": "Industrial",
+  "incident_address": "422 Corey Ferry Suite 219, Leehaven, TN 96521",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 189,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7542",
+  "audio_file_name": "911-20250429-0873.mp3",
+  "audio_duration_seconds": 86,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.6,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "them",
+    "radio",
+    "agreement",
+    "discussion",
+    "kitchen"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Law big product opportunity half door nice address save dog listen agency finish save.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250506-0486",
+  "timestamp_received": "2025-05-06T01:39:03Z",
+  "caller_number": "6691008224",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 81,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.48199,
+    "longitude": -81.79819,
+    "county": "Lakewood",
+    "state": "OH",
+    "census_tract": "35304"
+  },
+  "location_type": "Public Park",
+  "incident_address": "8268 Edwin Corner, Kellyfurt, SD 50443",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 465,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5605",
+  "audio_file_name": "911-20250506-0486.mp3",
+  "audio_duration_seconds": 130,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.1,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "structure",
+    "nothing",
+    "high",
+    "certainly",
+    "more",
+    "place",
+    "market"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Second action notice cause son plan view plant manage set necessary lay region citizen.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

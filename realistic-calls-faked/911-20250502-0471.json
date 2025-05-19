@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250502-0471",
+  "timestamp_received": "2025-05-02T01:24:22Z",
+  "caller_number": "+156316312975572",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.52487,
+    "longitude": -77.55777,
+    "county": "Bon Air",
+    "state": "TN",
+    "census_tract": "99463"
+  },
+  "location_type": "Residential",
+  "incident_address": "69496 Tony Points Apt. 193, South Alyssaburgh, AR 15420",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 176,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5011",
+  "audio_file_name": "911-20250502-0471.mp3",
+  "audio_duration_seconds": 173,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.6,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "shake",
+    "poor",
+    "actually",
+    "baby"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Girl somebody receive boy develop worker create TV sort drug like technology forget official senior animal ready strong drug pull over see he since.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

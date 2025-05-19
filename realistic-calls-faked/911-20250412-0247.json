@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250412-0247",
+  "timestamp_received": "2025-04-12T09:42:36Z",
+  "caller_number": "23873670425496",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 20.88953,
+    "longitude": -156.47432,
+    "county": "Kahului",
+    "state": "TN",
+    "census_tract": "96898"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "455 Mike Mountains, North Sergiochester, IL 43256",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 280,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1312",
+  "audio_file_name": "911-20250412-0247.mp3",
+  "audio_duration_seconds": 104,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.6,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "read",
+    "travel",
+    "total",
+    "plant",
+    "top",
+    "live",
+    "exactly"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Officer former create camera focus plan wife director or down standard major like affect memory believe seek perhaps ball make.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

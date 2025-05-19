@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250430-0681",
+  "timestamp_received": "2025-04-30T23:15:42Z",
+  "caller_number": "+1749116343031016",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 37,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.85059,
+    "longitude": -87.882,
+    "county": "Westchester",
+    "state": "MD",
+    "census_tract": "72937"
+  },
+  "location_type": "Highway",
+  "incident_address": "2284 Hood Inlet Apt. 408, Shawnfurt, GA 75859",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 644,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5071",
+  "audio_file_name": "911-20250430-0681.mp3",
+  "audio_duration_seconds": 49,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 6.6,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "goal",
+    "shake",
+    "bit",
+    "ability"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Money bag him word increase analysis process art term through fast opportunity PM kind partner friend memory plant black.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

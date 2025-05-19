@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250501-0149",
+  "timestamp_received": "2025-05-01T15:09:03Z",
+  "caller_number": "9949387430",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.21639,
+    "longitude": -119.0376,
+    "county": "Camarillo",
+    "state": "PA",
+    "census_tract": "42748"
+  },
+  "location_type": "Residential",
+  "incident_address": "Unit 7169 Box 3859, DPO AA 60820",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 268,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3290",
+  "audio_file_name": "911-20250501-0149.mp3",
+  "audio_duration_seconds": 61,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "leg",
+    "although",
+    "before",
+    "position"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Get successful society hospital statement sure indeed conference pay it his probably recognize believe recognize analysis those citizen think Mrs project at risk.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

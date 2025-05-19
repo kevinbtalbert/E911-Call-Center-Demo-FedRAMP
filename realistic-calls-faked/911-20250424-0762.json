@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250424-0762",
+  "timestamp_received": "2025-04-24T15:51:31Z",
+  "caller_number": "0018730732166",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.57582,
+    "longitude": -105.11221,
+    "county": "Ken Caryl",
+    "state": "PA",
+    "census_tract": "29391"
+  },
+  "location_type": "Highway",
+  "incident_address": "107 Courtney Springs Suite 117, East Elizabethview, SC 19745",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 1165,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8811",
+  "audio_file_name": "911-20250424-0762.mp3",
+  "audio_duration_seconds": 103,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "group",
+    "wear",
+    "imagine",
+    "computer",
+    "without",
+    "yes"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Early story position several including cell issue rate green suggest win expect thousand public enjoy bank in church.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

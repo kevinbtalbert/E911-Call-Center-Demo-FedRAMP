@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250428-0384",
+  "timestamp_received": "2025-04-28T15:30:28Z",
+  "caller_number": "+12739615976405",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.09611,
+    "longitude": -118.10583,
+    "county": "San Gabriel",
+    "state": "VA",
+    "census_tract": "77853"
+  },
+  "location_type": "Highway",
+  "incident_address": "7078 Porter Junction Suite 426, New Janettown, WY 69571",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 177,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4889",
+  "audio_file_name": "911-20250428-0384.mp3",
+  "audio_duration_seconds": 159,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.8,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "employee",
+    "suddenly",
+    "local",
+    "team"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Lay deal arrive compare want chair billion seven structure store prepare majority parent why blood.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

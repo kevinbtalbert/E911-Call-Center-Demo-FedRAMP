@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250505-0998",
+  "timestamp_received": "2025-05-05T02:20:33Z",
+  "caller_number": "001880701821557412",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.24537,
+    "longitude": -75.64963,
+    "county": "Pottstown",
+    "state": "VA",
+    "census_tract": "17855"
+  },
+  "location_type": "Residential",
+  "incident_address": "USNV Garcia, FPO AE 71900",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 558,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3237",
+  "audio_file_name": "911-20250505-0998.mp3",
+  "audio_duration_seconds": 115,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.9,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "national",
+    "while",
+    "realize",
+    "face",
+    "talk"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Light require or fight year remember picture third time say up sense heavy.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

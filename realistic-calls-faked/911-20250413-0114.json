@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250413-0114",
+  "timestamp_received": "2025-04-13T12:54:54Z",
+  "caller_number": "4127238046",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.33427,
+    "longitude": -76.43941,
+    "county": "Middle River",
+    "state": "OH",
+    "census_tract": "59436"
+  },
+  "location_type": "Highway",
+  "incident_address": "Unit 8275 Box 6704, DPO AE 08751",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 174,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1154",
+  "audio_file_name": "911-20250413-0114.mp3",
+  "audio_duration_seconds": 73,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.8,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "against",
+    "soon",
+    "strong",
+    "mind",
+    "from",
+    "official",
+    "pretty",
+    "skin"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Order recent success knowledge fight car smile commercial employee machine wife show another good lay coach under Republican expect win stuff realize project child.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

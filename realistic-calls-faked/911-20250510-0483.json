@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250510-0483",
+  "timestamp_received": "2025-05-10T22:16:02Z",
+  "caller_number": "3594410238",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.41012,
+    "longitude": -91.06177,
+    "county": "Greenville",
+    "state": "SC",
+    "census_tract": "47022"
+  },
+  "location_type": "Public Park",
+  "incident_address": "1866 Frost Way, Mendozaville, CO 27181",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 250,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2267",
+  "audio_file_name": "911-20250510-0483.mp3",
+  "audio_duration_seconds": 156,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.9,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "try",
+    "baby",
+    "purpose",
+    "across"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Method crime too wife significant movement bad decide perform money Mrs point really major own gas performance people speak mission relationship.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

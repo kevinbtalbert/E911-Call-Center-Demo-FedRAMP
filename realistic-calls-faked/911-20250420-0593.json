@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250420-0593",
+  "timestamp_received": "2025-04-20T06:32:31Z",
+  "caller_number": "001826429518525576",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.53885,
+    "longitude": -95.44744,
+    "county": "Fresno",
+    "state": "NY",
+    "census_tract": "75679"
+  },
+  "location_type": "Public Park",
+  "incident_address": "5903 Sharon Crossing, Lunamouth, ME 34815",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 826,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7192",
+  "audio_file_name": "911-20250420-0593.mp3",
+  "audio_duration_seconds": 154,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.4,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "score",
+    "law",
+    "billion",
+    "son"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Station several mention example science those suddenly say member carry effort imagine.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250509-0238",
+  "timestamp_received": "2025-05-09T02:16:55Z",
+  "caller_number": "2939469434",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.91756,
+    "longitude": -82.07842,
+    "county": "Punta Gorda Isles",
+    "state": "NY",
+    "census_tract": "56918"
+  },
+  "location_type": "Industrial",
+  "incident_address": "6643 King Branch, Williamsmouth, TN 90875",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 934,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2705",
+  "audio_file_name": "911-20250509-0238.mp3",
+  "audio_duration_seconds": 72,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.0,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "development",
+    "point",
+    "boy",
+    "total",
+    "major",
+    "contain"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Cold science western resource reason expect expert talk end set house those dark beat suffer customer million along long born.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

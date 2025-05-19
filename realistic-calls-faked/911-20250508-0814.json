@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250508-0814",
+  "timestamp_received": "2025-05-08T05:20:10Z",
+  "caller_number": "5961159533",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.14251,
+    "longitude": -118.25508,
+    "county": "Glendale",
+    "state": "PA",
+    "census_tract": "50378"
+  },
+  "location_type": "Public Park",
+  "incident_address": "62906 Amy Track Apt. 566, Lake Mariaborough, OK 70643",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 310,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9013",
+  "audio_file_name": "911-20250508-0814.mp3",
+  "audio_duration_seconds": 148,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "around",
+    "walk",
+    "police",
+    "democratic"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Ever note imagine focus month realize usually material past try whole eat maintain far red behind interesting.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

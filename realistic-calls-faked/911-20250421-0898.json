@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250421-0898",
+  "timestamp_received": "2025-04-21T09:59:01Z",
+  "caller_number": "23705067482522",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.77453,
+    "longitude": -96.67834,
+    "county": "Ada",
+    "state": "PA",
+    "census_tract": "22260"
+  },
+  "location_type": "School",
+  "incident_address": "6547 Walker Club Suite 914, Michaelton, MS 44846",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 156,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7670",
+  "audio_file_name": "911-20250421-0898.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 7.1,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "different",
+    "yourself",
+    "understand",
+    "threat",
+    "citizen",
+    "use",
+    "kid",
+    "write"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Join later himself suddenly cold treatment loss available fight key activity source yet friend coach central right color.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

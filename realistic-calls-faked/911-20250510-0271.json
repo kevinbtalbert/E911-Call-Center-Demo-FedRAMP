@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250510-0271",
+  "timestamp_received": "2025-05-10T16:31:48Z",
+  "caller_number": "001907938841368528",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 71,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.52787,
+    "longitude": -70.92866,
+    "county": "Peabody",
+    "state": "NY",
+    "census_tract": "54852"
+  },
+  "location_type": "Highway",
+  "incident_address": "615 Stacey Brooks, East Sarahview, TN 38815",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 414,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2276",
+  "audio_file_name": "911-20250510-0271.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.4,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "public",
+    "indeed",
+    "town",
+    "daughter",
+    "clearly",
+    "best",
+    "use"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Young reality police baby choose building view well at show serve establish condition share front matter strong movement member.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

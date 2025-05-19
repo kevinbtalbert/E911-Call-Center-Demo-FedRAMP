@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250504-0018",
+  "timestamp_received": "2025-05-04T20:23:37Z",
+  "caller_number": "+143161172400504",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 41,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.14676,
+    "longitude": -73.49484,
+    "county": "New Canaan",
+    "state": "MD",
+    "census_tract": "55830"
+  },
+  "location_type": "Public Park",
+  "incident_address": "38692 Gregory Ridge Suite 937, East Steven, NH 33967",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 516,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1387",
+  "audio_file_name": "911-20250504-0018.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "project",
+    "together",
+    "let",
+    "explain",
+    "national",
+    "available",
+    "war",
+    "write"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Police interesting economic suddenly current his low down occur offer yeah far within probably ever not rate seat any.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

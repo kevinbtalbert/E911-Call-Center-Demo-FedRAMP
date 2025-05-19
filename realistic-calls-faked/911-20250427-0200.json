@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250427-0200",
+  "timestamp_received": "2025-04-27T04:55:18Z",
+  "caller_number": "2099576572",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 44,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.93113,
+    "longitude": -117.54866,
+    "county": "Norco",
+    "state": "OH",
+    "census_tract": "46264"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "34750 Mitchell Lights Suite 220, South April, RI 41705",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 335,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6432",
+  "audio_file_name": "911-20250427-0200.mp3",
+  "audio_duration_seconds": 152,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.0,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "between",
+    "expect",
+    "budget",
+    "event",
+    "keep"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Eye truth writer send under project cell deal stuff senior agree total whether music sometimes according.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

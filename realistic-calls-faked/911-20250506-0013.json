@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250506-0013",
+  "timestamp_received": "2025-05-06T15:39:47Z",
+  "caller_number": "0013495788568557",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.0051,
+    "longitude": -73.78458,
+    "county": "Scarsdale",
+    "state": "NC",
+    "census_tract": "87992"
+  },
+  "location_type": "Residential",
+  "incident_address": "13518 James Streets Suite 498, Tinaborough, IN 47802",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 886,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2964",
+  "audio_file_name": "911-20250506-0013.mp3",
+  "audio_duration_seconds": 175,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "conference",
+    "add",
+    "move",
+    "ever",
+    "window",
+    "network"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Point sell bill activity expect long future whole education technology box assume man officer rather.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

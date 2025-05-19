@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250422-0241",
+  "timestamp_received": "2025-04-22T13:19:58Z",
+  "caller_number": "00177675556283333",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 25,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.35283,
+    "longitude": -111.78903,
+    "county": "Gilbert",
+    "state": "KY",
+    "census_tract": "73246"
+  },
+  "location_type": "Commercial",
+  "incident_address": "8654 Philip Mountains Apt. 874, Williamsborough, OH 21042",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 255,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5921",
+  "audio_file_name": "911-20250422-0241.mp3",
+  "audio_duration_seconds": 39,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.3,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "process",
+    "view",
+    "it",
+    "wall",
+    "agency",
+    "deal",
+    "note"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Event second nor choose I site cup in life test candidate use first usually partner same.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

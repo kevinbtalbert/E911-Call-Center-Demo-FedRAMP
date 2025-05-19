@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250413-0060",
+  "timestamp_received": "2025-04-13T11:43:05Z",
+  "caller_number": "65861793271040",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 83,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.93121,
+    "longitude": -73.89875,
+    "county": "Yonkers",
+    "state": "GA",
+    "census_tract": "59308"
+  },
+  "location_type": "School",
+  "incident_address": "52621 Matthew Ridges, Bushchester, GA 80103",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 758,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3578",
+  "audio_file_name": "911-20250413-0060.mp3",
+  "audio_duration_seconds": 124,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.4,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "threat",
+    "church",
+    "big",
+    "day",
+    "couple"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Reveal role enter example down anyone occur style child guess into far product outside current agent color factor bank such final however major produce before name.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

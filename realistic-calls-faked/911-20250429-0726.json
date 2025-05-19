@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250429-0726",
+  "timestamp_received": "2025-04-29T19:18:52Z",
+  "caller_number": "878989168317151",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.95143,
+    "longitude": -91.77127,
+    "county": "Rolla",
+    "state": "NY",
+    "census_tract": "21471"
+  },
+  "location_type": "Residential",
+  "incident_address": "41248 Mcknight Inlet Suite 731, South Charles, NJ 94080",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 694,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6409",
+  "audio_file_name": "911-20250429-0726.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 6.5,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "enough",
+    "of",
+    "two",
+    "radio",
+    "I",
+    "fly",
+    "toward"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Pressure myself little sport court account business wonder before manage third become ahead bit practice already billion call degree develop.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

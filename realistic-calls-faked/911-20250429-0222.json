@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250429-0222",
+  "timestamp_received": "2025-04-29T01:03:00Z",
+  "caller_number": "001434745245557469",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 41,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55838,
+    "longitude": -81.56929,
+    "county": "Collinwood",
+    "state": "NY",
+    "census_tract": "85483"
+  },
+  "location_type": "Industrial",
+  "incident_address": "60652 Wang Brook Apt. 344, Andrewchester, MS 43189",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 417,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5663",
+  "audio_file_name": "911-20250429-0222.mp3",
+  "audio_duration_seconds": 120,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.0,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "newspaper",
+    "school",
+    "something",
+    "pay",
+    "key",
+    "ever",
+    "avoid",
+    "civil"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Walk or weight water sit hope where religious economic would only arrive argue garden Mrs just exist line thing available with run station them.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

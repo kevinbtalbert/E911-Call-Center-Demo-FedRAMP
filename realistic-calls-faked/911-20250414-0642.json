@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250414-0642",
+  "timestamp_received": "2025-04-14T07:52:22Z",
+  "caller_number": "5013433906",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 19,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25628,
+    "longitude": -78.04471,
+    "county": "Leland",
+    "state": "VA",
+    "census_tract": "49707"
+  },
+  "location_type": "School",
+  "incident_address": "247 Lopez Squares Apt. 299, East Shannonville, PA 14872",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 780,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9810",
+  "audio_file_name": "911-20250414-0642.mp3",
+  "audio_duration_seconds": 43,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.3,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "challenge",
+    "kid",
+    "outside",
+    "note"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Fire property beautiful explain Congress smile become wait cost concern street relationship task return foot become about everybody edge hour theory.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

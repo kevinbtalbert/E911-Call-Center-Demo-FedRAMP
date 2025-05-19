@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250421-0094",
+  "timestamp_received": "2025-04-21T08:00:14Z",
+  "caller_number": "+1216893639264957",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.68066,
+    "longitude": -73.47429,
+    "county": "Massapequa",
+    "state": "PA",
+    "census_tract": "49124"
+  },
+  "location_type": "Commercial",
+  "incident_address": "298 Michelle Inlet, South Wendy, FL 86514",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 651,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4396",
+  "audio_file_name": "911-20250421-0094.mp3",
+  "audio_duration_seconds": 155,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.0,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "usually",
+    "true",
+    "fish",
+    "newspaper"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Contain style certainly ahead five win which field seat start PM scene charge could capital.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

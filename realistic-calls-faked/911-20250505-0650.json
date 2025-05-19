@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250505-0650",
+  "timestamp_received": "2025-05-05T03:04:44Z",
+  "caller_number": "2160059324",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.44874,
+    "longitude": -99.73314,
+    "county": "Abilene",
+    "state": "TN",
+    "census_tract": "99864"
+  },
+  "location_type": "Highway",
+  "incident_address": "52762 Hernandez Ways, East Christopherville, NE 61753",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 980,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4893",
+  "audio_file_name": "911-20250505-0650.mp3",
+  "audio_duration_seconds": 155,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.1,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "nor",
+    "rise",
+    "close",
+    "west",
+    "seat",
+    "cold",
+    "hit",
+    "quickly"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "See base land book sort would life stop Mr say well according floor four.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

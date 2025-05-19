@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250427-0362",
+  "timestamp_received": "2025-04-27T03:48:01Z",
+  "caller_number": "839717059844514",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 59,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.58342,
+    "longitude": -71.8023,
+    "county": "Fitchburg",
+    "state": "SC",
+    "census_tract": "13069"
+  },
+  "location_type": "Residential",
+  "incident_address": "7286 Christopher Stream, Lake Anthony, NY 45290",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 589,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4954",
+  "audio_file_name": "911-20250427-0362.mp3",
+  "audio_duration_seconds": 107,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.5,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "sell",
+    "support",
+    "box",
+    "bank",
+    "early",
+    "worry",
+    "man",
+    "much"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "War from activity start scene pay true whom result picture cold black life another firm night interesting institution debate.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

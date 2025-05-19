@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250428-0755",
+  "timestamp_received": "2025-04-28T22:33:59Z",
+  "caller_number": "0014738793092",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.49428,
+    "longitude": -122.86705,
+    "county": "Aloha",
+    "state": "PA",
+    "census_tract": "31534"
+  },
+  "location_type": "Residential",
+  "incident_address": "90605 Gonzalez Valleys, South Christopherport, DE 27185",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 103,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5509",
+  "audio_file_name": "911-20250428-0755.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.6,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "local",
+    "particular",
+    "father",
+    "beautiful",
+    "population"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Write attorney develop involve official thank issue debate into question crime price too why realize other society health inside set happy senior on yeah trouble.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

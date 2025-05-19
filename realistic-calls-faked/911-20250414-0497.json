@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250414-0497",
+  "timestamp_received": "2025-04-14T09:14:44Z",
+  "caller_number": "8260825263794",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 64,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.24537,
+    "longitude": -75.64963,
+    "county": "Pottstown",
+    "state": "OH",
+    "census_tract": "35419"
+  },
+  "location_type": "Public Park",
+  "incident_address": "88669 Christopher Crossroad, East Laura, CA 35084",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 884,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3894",
+  "audio_file_name": "911-20250414-0497.mp3",
+  "audio_duration_seconds": 100,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 7.1,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "phone",
+    "coach",
+    "term",
+    "source",
+    "bar"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "One smile national south chair four peace fill with serve later enough pick help.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

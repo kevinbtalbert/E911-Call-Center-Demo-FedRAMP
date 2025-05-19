@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250415-0818",
+  "timestamp_received": "2025-04-15T05:22:17Z",
+  "caller_number": "00122906419965840",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 36,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.38093,
+    "longitude": -122.23484,
+    "county": "Kent",
+    "state": "GA",
+    "census_tract": "84778"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "6452 Bowman Point, Burchhaven, GA 31696",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 106,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3444",
+  "audio_file_name": "911-20250415-0818.mp3",
+  "audio_duration_seconds": 177,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "nearly",
+    "his",
+    "information",
+    "wrong",
+    "analysis",
+    "actually",
+    "account"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Myself protect build moment necessary add recognize a forward crime Mrs national however model look civil right suggest choice training your act audience world my tonight.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

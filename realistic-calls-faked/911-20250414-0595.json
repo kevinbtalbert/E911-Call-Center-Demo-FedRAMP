@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250414-0595",
+  "timestamp_received": "2025-04-14T17:12:55Z",
+  "caller_number": "0016741662395",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.9001,
+    "longitude": -71.08977,
+    "county": "Taunton",
+    "state": "PA",
+    "census_tract": "42502"
+  },
+  "location_type": "Commercial",
+  "incident_address": "25593 Valenzuela Extension Suite 674, South Kevinberg, WI 20560",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 434,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5015",
+  "audio_file_name": "911-20250414-0595.mp3",
+  "audio_duration_seconds": 88,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "make",
+    "quickly",
+    "however",
+    "culture"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Walk stage way really dark billion trade PM any fund whether from drive.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

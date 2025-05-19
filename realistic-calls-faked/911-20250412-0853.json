@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250412-0853",
+  "timestamp_received": "2025-04-12T07:07:46Z",
+  "caller_number": "61680680304005",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.58342,
+    "longitude": -71.8023,
+    "county": "Fitchburg",
+    "state": "NC",
+    "census_tract": "72204"
+  },
+  "location_type": "Highway",
+  "incident_address": "8013 Lori Harbor Apt. 360, Tristanborough, CT 96887",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 871,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8883",
+  "audio_file_name": "911-20250412-0853.mp3",
+  "audio_duration_seconds": 156,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.6,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "think",
+    "build",
+    "worry",
+    "entire",
+    "forward",
+    "place",
+    "pretty"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Candidate bank raise organization why others successful year perform price own at here assume poor first record can training step within few play skill agent now agree.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

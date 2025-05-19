@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250509-0654",
+  "timestamp_received": "2025-05-09T08:21:59Z",
+  "caller_number": "8727299335702",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.14676,
+    "longitude": -73.49484,
+    "county": "New Canaan",
+    "state": "NY",
+    "census_tract": "35927"
+  },
+  "location_type": "Commercial",
+  "incident_address": "93986 Gonzalez Rest Suite 648, Josephmouth, OR 73539",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 708,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8677",
+  "audio_file_name": "911-20250509-0654.mp3",
+  "audio_duration_seconds": 92,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "discussion",
+    "reveal",
+    "hotel",
+    "quality"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Report owner network need product if smile choose eat wind term store tax time voice.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

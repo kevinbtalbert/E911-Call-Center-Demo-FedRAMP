@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250416-0810",
+  "timestamp_received": "2025-04-16T11:53:29Z",
+  "caller_number": "0860428316",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 64,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.8542,
+    "longitude": -87.66561,
+    "county": "Lower West Side",
+    "state": "VA",
+    "census_tract": "21776"
+  },
+  "location_type": "Highway",
+  "incident_address": "46447 Benjamin Causeway, Brownmouth, IA 64915",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 910,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5299",
+  "audio_file_name": "911-20250416-0810.mp3",
+  "audio_duration_seconds": 155,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.0,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "traditional",
+    "more",
+    "those",
+    "clearly",
+    "eight",
+    "myself",
+    "always",
+    "learn"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Agent produce likely special story result risk pretty lay same should even point question science much have series last again different rule huge leave rock plan seek.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

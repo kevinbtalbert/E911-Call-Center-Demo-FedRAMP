@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250422-0699",
+  "timestamp_received": "2025-04-22T21:49:08Z",
+  "caller_number": "674772011040838",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 27.71809,
+    "longitude": -82.35176,
+    "county": "Sun City Center",
+    "state": "MD",
+    "census_tract": "90595"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "260 Dawn Mission Suite 795, East Michelle, LA 19174",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 892,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3576",
+  "audio_file_name": "911-20250422-0699.mp3",
+  "audio_duration_seconds": 91,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 4.9,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "card",
+    "deep",
+    "difficult",
+    "pattern"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Enough growth share local show lay edge knowledge fund close blood source moment general behavior.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

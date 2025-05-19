@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250429-0706",
+  "timestamp_received": "2025-04-29T03:55:02Z",
+  "caller_number": "9561765589",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "VA",
+    "census_tract": "82575"
+  },
+  "location_type": "Highway",
+  "incident_address": "552 Hawkins Skyway, Port Vanessachester, AL 87912",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 510,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3815",
+  "audio_file_name": "911-20250429-0706.mp3",
+  "audio_duration_seconds": 128,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.8,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "character",
+    "challenge",
+    "sing",
+    "require",
+    "part",
+    "development",
+    "dog"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Myself keep partner billion risk create sort out improve machine church moment finally scene entire.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

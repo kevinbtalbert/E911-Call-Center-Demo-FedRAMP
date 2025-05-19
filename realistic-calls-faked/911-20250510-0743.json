@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250510-0743",
+  "timestamp_received": "2025-05-10T13:25:26Z",
+  "caller_number": "+159911294640311",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.99012,
+    "longitude": -123.02621,
+    "county": "Keizer",
+    "state": "MD",
+    "census_tract": "15573"
+  },
+  "location_type": "School",
+  "incident_address": "146 Lawrence Court Apt. 203, New Lisa, AR 48662",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 891,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9879",
+  "audio_file_name": "911-20250510-0743.mp3",
+  "audio_duration_seconds": 57,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.5,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "owner",
+    "his",
+    "it",
+    "item",
+    "often",
+    "child"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Water face country put return ground technology second young though morning feel drug rest drop physical picture foot same act wonder conference large so raise bag.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

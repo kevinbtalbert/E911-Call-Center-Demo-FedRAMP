@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250412-0139",
+  "timestamp_received": "2025-04-12T14:03:32Z",
+  "caller_number": "6546103399",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.30865,
+    "longitude": -83.48216,
+    "county": "Canton",
+    "state": "SC",
+    "census_tract": "60703"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "40578 Jones Burgs Suite 304, East Kathrynberg, OK 53814",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 921,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6986",
+  "audio_file_name": "911-20250412-0139.mp3",
+  "audio_duration_seconds": 169,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.2,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "land",
+    "suffer",
+    "matter",
+    "situation",
+    "central",
+    "music"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Site Mr interest treatment later a let stop eye will a value lot our style herself.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

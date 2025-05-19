@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250413-0224",
+  "timestamp_received": "2025-04-13T02:54:53Z",
+  "caller_number": "001164772512957860",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 46,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.53885,
+    "longitude": -95.44744,
+    "county": "Fresno",
+    "state": "TN",
+    "census_tract": "20494"
+  },
+  "location_type": "Commercial",
+  "incident_address": "96003 Simmons Green Apt. 958, Valdezborough, OK 46985",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 873,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2687",
+  "audio_file_name": "911-20250413-0224.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.5,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "throw",
+    "resource",
+    "officer",
+    "country"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Deal consider ago own suddenly single music west force firm discover decade field interest even.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250430-0386",
+  "timestamp_received": "2025-04-30T05:58:08Z",
+  "caller_number": "93326724469317",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.15112,
+    "longitude": -82.46148,
+    "county": "Lutz",
+    "state": "SC",
+    "census_tract": "10881"
+  },
+  "location_type": "Public Park",
+  "incident_address": "6380 Susan Bypass Suite 540, West Christina, OH 43105",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 211,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6863",
+  "audio_file_name": "911-20250430-0386.mp3",
+  "audio_duration_seconds": 37,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 5.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "board",
+    "page",
+    "scene",
+    "different"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Red yard manage must beautiful thus brother hold girl answer window none investment by involve information house former commercial television need field with.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

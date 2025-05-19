@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250508-0501",
+  "timestamp_received": "2025-05-08T11:48:14Z",
+  "caller_number": "+110657351745469",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.80527,
+    "longitude": -122.24064,
+    "county": "Bothell West",
+    "state": "TN",
+    "census_tract": "57748"
+  },
+  "location_type": "School",
+  "incident_address": "02140 Edward Plains Apt. 319, Michaelshire, NJ 74722",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 782,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5933",
+  "audio_file_name": "911-20250508-0501.mp3",
+  "audio_duration_seconds": 115,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.2,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "official",
+    "use",
+    "fund",
+    "serve",
+    "owner",
+    "beyond",
+    "upon"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Tax recognize court generation matter traditional throw field can travel recognize above behavior hot.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

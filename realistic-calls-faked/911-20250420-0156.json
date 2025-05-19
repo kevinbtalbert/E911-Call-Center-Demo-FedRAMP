@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250420-0156",
+  "timestamp_received": "2025-04-20T12:17:58Z",
+  "caller_number": "+1901380698477596",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 55,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.44872,
+    "longitude": -86.78777,
+    "county": "Vestavia Hills",
+    "state": "TN",
+    "census_tract": "26691"
+  },
+  "location_type": "Commercial",
+  "incident_address": "3566 Theresa Well Suite 107, Hardyberg, PA 16609",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 861,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1530",
+  "audio_file_name": "911-20250420-0156.mp3",
+  "audio_duration_seconds": 76,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.1,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "than",
+    "evidence",
+    "recognize",
+    "spring",
+    "happy",
+    "peace"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Method produce about point walk focus plant them wide save question do machine school soldier give voice walk live probably record beyond his parent.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

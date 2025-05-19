@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250502-0113",
+  "timestamp_received": "2025-05-02T21:39:14Z",
+  "caller_number": "+19319508501",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.81,
+    "longitude": -73.9625,
+    "county": "Morningside Heights",
+    "state": "NC",
+    "census_tract": "78732"
+  },
+  "location_type": "Commercial",
+  "incident_address": "055 Deborah Squares Apt. 832, Johnville, NJ 97150",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 453,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9625",
+  "audio_file_name": "911-20250502-0113.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "voice",
+    "oil",
+    "where",
+    "decide",
+    "seat",
+    "different",
+    "good",
+    "environment"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 10.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Everyone as generation main money but report question mouth factor per son war speak wait assume throughout leader bag today eye what.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

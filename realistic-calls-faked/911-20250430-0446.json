@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250430-0446",
+  "timestamp_received": "2025-04-30T11:08:34Z",
+  "caller_number": "+1656976487849622",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 83,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.65538,
+    "longitude": -74.38987,
+    "county": "Scotch Plains",
+    "state": "TN",
+    "census_tract": "93009"
+  },
+  "location_type": "Commercial",
+  "incident_address": "510 Russell Dam Suite 069, New Robert, ND 44253",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 748,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7980",
+  "audio_file_name": "911-20250430-0446.mp3",
+  "audio_duration_seconds": 152,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.5,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "teach",
+    "central",
+    "public",
+    "term",
+    "she",
+    "seek"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Represent conference war science reduce pass once democratic range especially catch capital book join site he above challenge cultural throw left worker.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

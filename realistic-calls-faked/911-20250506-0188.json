@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250506-0188",
+  "timestamp_received": "2025-05-06T20:51:59Z",
+  "caller_number": "3691430753",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 86,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.80753,
+    "longitude": -87.65644,
+    "county": "New City",
+    "state": "KY",
+    "census_tract": "82559"
+  },
+  "location_type": "Industrial",
+  "incident_address": "6144 Thompson Mews Suite 923, Derekside, ME 40477",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 471,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4435",
+  "audio_file_name": "911-20250506-0188.mp3",
+  "audio_duration_seconds": 104,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.9,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "beat",
+    "note",
+    "pick",
+    "national"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Site street benefit money reason mean rate group government level which leave tree ago short because cell trade skill oil health.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

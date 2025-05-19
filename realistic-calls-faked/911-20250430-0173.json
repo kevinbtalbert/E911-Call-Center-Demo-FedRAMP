@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250430-0173",
+  "timestamp_received": "2025-04-30T12:40:36Z",
+  "caller_number": "2009282066",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 54,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.75338,
+    "longitude": -86.11084,
+    "county": "Granger",
+    "state": "OH",
+    "census_tract": "17086"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "498 Fletcher Manors Apt. 418, Spenceberg, IL 52982",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 341,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4281",
+  "audio_file_name": "911-20250430-0173.mp3",
+  "audio_duration_seconds": 117,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.8,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "people",
+    "despite",
+    "contain",
+    "second",
+    "nice",
+    "success",
+    "staff"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Local present if herself area he interest establish bit guy single friend dream clear blood deep action travel could cut upon drive be.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

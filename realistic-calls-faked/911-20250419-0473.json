@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250419-0473",
+  "timestamp_received": "2025-04-19T13:27:05Z",
+  "caller_number": "+16859096459872",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.92946,
+    "longitude": -116.97725,
+    "county": "Beaumont",
+    "state": "GA",
+    "census_tract": "51967"
+  },
+  "location_type": "Highway",
+  "incident_address": "992 Steven Roads, West Debra, CO 55359",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 838,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2022",
+  "audio_file_name": "911-20250419-0473.mp3",
+  "audio_duration_seconds": 122,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.5,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "hundred",
+    "ask",
+    "theory",
+    "democratic",
+    "perform",
+    "court"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Laugh long carry long difficult family action turn figure practice position same war behind pattern they style director speak in treatment continue.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

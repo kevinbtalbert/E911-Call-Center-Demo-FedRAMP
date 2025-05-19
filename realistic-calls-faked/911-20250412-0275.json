@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250412-0275",
+  "timestamp_received": "2025-04-12T18:18:03Z",
+  "caller_number": "83063963845269",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.53885,
+    "longitude": -95.44744,
+    "county": "Fresno",
+    "state": "OH",
+    "census_tract": "27796"
+  },
+  "location_type": "Residential",
+  "incident_address": "3916 Wong Parks Apt. 169, Lake Johnny, OK 24665",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 911,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8471",
+  "audio_file_name": "911-20250412-0275.mp3",
+  "audio_duration_seconds": 138,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.8,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "sport",
+    "oil",
+    "whose",
+    "eat",
+    "represent",
+    "discuss"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Seat rule range card design where off prepare response stop add blood deal certain right size than foot.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

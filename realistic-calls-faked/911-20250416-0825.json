@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250416-0825",
+  "timestamp_received": "2025-04-16T03:28:02Z",
+  "caller_number": "6458084319652",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 70,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.54491,
+    "longitude": -121.74052,
+    "county": "Davis",
+    "state": "NY",
+    "census_tract": "12933"
+  },
+  "location_type": "School",
+  "incident_address": "005 Elizabeth Dale Suite 055, Evansberg, SC 70168",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 326,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3072",
+  "audio_file_name": "911-20250416-0825.mp3",
+  "audio_duration_seconds": 102,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.3,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "sell",
+    "few",
+    "from",
+    "happen",
+    "several"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Interest fly north style policy indeed bed alone million late decide sit reason drop ok film commercial door season energy on common computer.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250425-0719",
+  "timestamp_received": "2025-04-25T19:57:51Z",
+  "caller_number": "3402937813",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 22,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.68066,
+    "longitude": -73.47429,
+    "county": "Massapequa",
+    "state": "PA",
+    "census_tract": "86758"
+  },
+  "location_type": "Residential",
+  "incident_address": "73326 Shane Stravenue Suite 746, Rhondahaven, DE 76605",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 1058,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8100",
+  "audio_file_name": "911-20250425-0719.mp3",
+  "audio_duration_seconds": 161,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 9.4,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "play",
+    "fall",
+    "his",
+    "wide",
+    "policy",
+    "leader",
+    "family"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Wish face parent create authority indicate get those church term road this important end spring.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

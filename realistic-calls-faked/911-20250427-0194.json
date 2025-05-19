@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250427-0194",
+  "timestamp_received": "2025-04-27T13:55:07Z",
+  "caller_number": "743000389608706",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 30,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.93369,
+    "longitude": -72.27814,
+    "county": "Keene",
+    "state": "OH",
+    "census_tract": "43631"
+  },
+  "location_type": "Highway",
+  "incident_address": "6821 Wilson Ridges, Michaelmouth, AR 31718",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 110,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9468",
+  "audio_file_name": "911-20250427-0194.mp3",
+  "audio_duration_seconds": 125,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.7,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "discussion",
+    "open",
+    "dinner",
+    "section",
+    "thousand",
+    "soldier",
+    "nothing",
+    "yard"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Their economic arm arm just executive fire own three your can huge.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

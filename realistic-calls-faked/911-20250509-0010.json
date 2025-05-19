@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250509-0010",
+  "timestamp_received": "2025-05-09T17:18:48Z",
+  "caller_number": "23166587603669",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.27621,
+    "longitude": -72.86843,
+    "county": "East Haven",
+    "state": "GA",
+    "census_tract": "71993"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "USS Gates, FPO AP 50358",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 449,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2545",
+  "audio_file_name": "911-20250509-0010.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.7,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "local",
+    "wall",
+    "fear",
+    "hope"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Mrs same son today major event magazine home protect something right subject try wonder move trade option production base investment term consider.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

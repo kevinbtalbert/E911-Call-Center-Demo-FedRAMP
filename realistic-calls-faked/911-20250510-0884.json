@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250510-0884",
+  "timestamp_received": "2025-05-10T13:18:11Z",
+  "caller_number": "370079633022517",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.77453,
+    "longitude": -96.67834,
+    "county": "Ada",
+    "state": "NY",
+    "census_tract": "54536"
+  },
+  "location_type": "Residential",
+  "incident_address": "992 Rebecca Overpass Suite 621, East Kevin, VT 46064",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 638,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1718",
+  "audio_file_name": "911-20250510-0884.mp3",
+  "audio_duration_seconds": 156,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.7,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "no",
+    "police",
+    "water",
+    "while",
+    "view",
+    "huge",
+    "ask",
+    "west"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Various for our on safe fight father seek material truth set into cultural later new report statement give individual factor meet myself travel yet join on together.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

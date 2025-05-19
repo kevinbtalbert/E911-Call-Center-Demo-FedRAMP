@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250421-0798",
+  "timestamp_received": "2025-04-21T00:58:55Z",
+  "caller_number": "6602445697918",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 46,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.06084,
+    "longitude": -97.92977,
+    "county": "Hutchinson",
+    "state": "KY",
+    "census_tract": "16798"
+  },
+  "location_type": "Industrial",
+  "incident_address": "69757 Bradford Lake, Philliptown, OH 25475",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 121,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6904",
+  "audio_file_name": "911-20250421-0798.mp3",
+  "audio_duration_seconds": 129,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.1,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "environmental",
+    "yourself",
+    "individual",
+    "head"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "That national spend financial relate weight open help anyone region talk rise rate message serious military already blue.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

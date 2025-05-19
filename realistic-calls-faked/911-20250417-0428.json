@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250417-0428",
+  "timestamp_received": "2025-04-17T18:24:53Z",
+  "caller_number": "3850255134",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 66,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.91756,
+    "longitude": -82.07842,
+    "county": "Punta Gorda Isles",
+    "state": "MD",
+    "census_tract": "49674"
+  },
+  "location_type": "Industrial",
+  "incident_address": "672 Amanda Plain Apt. 904, Fischerbury, KS 47843",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 413,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7150",
+  "audio_file_name": "911-20250417-0428.mp3",
+  "audio_duration_seconds": 52,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.7,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "every",
+    "rule",
+    "receive",
+    "health"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Factor stop chance behavior end sit leader military operation first as themselves account add focus during many itself believe create recognize source maybe art.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

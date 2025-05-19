@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250427-0069",
+  "timestamp_received": "2025-04-27T22:42:10Z",
+  "caller_number": "6375628900",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 83,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.4943,
+    "longitude": -122.24092,
+    "county": "Bryn Mawr-Skyway",
+    "state": "NC",
+    "census_tract": "94675"
+  },
+  "location_type": "Industrial",
+  "incident_address": "772 Karen Islands, West Tara, NY 29691",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1101,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6928",
+  "audio_file_name": "911-20250427-0069.mp3",
+  "audio_duration_seconds": 34,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 9.6,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "nearly",
+    "her",
+    "stage",
+    "bad",
+    "know"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 10.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Large task language budget market president bill include news a before page people fight meet deal public wear guy approach development lawyer nice people list price.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

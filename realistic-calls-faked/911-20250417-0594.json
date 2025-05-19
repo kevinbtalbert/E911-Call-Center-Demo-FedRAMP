@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250417-0594",
+  "timestamp_received": "2025-04-17T19:20:02Z",
+  "caller_number": "3507695559",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 41,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.47892,
+    "longitude": -87.45476,
+    "county": "Schererville",
+    "state": "KY",
+    "census_tract": "75377"
+  },
+  "location_type": "School",
+  "incident_address": "5881 William Station, Lake Elijah, WI 43720",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 84,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9587",
+  "audio_file_name": "911-20250417-0594.mp3",
+  "audio_duration_seconds": 88,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.3,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "feel",
+    "should",
+    "later",
+    "market",
+    "manage",
+    "head",
+    "them",
+    "have"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Call method chance eye only specific lot like although management represent them throughout outside exist.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250508-0999",
+  "timestamp_received": "2025-05-08T05:46:11Z",
+  "caller_number": "6711712034",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "VA",
+    "census_tract": "76757"
+  },
+  "location_type": "School",
+  "incident_address": "Unit 7417 Box 5659, DPO AP 23139",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 858,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9120",
+  "audio_file_name": "911-20250508-0999.mp3",
+  "audio_duration_seconds": 66,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "decade",
+    "accept",
+    "various",
+    "continue",
+    "within",
+    "can"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Before yard find write product cover son what green be out per phone civil assume attention card write class sell across soldier past.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

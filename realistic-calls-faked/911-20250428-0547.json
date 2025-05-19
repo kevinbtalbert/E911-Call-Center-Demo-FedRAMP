@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250428-0547",
+  "timestamp_received": "2025-04-28T04:18:31Z",
+  "caller_number": "2718624475631",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 86,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.52487,
+    "longitude": -77.55777,
+    "county": "Bon Air",
+    "state": "NC",
+    "census_tract": "95843"
+  },
+  "location_type": "Residential",
+  "incident_address": "13807 Angela Oval, South Robertmouth, ME 45945",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 491,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6932",
+  "audio_file_name": "911-20250428-0547.mp3",
+  "audio_duration_seconds": 167,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.6,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "performance",
+    "member",
+    "message",
+    "heavy",
+    "government"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Remember fast mission agreement pick nearly mission full away commercial production relate high once treat firm weight evening operation resource.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

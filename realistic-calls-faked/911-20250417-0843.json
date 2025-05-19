@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250417-0843",
+  "timestamp_received": "2025-04-17T11:35:30Z",
+  "caller_number": "+10857537947631",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.2173,
+    "longitude": -80.22588,
+    "county": "North Lauderdale",
+    "state": "KY",
+    "census_tract": "96662"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "429 Alexander Heights, Lake Tony, MA 21088",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 394,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4351",
+  "audio_file_name": "911-20250417-0843.mp3",
+  "audio_duration_seconds": 134,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "suggest",
+    "far",
+    "right",
+    "probably",
+    "fish",
+    "smile"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Born sport man same star use important become her throughout them media perform maybe civil financial.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0851",
+  "timestamp_received": "2025-04-26T00:55:52Z",
+  "caller_number": "035332101254675",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.93369,
+    "longitude": -72.27814,
+    "county": "Keene",
+    "state": "OH",
+    "census_tract": "92919"
+  },
+  "location_type": "Public Park",
+  "incident_address": "9995 Ruiz Fort, Lake Lindatown, NE 70343",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 770,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4750",
+  "audio_file_name": "911-20250426-0851.mp3",
+  "audio_duration_seconds": 43,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.7,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "price",
+    "call",
+    "necessary",
+    "cost",
+    "attack"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Soon describe fill home trial cover how likely member rather work discover may dog plan strategy work find.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

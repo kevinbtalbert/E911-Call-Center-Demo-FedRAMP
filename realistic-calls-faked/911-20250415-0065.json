@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250415-0065",
+  "timestamp_received": "2025-04-15T15:47:34Z",
+  "caller_number": "5387584282",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 79,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.49428,
+    "longitude": -122.86705,
+    "county": "Aloha",
+    "state": "MD",
+    "census_tract": "83889"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "48251 Michael Summit Suite 655, Brendamouth, DE 62175",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 979,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6295",
+  "audio_file_name": "911-20250415-0065.mp3",
+  "audio_duration_seconds": 110,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 5.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "approach",
+    "plant",
+    "oil",
+    "per",
+    "line",
+    "create",
+    "build",
+    "quite"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Fear approach take case customer important notice trade leader first resource single maintain piece computer play above event seven collection share majority shake because pass.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

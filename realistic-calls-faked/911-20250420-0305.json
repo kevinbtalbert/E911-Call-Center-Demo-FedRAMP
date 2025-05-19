@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250420-0305",
+  "timestamp_received": "2025-04-20T01:49:37Z",
+  "caller_number": "1669063224815",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 36,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.54044,
+    "longitude": -82.90375,
+    "county": "Dublin",
+    "state": "PA",
+    "census_tract": "47387"
+  },
+  "location_type": "Commercial",
+  "incident_address": "034 John Crossing, New Michaelfurt, OK 84365",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 374,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3641",
+  "audio_file_name": "911-20250420-0305.mp3",
+  "audio_duration_seconds": 90,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.2,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "later",
+    "institution",
+    "skin",
+    "performance",
+    "he",
+    "opportunity"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Head interesting common early look blood student economy its book never shoulder something method although ago treatment society network beyond.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

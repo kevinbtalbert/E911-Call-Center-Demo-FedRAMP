@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250427-0319",
+  "timestamp_received": "2025-04-27T06:09:47Z",
+  "caller_number": "0017283391218",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 75,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.00622,
+    "longitude": -77.4286,
+    "county": "Sterling",
+    "state": "NC",
+    "census_tract": "78121"
+  },
+  "location_type": "Commercial",
+  "incident_address": "93288 Jennifer Point Apt. 221, Port Darylburgh, HI 00777",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 799,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5723",
+  "audio_file_name": "911-20250427-0319.mp3",
+  "audio_duration_seconds": 172,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 5.4,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "administration",
+    "reality",
+    "history",
+    "its",
+    "boy",
+    "travel",
+    "meet"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Others test try quality resource business natural stand country himself behavior article right today eye floor during want operation sense skill everybody situation short nearly catch fire impact.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

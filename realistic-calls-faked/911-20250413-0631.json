@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250413-0631",
+  "timestamp_received": "2025-04-13T00:12:12Z",
+  "caller_number": "001452395960233159",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.65995,
+    "longitude": -111.99633,
+    "county": "Kearns",
+    "state": "MD",
+    "census_tract": "64332"
+  },
+  "location_type": "Highway",
+  "incident_address": "PSC 9875, Box 1757, APO AP 04374",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 453,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7755",
+  "audio_file_name": "911-20250413-0631.mp3",
+  "audio_duration_seconds": 77,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 3.4,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "culture",
+    "cultural",
+    "standard",
+    "nearly",
+    "Mrs",
+    "some",
+    "tell"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Executive attack from college somebody evidence water usually another message national management glass red machine future must we above full send field amount peace training compare easy.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

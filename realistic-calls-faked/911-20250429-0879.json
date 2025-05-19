@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250429-0879",
+  "timestamp_received": "2025-04-29T11:21:50Z",
+  "caller_number": "630779975109065",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 48,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.50921,
+    "longitude": -111.89903,
+    "county": "Scottsdale",
+    "state": "PA",
+    "census_tract": "41713"
+  },
+  "location_type": "Public Park",
+  "incident_address": "407 Margaret Forks, Stephaniechester, MN 95710",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 921,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9682",
+  "audio_file_name": "911-20250429-0879.mp3",
+  "audio_duration_seconds": 45,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.9,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "among",
+    "brother",
+    "science",
+    "material",
+    "message"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Charge apply century fish serious decision agreement conference read and situation behavior kid total stock knowledge pay area girl have call loss could peace education whether.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

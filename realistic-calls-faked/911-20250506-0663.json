@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250506-0663",
+  "timestamp_received": "2025-05-06T15:22:43Z",
+  "caller_number": "5459034819543",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.9001,
+    "longitude": -71.08977,
+    "county": "Taunton",
+    "state": "SC",
+    "census_tract": "35915"
+  },
+  "location_type": "Public Park",
+  "incident_address": "02693 Watson Freeway, New Christineberg, UT 33202",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 1170,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4102",
+  "audio_file_name": "911-20250506-0663.mp3",
+  "audio_duration_seconds": 61,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.6,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "country",
+    "watch",
+    "bank",
+    "half",
+    "seat",
+    "attorney",
+    "wind"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Fire section agreement age heavy admit catch somebody add key response floor yourself second father spring local church usually toward information experience worker same effort.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

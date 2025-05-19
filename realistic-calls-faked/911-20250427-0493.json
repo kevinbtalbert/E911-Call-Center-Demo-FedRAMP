@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250427-0493",
+  "timestamp_received": "2025-04-27T12:02:58Z",
+  "caller_number": "001075199198177551",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 68,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.81,
+    "longitude": -73.9625,
+    "county": "Morningside Heights",
+    "state": "MD",
+    "census_tract": "97586"
+  },
+  "location_type": "Residential",
+  "incident_address": "1492 Harris Courts Suite 498, New Katherine, IA 68311",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 1140,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4940",
+  "audio_file_name": "911-20250427-0493.mp3",
+  "audio_duration_seconds": 177,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.9,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "sister",
+    "from",
+    "now",
+    "evening"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Its here five today loss gun field partner possible remain police fill worker it likely manage from improve nor week rise stop enter.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250502-0365",
+  "timestamp_received": "2025-05-02T05:44:59Z",
+  "caller_number": "0388027304",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "PA",
+    "census_tract": "26662"
+  },
+  "location_type": "School",
+  "incident_address": "62814 Rhodes Motorway Apt. 893, Lauratown, MT 75884",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 324,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9408",
+  "audio_file_name": "911-20250502-0365.mp3",
+  "audio_duration_seconds": 165,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.3,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "something",
+    "industry",
+    "I",
+    "receive"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Phone reality about community measure shake everything party lawyer especially floor which born religious story short Mrs throughout career make law thousand again whose south whether world.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

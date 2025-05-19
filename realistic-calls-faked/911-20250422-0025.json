@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250422-0025",
+  "timestamp_received": "2025-04-22T09:16:23Z",
+  "caller_number": "218188355231243",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 69,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.60876,
+    "longitude": -77.37331,
+    "county": "Mechanicsville",
+    "state": "OH",
+    "census_tract": "53369"
+  },
+  "location_type": "Highway",
+  "incident_address": "127 Webster Trace, Maldonadoshire, SC 82358",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 911,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2020",
+  "audio_file_name": "911-20250422-0025.mp3",
+  "audio_duration_seconds": 82,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.5,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "follow",
+    "wife",
+    "firm",
+    "key",
+    "light",
+    "place",
+    "someone"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Argue medical financial later arm story baby ten talk past medical leg never social time last special prepare focus little character artist billion tonight gas research mean.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

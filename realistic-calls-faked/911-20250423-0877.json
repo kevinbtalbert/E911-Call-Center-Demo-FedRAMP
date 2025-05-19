@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250423-0877",
+  "timestamp_received": "2025-04-23T00:28:41Z",
+  "caller_number": "038552882313299",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.5007,
+    "longitude": -94.74049,
+    "county": "Longview",
+    "state": "NY",
+    "census_tract": "78406"
+  },
+  "location_type": "School",
+  "incident_address": "Unit 7834 Box 3585, DPO AP 76385",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1197,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4495",
+  "audio_file_name": "911-20250423-0877.mp3",
+  "audio_duration_seconds": 135,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 3.3,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "blue",
+    "paper",
+    "think",
+    "letter",
+    "easy",
+    "gun",
+    "use"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Challenge free positive write dinner realize cultural if me best left break space he defense PM others four with painting understand southern interesting nothing past maybe.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

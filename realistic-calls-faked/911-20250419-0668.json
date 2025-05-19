@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250419-0668",
+  "timestamp_received": "2025-04-19T18:12:16Z",
+  "caller_number": "7085536062",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 23,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.24255,
+    "longitude": -82.61573,
+    "county": "Norwalk",
+    "state": "KY",
+    "census_tract": "23895"
+  },
+  "location_type": "Residential",
+  "incident_address": "3567 Danielle Knoll, Gibsonfurt, VA 38424",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 1036,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5740",
+  "audio_file_name": "911-20250419-0668.mp3",
+  "audio_duration_seconds": 66,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.7,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "coach",
+    "part",
+    "finally",
+    "assume",
+    "son"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Study report describe season light adult sell final model remember fight reason.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

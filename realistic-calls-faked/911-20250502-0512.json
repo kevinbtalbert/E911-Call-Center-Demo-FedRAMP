@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250502-0512",
+  "timestamp_received": "2025-05-02T14:57:58Z",
+  "caller_number": "0013934396904",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 19,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.8542,
+    "longitude": -87.66561,
+    "county": "Lower West Side",
+    "state": "TN",
+    "census_tract": "69910"
+  },
+  "location_type": "Residential",
+  "incident_address": "925 William Point, West Stephen, NY 13425",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 857,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1180",
+  "audio_file_name": "911-20250502-0512.mp3",
+  "audio_duration_seconds": 178,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.9,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "throughout",
+    "east",
+    "various",
+    "discussion"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Eat together quickly anything worry institution big condition fall little effect plant much course standard church drop get food authority.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

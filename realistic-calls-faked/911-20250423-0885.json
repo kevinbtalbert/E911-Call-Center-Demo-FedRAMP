@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250423-0885",
+  "timestamp_received": "2025-04-23T04:40:04Z",
+  "caller_number": "+1770518650679964",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.09273,
+    "longitude": -88.64235,
+    "county": "Iron River",
+    "state": "VA",
+    "census_tract": "11274"
+  },
+  "location_type": "School",
+  "incident_address": "59059 Morgan Ville, Robertmouth, ME 22218",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 502,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5981",
+  "audio_file_name": "911-20250423-0885.mp3",
+  "audio_duration_seconds": 33,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.5,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "interesting",
+    "help",
+    "particular",
+    "pay",
+    "another"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Another since read imagine according weight hope medical site stock mean all fast individual several form teacher picture clear police citizen free body she spend.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

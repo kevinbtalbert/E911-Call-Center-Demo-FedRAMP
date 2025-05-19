@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250508-0704",
+  "timestamp_received": "2025-05-08T17:32:49Z",
+  "caller_number": "0012558767350781",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "PA",
+    "census_tract": "84377"
+  },
+  "location_type": "School",
+  "incident_address": "83947 Adams Stream Suite 126, West Chelseaborough, MO 88342",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 604,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1835",
+  "audio_file_name": "911-20250508-0704.mp3",
+  "audio_duration_seconds": 139,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.9,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "usually",
+    "blue",
+    "of",
+    "compare",
+    "while"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Free recently eight oil seven on as painting front thousand husband your article hour hope represent brother wrong grow baby else knowledge left.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

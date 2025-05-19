@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250501-0508",
+  "timestamp_received": "2025-05-01T01:28:52Z",
+  "caller_number": "+170150196797209",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.4943,
+    "longitude": -122.24092,
+    "county": "Bryn Mawr-Skyway",
+    "state": "VA",
+    "census_tract": "70661"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "201 Andrea Stravenue, Davidbury, FL 74570",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 1002,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1890",
+  "audio_file_name": "911-20250501-0508.mp3",
+  "audio_duration_seconds": 51,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "last",
+    "about",
+    "environmental",
+    "positive",
+    "culture",
+    "live"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Measure order billion movement visit training trial specific back success soon position bar own wind tough level store least receive.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

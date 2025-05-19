@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250419-0800",
+  "timestamp_received": "2025-04-19T23:33:53Z",
+  "caller_number": "0011510413677767",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.61062,
+    "longitude": -72.97261,
+    "county": "Rutland",
+    "state": "KY",
+    "census_tract": "34458"
+  },
+  "location_type": "Highway",
+  "incident_address": "224 Mendoza Mountain, New Robertmouth, WI 59686",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 1049,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3914",
+  "audio_file_name": "911-20250419-0800.mp3",
+  "audio_duration_seconds": 117,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "old",
+    "brother",
+    "car",
+    "study",
+    "figure"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Prove two Mrs person reach top data understand more help onto idea everything building push hit especially national.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

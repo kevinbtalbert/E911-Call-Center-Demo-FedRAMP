@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250416-0871",
+  "timestamp_received": "2025-04-16T09:06:17Z",
+  "caller_number": "2501699329",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.93369,
+    "longitude": -72.27814,
+    "county": "Keene",
+    "state": "MD",
+    "census_tract": "48901"
+  },
+  "location_type": "School",
+  "incident_address": "USCGC King, FPO AE 11687",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 438,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2222",
+  "audio_file_name": "911-20250416-0871.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 6.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "relate",
+    "house",
+    "spring",
+    "writer",
+    "sit"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Above human simple fast or foot blood current interesting spend above save game less such political image season trade look wish behavior.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

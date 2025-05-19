@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250510-0417",
+  "timestamp_received": "2025-05-10T10:19:39Z",
+  "caller_number": "41899740233868",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.24113,
+    "longitude": -88.3162,
+    "county": "Crystal Lake",
+    "state": "MD",
+    "census_tract": "98185"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "Unit 0835 Box 7017, DPO AE 32633",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 79,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2000",
+  "audio_file_name": "911-20250510-0417.mp3",
+  "audio_duration_seconds": 98,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.9,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "impact",
+    "animal",
+    "performance",
+    "special",
+    "environmental",
+    "trouble",
+    "mention",
+    "in"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "And really rule music save development work since everyone attorney especially official on item at parent.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

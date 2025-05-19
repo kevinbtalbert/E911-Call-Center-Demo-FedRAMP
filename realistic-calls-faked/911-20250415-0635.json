@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250415-0635",
+  "timestamp_received": "2025-04-15T10:44:11Z",
+  "caller_number": "7060074614",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.54566,
+    "longitude": -71.29144,
+    "county": "Middletown",
+    "state": "PA",
+    "census_tract": "64225"
+  },
+  "location_type": "Industrial",
+  "incident_address": "0049 Jessica Shore, Braunport, MS 73877",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 458,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5076",
+  "audio_file_name": "911-20250415-0635.mp3",
+  "audio_duration_seconds": 75,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.4,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "join",
+    "produce",
+    "PM",
+    "summer"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Draw treat learn cost bag group long majority feeling according foot win street join business chance set right film ever major.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

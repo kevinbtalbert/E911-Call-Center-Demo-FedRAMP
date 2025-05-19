@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250502-0162",
+  "timestamp_received": "2025-05-02T02:19:45Z",
+  "caller_number": "4628314359",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 45,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.16704,
+    "longitude": -73.20483,
+    "county": "Bridgeport",
+    "state": "PA",
+    "census_tract": "17993"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "2566 Tamara Gateway, West Davidville, OH 53818",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 1130,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7858",
+  "audio_file_name": "911-20250502-0162.mp3",
+  "audio_duration_seconds": 167,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "at",
+    "policy",
+    "guy",
+    "four",
+    "event",
+    "than",
+    "difficult",
+    "act"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Woman develop weight situation but money then open southern believe give occur example even between answer fish sell Congress south question.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

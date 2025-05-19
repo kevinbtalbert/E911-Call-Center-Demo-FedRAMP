@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250418-0675",
+  "timestamp_received": "2025-04-18T09:38:09Z",
+  "caller_number": "+18767660628",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.57721,
+    "longitude": -93.71133,
+    "county": "West Des Moines",
+    "state": "NC",
+    "census_tract": "28338"
+  },
+  "location_type": "Commercial",
+  "incident_address": "34039 Pierce Place Suite 443, New Coryborough, IA 21614",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 1130,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3676",
+  "audio_file_name": "911-20250418-0675.mp3",
+  "audio_duration_seconds": 90,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.0,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "real",
+    "nothing",
+    "daughter",
+    "perhaps"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Relationship Congress sell drug cold above business value nice nearly bring development term back like increase game stop image laugh author carry region.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

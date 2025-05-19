@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250415-0105",
+  "timestamp_received": "2025-04-15T06:23:58Z",
+  "caller_number": "8913718949",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 20,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.06523,
+    "longitude": -119.01677,
+    "county": "Porterville",
+    "state": "MD",
+    "census_tract": "88352"
+  },
+  "location_type": "Industrial",
+  "incident_address": "077 Berry Isle Suite 544, North Heather, WA 40356",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 561,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1724",
+  "audio_file_name": "911-20250415-0105.mp3",
+  "audio_duration_seconds": 132,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 3.0,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "risk",
+    "nor",
+    "article",
+    "list",
+    "college",
+    "appear",
+    "wrong",
+    "speak"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Agree machine camera baby six edge past every either scientist page travel school process have compare site door Congress month almost worker whose other start study sell.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

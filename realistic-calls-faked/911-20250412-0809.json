@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250412-0809",
+  "timestamp_received": "2025-04-12T07:24:58Z",
+  "caller_number": "+144073197189011",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 62,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.58342,
+    "longitude": -71.8023,
+    "county": "Fitchburg",
+    "state": "PA",
+    "census_tract": "31981"
+  },
+  "location_type": "Public Park",
+  "incident_address": "7291 Montgomery Roads, Sarahchester, SC 51921",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 488,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2140",
+  "audio_file_name": "911-20250412-0809.mp3",
+  "audio_duration_seconds": 164,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.9,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "indeed",
+    "inside",
+    "low",
+    "yard",
+    "major"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Detail consumer game happen write religious myself blood range time seem activity accept say bag tend determine bed citizen notice another stuff manage attorney scene then.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

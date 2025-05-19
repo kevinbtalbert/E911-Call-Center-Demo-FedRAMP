@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250414-0349",
+  "timestamp_received": "2025-04-14T07:36:26Z",
+  "caller_number": "00143387220542216",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 25,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.64621,
+    "longitude": -73.97069,
+    "county": "Kensington",
+    "state": "VA",
+    "census_tract": "77294"
+  },
+  "location_type": "Residential",
+  "incident_address": "496 Regina Streets Apt. 833, Kellymouth, AK 40442",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 930,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7766",
+  "audio_file_name": "911-20250414-0349.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.3,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "maybe",
+    "million",
+    "meet",
+    "oil"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Activity let source action hear raise she range author she finish small large either reduce consider interview price civil there.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

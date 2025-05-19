@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250507-0498",
+  "timestamp_received": "2025-05-07T19:58:42Z",
+  "caller_number": "0013255441181851",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "GA",
+    "census_tract": "91293"
+  },
+  "location_type": "Industrial",
+  "incident_address": "80520 Angela Rue Apt. 937, Palmerville, WI 37130",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 862,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7437",
+  "audio_file_name": "911-20250507-0498.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.9,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "technology",
+    "voice",
+    "employee",
+    "provide",
+    "coach",
+    "watch"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Product during drug environment arrive best continue college debate home crime meet there house fact traditional animal of.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

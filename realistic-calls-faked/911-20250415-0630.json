@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250415-0630",
+  "timestamp_received": "2025-04-15T23:47:00Z",
+  "caller_number": "72143486965371",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 44,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.45122,
+    "longitude": -86.99666,
+    "county": "Hueytown",
+    "state": "MD",
+    "census_tract": "15344"
+  },
+  "location_type": "Commercial",
+  "incident_address": "3105 Adam Port Apt. 187, North Elizabeth, MN 07282",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 377,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5485",
+  "audio_file_name": "911-20250415-0630.mp3",
+  "audio_duration_seconds": 36,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.8,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "live",
+    "decide",
+    "do",
+    "last",
+    "stop",
+    "direction",
+    "word"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Live cover water walk score military appear without civil real prove young paper stop recent moment include respond a arrive character agree pretty local the want building.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

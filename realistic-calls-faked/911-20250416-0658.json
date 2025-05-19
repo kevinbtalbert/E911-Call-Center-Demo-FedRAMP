@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250416-0658",
+  "timestamp_received": "2025-04-16T00:47:12Z",
+  "caller_number": "2120861498",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 79,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.93113,
+    "longitude": -117.54866,
+    "county": "Norco",
+    "state": "VA",
+    "census_tract": "91508"
+  },
+  "location_type": "Highway",
+  "incident_address": "79669 Wagner Green Apt. 001, Christopherview, KS 51914",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 406,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6983",
+  "audio_file_name": "911-20250416-0658.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.1,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "add",
+    "little",
+    "success",
+    "college",
+    "relationship",
+    "mouth"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Attack woman often college relate successful science remember outside lead food like join time today reduce participant color director future material offer.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

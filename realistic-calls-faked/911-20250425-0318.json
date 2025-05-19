@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250425-0318",
+  "timestamp_received": "2025-04-25T16:23:13Z",
+  "caller_number": "6524445446",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 84,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.72255,
+    "longitude": -116.37697,
+    "county": "Palm Desert",
+    "state": "VA",
+    "census_tract": "22934"
+  },
+  "location_type": "Commercial",
+  "incident_address": "517 Shannon Tunnel, North Darlenemouth, SD 78587",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 1032,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7004",
+  "audio_file_name": "911-20250425-0318.mp3",
+  "audio_duration_seconds": 180,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.6,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "but",
+    "Mr",
+    "whether",
+    "mention",
+    "eight",
+    "much",
+    "history"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Nothing international only method choice thought real article year fire official car look ever last case heavy already become rock our security high education environmental toward story.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

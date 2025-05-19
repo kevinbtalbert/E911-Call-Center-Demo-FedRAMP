@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250504-0038",
+  "timestamp_received": "2025-05-04T18:04:21Z",
+  "caller_number": "9332727956878",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 54,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.35843,
+    "longitude": -71.05977,
+    "county": "Boston",
+    "state": "OH",
+    "census_tract": "45683"
+  },
+  "location_type": "Highway",
+  "incident_address": "91878 Miller Port, North Mariahaven, OK 70842",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 1071,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8172",
+  "audio_file_name": "911-20250504-0038.mp3",
+  "audio_duration_seconds": 50,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 3.9,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "change",
+    "foreign",
+    "minute",
+    "break"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Response major together knowledge argue car indeed nor next pull final against effort able design authority interest.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

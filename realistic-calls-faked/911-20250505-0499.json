@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250505-0499",
+  "timestamp_received": "2025-05-05T03:27:49Z",
+  "caller_number": "+1761837629507671",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 55,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.48199,
+    "longitude": -81.79819,
+    "county": "Lakewood",
+    "state": "GA",
+    "census_tract": "32312"
+  },
+  "location_type": "Public Park",
+  "incident_address": "72048 Hoffman Shoals, Dakotafurt, OK 29647",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 401,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4069",
+  "audio_file_name": "911-20250505-0499.mp3",
+  "audio_duration_seconds": 115,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 7.0,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "and",
+    "though",
+    "provide",
+    "hit"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Pressure somebody either investment fear open bar already responsibility range discuss race hit treatment somebody notice whole rest seek.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

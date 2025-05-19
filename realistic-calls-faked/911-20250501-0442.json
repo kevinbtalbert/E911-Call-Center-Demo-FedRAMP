@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250501-0442",
+  "timestamp_received": "2025-05-01T04:37:35Z",
+  "caller_number": "+1945231582863040",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 54,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.16024,
+    "longitude": -93.08883,
+    "county": "Lino Lakes",
+    "state": "KY",
+    "census_tract": "66143"
+  },
+  "location_type": "Commercial",
+  "incident_address": "PSC 2966, Box 2991, APO AA 21201",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 611,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2780",
+  "audio_file_name": "911-20250501-0442.mp3",
+  "audio_duration_seconds": 142,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "between",
+    "far",
+    "church",
+    "catch",
+    "capital",
+    "few"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Less until computer budget range opportunity tonight him decide teach strong how worry standard seem will building discover church and mother visit.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

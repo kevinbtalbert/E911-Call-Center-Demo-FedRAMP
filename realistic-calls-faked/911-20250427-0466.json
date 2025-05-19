@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250427-0466",
+  "timestamp_received": "2025-04-27T00:09:03Z",
+  "caller_number": "+150295867603040",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 86,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.9001,
+    "longitude": -71.08977,
+    "county": "Taunton",
+    "state": "GA",
+    "census_tract": "93674"
+  },
+  "location_type": "Residential",
+  "incident_address": "6754 Amanda Stream, East Kristina, NY 13117",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 611,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2393",
+  "audio_file_name": "911-20250427-0466.mp3",
+  "audio_duration_seconds": 175,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.4,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "and",
+    "thousand",
+    "store",
+    "professor"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Common any seek beyond each heart beyond financial chance better movement natural gun door all nearly culture room thing public mission rich PM.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

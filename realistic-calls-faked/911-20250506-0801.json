@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250506-0801",
+  "timestamp_received": "2025-05-06T11:45:47Z",
+  "caller_number": "996908786391418",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.66394,
+    "longitude": -83.55521,
+    "county": "Toledo",
+    "state": "OH",
+    "census_tract": "58395"
+  },
+  "location_type": "Public Park",
+  "incident_address": "094 Gloria Turnpike Suite 474, South Brian, MN 39843",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 1062,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9502",
+  "audio_file_name": "911-20250506-0801.mp3",
+  "audio_duration_seconds": 97,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 6.5,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "evening",
+    "risk",
+    "lose",
+    "include",
+    "article",
+    "free"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Still clear little toward lead woman the early buy education something dream national word wait all fire model our ready put affect present.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

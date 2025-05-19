@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250502-0210",
+  "timestamp_received": "2025-05-02T16:24:33Z",
+  "caller_number": "0014242956334324",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 48,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.60538,
+    "longitude": -73.75513,
+    "county": "Far Rockaway",
+    "state": "TN",
+    "census_tract": "80268"
+  },
+  "location_type": "School",
+  "incident_address": "1759 Bailey Row Suite 209, Mooreshire, UT 57367",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 808,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5514",
+  "audio_file_name": "911-20250502-0210.mp3",
+  "audio_duration_seconds": 131,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.1,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "get",
+    "specific",
+    "someone",
+    "debate",
+    "record",
+    "mean"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Before significant election life all boy probably cost cause only head help open almost red picture thank account.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

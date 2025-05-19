@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250507-0244",
+  "timestamp_received": "2025-05-07T10:47:34Z",
+  "caller_number": "525483744171581",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.24255,
+    "longitude": -82.61573,
+    "county": "Norwalk",
+    "state": "NC",
+    "census_tract": "44898"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "31251 Ashley Freeway, Port Charlestown, MA 81432",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 722,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2467",
+  "audio_file_name": "911-20250507-0244.mp3",
+  "audio_duration_seconds": 58,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.1,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "audience",
+    "old",
+    "whole",
+    "wide",
+    "piece",
+    "former",
+    "professor",
+    "partner"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Region current second ball begin week about social do anyone bag fly more.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

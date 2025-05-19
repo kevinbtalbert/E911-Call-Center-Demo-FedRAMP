@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250430-0117",
+  "timestamp_received": "2025-04-30T10:49:00Z",
+  "caller_number": "4627301471",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 53,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.92946,
+    "longitude": -116.97725,
+    "county": "Beaumont",
+    "state": "GA",
+    "census_tract": "19634"
+  },
+  "location_type": "Residential",
+  "incident_address": "796 Burton Mountains Apt. 589, Port Jordanshire, FL 42402",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 375,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7225",
+  "audio_file_name": "911-20250430-0117.mp3",
+  "audio_duration_seconds": 69,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.0,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "leave",
+    "really",
+    "group",
+    "apply",
+    "guess",
+    "player",
+    "western"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Face morning view message short consumer behind sell myself their step rate feeling.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

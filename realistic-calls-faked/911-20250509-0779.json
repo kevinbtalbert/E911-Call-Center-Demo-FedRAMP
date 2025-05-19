@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250509-0779",
+  "timestamp_received": "2025-05-09T19:15:41Z",
+  "caller_number": "+16069939945",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 53,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.78504,
+    "longitude": -85.76942,
+    "county": "Greenfield",
+    "state": "PA",
+    "census_tract": "94115"
+  },
+  "location_type": "Highway",
+  "incident_address": "838 Christina Cliffs Suite 298, Smithburgh, NY 49424",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 994,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2468",
+  "audio_file_name": "911-20250509-0779.mp3",
+  "audio_duration_seconds": 163,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.1,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "red",
+    "some",
+    "black",
+    "arm",
+    "instead",
+    "course",
+    "actually",
+    "heavy"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Prepare practice indeed computer phone rather himself feel cell five natural national old soldier ability whom nature method shake very.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

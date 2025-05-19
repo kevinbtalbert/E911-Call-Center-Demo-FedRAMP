@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250429-0529",
+  "timestamp_received": "2025-04-29T09:56:36Z",
+  "caller_number": "+124741117367038",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.58654,
+    "longitude": -122.39168,
+    "county": "Redding",
+    "state": "GA",
+    "census_tract": "63557"
+  },
+  "location_type": "Residential",
+  "incident_address": "7611 Michael Point Suite 233, Port Alexiston, MO 33170",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 222,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5529",
+  "audio_file_name": "911-20250429-0529.mp3",
+  "audio_duration_seconds": 171,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "allow",
+    "way",
+    "record",
+    "official",
+    "coach",
+    "education",
+    "point"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Memory development training ten son always line respond modern bar PM director interview good try.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

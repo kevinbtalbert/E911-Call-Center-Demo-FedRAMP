@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250505-0127",
+  "timestamp_received": "2025-05-05T18:17:24Z",
+  "caller_number": "3420696942152",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.61033,
+    "longitude": -88.31476,
+    "county": "Murray",
+    "state": "NY",
+    "census_tract": "60939"
+  },
+  "location_type": "Highway",
+  "incident_address": "USS Smith, FPO AP 57538",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 293,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6700",
+  "audio_file_name": "911-20250505-0127.mp3",
+  "audio_duration_seconds": 120,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.4,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "significant",
+    "up",
+    "still",
+    "management",
+    "difference"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Course technology site explain management candidate task outside yet executive quality industry impact certainly face energy pay.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

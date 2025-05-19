@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250430-0526",
+  "timestamp_received": "2025-04-30T09:56:52Z",
+  "caller_number": "+181213008823846",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 71,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.80527,
+    "longitude": -122.24064,
+    "county": "Bothell West",
+    "state": "PA",
+    "census_tract": "16849"
+  },
+  "location_type": "Industrial",
+  "incident_address": "867 James Forge, North Josephview, DE 65223",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 124,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9872",
+  "audio_file_name": "911-20250430-0526.mp3",
+  "audio_duration_seconds": 119,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.3,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "put",
+    "want",
+    "letter",
+    "physical"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Yeah task voice wide right audience catch write sign morning carry cause improve seek money worker state business his point physical response stock choose including share real job.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

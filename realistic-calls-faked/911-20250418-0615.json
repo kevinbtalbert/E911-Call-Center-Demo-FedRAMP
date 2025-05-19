@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250418-0615",
+  "timestamp_received": "2025-04-18T07:14:12Z",
+  "caller_number": "3867077604",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 44,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.15376,
+    "longitude": -87.88754,
+    "county": "Bourbonnais",
+    "state": "NC",
+    "census_tract": "22424"
+  },
+  "location_type": "Industrial",
+  "incident_address": "987 Erickson Mountains, Brettside, NM 64306",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 638,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2724",
+  "audio_file_name": "911-20250418-0615.mp3",
+  "audio_duration_seconds": 93,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "tell",
+    "avoid",
+    "large",
+    "full",
+    "soldier",
+    "successful",
+    "appear"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Strategy recognize think have authority reach sport senior research manage true exist left window general consumer get those.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

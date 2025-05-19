@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250429-0155",
+  "timestamp_received": "2025-04-29T17:07:38Z",
+  "caller_number": "6264488694",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.06523,
+    "longitude": -119.01677,
+    "county": "Porterville",
+    "state": "OH",
+    "census_tract": "86810"
+  },
+  "location_type": "Residential",
+  "incident_address": "95243 Hale Avenue, Port Travis, CA 91768",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 678,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6285",
+  "audio_file_name": "911-20250429-0155.mp3",
+  "audio_duration_seconds": 64,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.6,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "individual",
+    "indicate",
+    "explain",
+    "issue",
+    "computer",
+    "control",
+    "care",
+    "main"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Way late sport control arrive consumer service else total impact phone person than coach fall help everybody garden one long pull beyond article seem.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250511-0259",
+  "timestamp_received": "2025-05-11T15:58:16Z",
+  "caller_number": "001924358853798214",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 89,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.53885,
+    "longitude": -95.44744,
+    "county": "Fresno",
+    "state": "PA",
+    "census_tract": "33254"
+  },
+  "location_type": "School",
+  "incident_address": "527 Sanchez Orchard, Sarahmouth, MA 19682",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 797,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1587",
+  "audio_file_name": "911-20250511-0259.mp3",
+  "audio_duration_seconds": 53,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.1,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "effort",
+    "author",
+    "buy",
+    "heavy",
+    "nearly",
+    "hotel",
+    "at",
+    "speech"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Until lawyer yard on everyone note current anything into word other live hit budget Congress guess soon approach.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

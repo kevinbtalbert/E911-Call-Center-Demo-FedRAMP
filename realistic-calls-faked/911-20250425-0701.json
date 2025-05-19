@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250425-0701",
+  "timestamp_received": "2025-04-25T00:29:21Z",
+  "caller_number": "986361395945921",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 52,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.54428,
+    "longitude": -84.23381,
+    "county": "Stockbridge",
+    "state": "NY",
+    "census_tract": "77307"
+  },
+  "location_type": "Commercial",
+  "incident_address": "723 Ali Center Apt. 947, South Tony, DC 53064",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 723,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4922",
+  "audio_file_name": "911-20250425-0701.mp3",
+  "audio_duration_seconds": 174,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.7,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "push",
+    "measure",
+    "site",
+    "here",
+    "store",
+    "factor"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Want there quickly now remain network place special some after nearly population age air score concern stage property other house floor focus follow future effect old.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

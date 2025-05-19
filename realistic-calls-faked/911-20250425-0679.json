@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250425-0679",
+  "timestamp_received": "2025-04-25T20:29:37Z",
+  "caller_number": "2941232806",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 19,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.81,
+    "longitude": -73.9625,
+    "county": "Morningside Heights",
+    "state": "MD",
+    "census_tract": "89084"
+  },
+  "location_type": "Industrial",
+  "incident_address": "941 Hill Land, Calebside, GA 42220",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 890,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4352",
+  "audio_file_name": "911-20250425-0679.mp3",
+  "audio_duration_seconds": 77,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 8.2,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "much",
+    "morning",
+    "two",
+    "dream",
+    "end",
+    "about",
+    "three",
+    "girl"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Agreement toward citizen character little for few partner final land spend national herself kitchen interview soldier once.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250429-0912",
+  "timestamp_received": "2025-04-29T20:09:14Z",
+  "caller_number": "00121806036323518",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 82,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.64621,
+    "longitude": -73.97069,
+    "county": "Kensington",
+    "state": "VA",
+    "census_tract": "14766"
+  },
+  "location_type": "Residential",
+  "incident_address": "91656 James Circle, Navarrobury, RI 68076",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 1050,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3919",
+  "audio_file_name": "911-20250429-0912.mp3",
+  "audio_duration_seconds": 62,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.9,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "western",
+    "bad",
+    "prove",
+    "memory",
+    "race",
+    "well",
+    "film"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Ahead less factor front push today late major turn building thousand together start security social test may.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

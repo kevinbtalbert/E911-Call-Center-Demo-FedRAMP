@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250414-0537",
+  "timestamp_received": "2025-04-14T04:42:20Z",
+  "caller_number": "3477146950",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25628,
+    "longitude": -78.04471,
+    "county": "Leland",
+    "state": "MD",
+    "census_tract": "63592"
+  },
+  "location_type": "Industrial",
+  "incident_address": "5570 Benjamin Loop Apt. 741, South Terri, WY 47746",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 952,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5739",
+  "audio_file_name": "911-20250414-0537.mp3",
+  "audio_duration_seconds": 152,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.9,
+  "incident_type": "Gunshots",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "nor",
+    "son",
+    "son",
+    "book",
+    "civil"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Nor until others what challenge quality sense add industry ahead same billion child thank trade must door report ago hit exist newspaper good provide view he.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

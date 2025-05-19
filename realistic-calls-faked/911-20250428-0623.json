@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250428-0623",
+  "timestamp_received": "2025-04-28T13:43:59Z",
+  "caller_number": "001007204094711246",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 21,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.33427,
+    "longitude": -76.43941,
+    "county": "Middle River",
+    "state": "OH",
+    "census_tract": "43482"
+  },
+  "location_type": "Residential",
+  "incident_address": "7804 Sherri Brooks Suite 866, Millerchester, KY 20022",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 932,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3759",
+  "audio_file_name": "911-20250428-0623.mp3",
+  "audio_duration_seconds": 154,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.9,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "whether",
+    "call",
+    "factor",
+    "statement",
+    "which"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Receive none increase bank source woman maybe letter add drug for since realize.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

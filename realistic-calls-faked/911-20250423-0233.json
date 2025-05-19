@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250423-0233",
+  "timestamp_received": "2025-04-23T07:05:08Z",
+  "caller_number": "76889362896964",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.81,
+    "longitude": -73.9625,
+    "county": "Morningside Heights",
+    "state": "KY",
+    "census_tract": "67503"
+  },
+  "location_type": "Industrial",
+  "incident_address": "6553 Fernandez Club Apt. 538, North Tina, NY 93346",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 103,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7189",
+  "audio_file_name": "911-20250423-0233.mp3",
+  "audio_duration_seconds": 121,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 5.4,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "little",
+    "finish",
+    "southern",
+    "page",
+    "result",
+    "response",
+    "population",
+    "never"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Let off apply peace market job well commercial nice next arm girl test challenge radio assume rest.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

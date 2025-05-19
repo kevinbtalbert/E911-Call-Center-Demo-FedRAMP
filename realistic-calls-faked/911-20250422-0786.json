@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250422-0786",
+  "timestamp_received": "2025-04-22T16:54:49Z",
+  "caller_number": "+10695473564272",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.71715,
+    "longitude": -122.40433,
+    "county": "Visitacion Valley",
+    "state": "TN",
+    "census_tract": "12204"
+  },
+  "location_type": "School",
+  "incident_address": "1090 Jose Centers, West Jennaport, AZ 20275",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 966,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5612",
+  "audio_file_name": "911-20250422-0786.mp3",
+  "audio_duration_seconds": 130,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.5,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "structure",
+    "industry",
+    "keep",
+    "both",
+    "arrive",
+    "into",
+    "cold"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "College follow trouble produce bag effort behavior instead yes national traditional get unit man entire all home within last already side.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

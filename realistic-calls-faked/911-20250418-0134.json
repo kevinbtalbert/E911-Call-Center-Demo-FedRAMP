@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250418-0134",
+  "timestamp_received": "2025-04-18T08:09:11Z",
+  "caller_number": "001842891077119918",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.91756,
+    "longitude": -82.07842,
+    "county": "Punta Gorda Isles",
+    "state": "KY",
+    "census_tract": "99463"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "13524 Gill Parks, East Deborahmouth, DC 16620",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 154,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2631",
+  "audio_file_name": "911-20250418-0134.mp3",
+  "audio_duration_seconds": 147,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.0,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "summer",
+    "keep",
+    "indeed",
+    "shoulder",
+    "early"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Game measure be head senior guess professor charge send instead direction soon including important learn system some gun ahead certainly act south want be.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

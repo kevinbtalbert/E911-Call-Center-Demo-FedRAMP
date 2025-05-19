@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250413-0613",
+  "timestamp_received": "2025-04-13T06:05:39Z",
+  "caller_number": "5249221911",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 19,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.58654,
+    "longitude": -122.39168,
+    "county": "Redding",
+    "state": "MD",
+    "census_tract": "14485"
+  },
+  "location_type": "Industrial",
+  "incident_address": "994 Kelly Haven, Port Christopherhaven, UT 92680",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 894,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1761",
+  "audio_file_name": "911-20250413-0613.mp3",
+  "audio_duration_seconds": 168,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.9,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "however",
+    "officer",
+    "couple",
+    "building"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Include child town stock star air late three charge people media few film peace me whether.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

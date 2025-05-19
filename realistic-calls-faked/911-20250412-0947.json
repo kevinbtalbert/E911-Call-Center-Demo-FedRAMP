@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250412-0947",
+  "timestamp_received": "2025-04-12T20:25:54Z",
+  "caller_number": "001537172015333003",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 30.16688,
+    "longitude": -96.39774,
+    "county": "Brenham",
+    "state": "OH",
+    "census_tract": "55782"
+  },
+  "location_type": "Highway",
+  "incident_address": "PSC 2569, Box 6474, APO AE 25515",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 350,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3192",
+  "audio_file_name": "911-20250412-0947.mp3",
+  "audio_duration_seconds": 37,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.3,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "under",
+    "door",
+    "type",
+    "ground",
+    "organization",
+    "me"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Fact much smile feeling cell pretty culture happy third adult they past you politics president find nothing east green herself garden teach remember it because husband industry.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

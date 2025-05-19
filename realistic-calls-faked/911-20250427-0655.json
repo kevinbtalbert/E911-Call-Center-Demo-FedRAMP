@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250427-0655",
+  "timestamp_received": "2025-04-27T05:00:49Z",
+  "caller_number": "1663340142",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 41,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.74788,
+    "longitude": -95.36969,
+    "county": "Muskogee",
+    "state": "SC",
+    "census_tract": "37919"
+  },
+  "location_type": "Public Park",
+  "incident_address": "345 Teresa Mall Apt. 628, Whiteborough, MN 60711",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 803,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6169",
+  "audio_file_name": "911-20250427-0655.mp3",
+  "audio_duration_seconds": 179,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "allow",
+    "every",
+    "hair",
+    "son"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Science this wall data that value base black fund threat enter yard forward political coach.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250426-0980",
+  "timestamp_received": "2025-04-26T12:38:22Z",
+  "caller_number": "1732133058",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 85,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.82232,
+    "longitude": -74.15987,
+    "county": "Nutley",
+    "state": "GA",
+    "census_tract": "93794"
+  },
+  "location_type": "Highway",
+  "incident_address": "880 Tonya Trail, New Diane, MA 99045",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 227,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8571",
+  "audio_file_name": "911-20250426-0980.mp3",
+  "audio_duration_seconds": 33,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.3,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "that",
+    "matter",
+    "peace",
+    "design",
+    "mention"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Democratic sport all out old attention reason over risk individual could production bar scientist different fill person none man throw law point will expect sea.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

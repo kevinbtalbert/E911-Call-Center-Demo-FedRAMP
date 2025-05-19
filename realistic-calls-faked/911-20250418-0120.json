@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250418-0120",
+  "timestamp_received": "2025-04-18T13:51:24Z",
+  "caller_number": "52071678112669",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.54428,
+    "longitude": -84.23381,
+    "county": "Stockbridge",
+    "state": "OH",
+    "census_tract": "53544"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "Unit 2153 Box 5396, DPO AE 31023",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 838,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6399",
+  "audio_file_name": "911-20250418-0120.mp3",
+  "audio_duration_seconds": 142,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.8,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "study",
+    "rise",
+    "everything",
+    "require",
+    "old",
+    "event"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Green project wear would memory challenge lawyer business majority discuss wall ahead scene store marriage ago condition painting force few perhaps set.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

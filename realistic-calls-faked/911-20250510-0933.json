@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250510-0933",
+  "timestamp_received": "2025-05-10T06:29:14Z",
+  "caller_number": "+1857818077949148",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.60876,
+    "longitude": -77.37331,
+    "county": "Mechanicsville",
+    "state": "VA",
+    "census_tract": "82794"
+  },
+  "location_type": "School",
+  "incident_address": "Unit 1514 Box 4661, DPO AP 86722",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 507,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2126",
+  "audio_file_name": "911-20250510-0933.mp3",
+  "audio_duration_seconds": 96,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.3,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "order",
+    "education",
+    "law",
+    "along",
+    "test",
+    "image",
+    "guy"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Treat hospital movie gun task finish forward since plant human marriage sort international guess per.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

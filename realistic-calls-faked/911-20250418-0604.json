@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250418-0604",
+  "timestamp_received": "2025-04-18T19:39:23Z",
+  "caller_number": "8302426468",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.71734,
+    "longitude": -74.96933,
+    "county": "Sicklerville",
+    "state": "KY",
+    "census_tract": "68437"
+  },
+  "location_type": "Industrial",
+  "incident_address": "190 Jennifer Hollow Apt. 154, Port Leslieton, IN 25452",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 437,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6263",
+  "audio_file_name": "911-20250418-0604.mp3",
+  "audio_duration_seconds": 149,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.0,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "expect",
+    "simple",
+    "rich",
+    "difference",
+    "indicate",
+    "shake",
+    "according",
+    "lot"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Record cover red apply officer music example if yard do upon almost positive benefit leg stock section kid born contain region.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

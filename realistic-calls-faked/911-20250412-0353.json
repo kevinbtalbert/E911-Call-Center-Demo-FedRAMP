@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250412-0353",
+  "timestamp_received": "2025-04-12T09:10:27Z",
+  "caller_number": "+10582692990",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 71,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.14676,
+    "longitude": -73.49484,
+    "county": "New Canaan",
+    "state": "OH",
+    "census_tract": "74972"
+  },
+  "location_type": "Industrial",
+  "incident_address": "627 Mahoney Walks Apt. 283, Nunezborough, NJ 53914",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 1195,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5764",
+  "audio_file_name": "911-20250412-0353.mp3",
+  "audio_duration_seconds": 39,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.6,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "too",
+    "bar",
+    "from",
+    "box",
+    "piece"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Tree seek should computer lawyer easy need whole board win couple professional social cut difficult participant between music meet wife glass cost say rock as.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

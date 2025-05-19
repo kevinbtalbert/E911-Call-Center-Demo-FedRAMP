@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250507-0189",
+  "timestamp_received": "2025-05-07T22:02:30Z",
+  "caller_number": "+19406260787",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 70,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.4943,
+    "longitude": -122.24092,
+    "county": "Bryn Mawr-Skyway",
+    "state": "VA",
+    "census_tract": "78515"
+  },
+  "location_type": "Residential",
+  "incident_address": "41591 Cunningham Spurs, Michelleville, OR 88897",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 840,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3381",
+  "audio_file_name": "911-20250507-0189.mp3",
+  "audio_duration_seconds": 43,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.8,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "memory",
+    "response",
+    "reduce",
+    "might",
+    "no",
+    "whose"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Difference put system feeling financial writer according machine reach boy a page building best daughter.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

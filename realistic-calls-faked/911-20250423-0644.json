@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250423-0644",
+  "timestamp_received": "2025-04-23T22:48:45Z",
+  "caller_number": "+1470344633246568",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 49,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.42067,
+    "longitude": -104.22884,
+    "county": "Carlsbad",
+    "state": "OH",
+    "census_tract": "99180"
+  },
+  "location_type": "Highway",
+  "incident_address": "4635 Steven Park, West Teresa, CA 67960",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 479,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5466",
+  "audio_file_name": "911-20250423-0644.mp3",
+  "audio_duration_seconds": 134,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.4,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "hand",
+    "skin",
+    "successful",
+    "matter",
+    "notice",
+    "hit"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Guess oil force in among up TV truth director despite season check notice house evening eight cause across civil wife campaign begin enter good truth plant.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250417-0285",
+  "timestamp_received": "2025-04-17T03:47:23Z",
+  "caller_number": "3913732653",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 49,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 20.88953,
+    "longitude": -156.47432,
+    "county": "Kahului",
+    "state": "NC",
+    "census_tract": "14569"
+  },
+  "location_type": "Residential",
+  "incident_address": "11987 Esparza Court Suite 868, North Rhondaborough, AK 04354",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 573,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8305",
+  "audio_file_name": "911-20250417-0285.mp3",
+  "audio_duration_seconds": 34,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.8,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "only",
+    "free",
+    "increase",
+    "near",
+    "study",
+    "model"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Each help line reflect enough exist without build right indeed able perform.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

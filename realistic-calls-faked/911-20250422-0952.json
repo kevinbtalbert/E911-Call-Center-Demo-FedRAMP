@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250422-0952",
+  "timestamp_received": "2025-04-22T13:39:08Z",
+  "caller_number": "9665144486",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 30.16688,
+    "longitude": -96.39774,
+    "county": "Brenham",
+    "state": "NC",
+    "census_tract": "90021"
+  },
+  "location_type": "Commercial",
+  "incident_address": "06206 Kyle Springs Suite 991, Thomasburgh, OR 67863",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 356,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3933",
+  "audio_file_name": "911-20250422-0952.mp3",
+  "audio_duration_seconds": 49,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.8,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "bad",
+    "decade",
+    "service",
+    "military",
+    "down",
+    "positive"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Build face base relate break wrong red plan opportunity eat crime personal yet your send evidence where apply executive dream their kid stay opportunity now thought.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

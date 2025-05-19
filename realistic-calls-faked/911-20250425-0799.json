@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250425-0799",
+  "timestamp_received": "2025-04-25T00:37:05Z",
+  "caller_number": "6348745126",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.90054,
+    "longitude": -81.26367,
+    "county": "Deltona",
+    "state": "PA",
+    "census_tract": "61534"
+  },
+  "location_type": "School",
+  "incident_address": "9022 Natasha Rapid, Kellyland, GA 11611",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 867,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4213",
+  "audio_file_name": "911-20250425-0799.mp3",
+  "audio_duration_seconds": 65,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.7,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "social",
+    "ever",
+    "sure",
+    "food",
+    "story",
+    "parent",
+    "others"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Little garden hold system sense magazine voice arm political wait give tell window.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

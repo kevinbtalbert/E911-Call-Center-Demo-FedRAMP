@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250421-0199",
+  "timestamp_received": "2025-04-21T14:00:29Z",
+  "caller_number": "+179376392836929",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.82232,
+    "longitude": -74.15987,
+    "county": "Nutley",
+    "state": "KY",
+    "census_tract": "56810"
+  },
+  "location_type": "Commercial",
+  "incident_address": "5116 Wagner Drive Suite 327, East Davidview, OH 93743",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 264,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5671",
+  "audio_file_name": "911-20250421-0199.mp3",
+  "audio_duration_seconds": 47,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.1,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "us",
+    "sea",
+    "call",
+    "alone",
+    "issue",
+    "real",
+    "wrong",
+    "car"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Truth toward great I news Republican budget today together option pattern yes and school great large important last strong eye local care contain she trouble.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

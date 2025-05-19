@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250509-0887",
+  "timestamp_received": "2025-05-09T15:23:33Z",
+  "caller_number": "+199169535952287",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 20.88953,
+    "longitude": -156.47432,
+    "county": "Kahului",
+    "state": "VA",
+    "census_tract": "62138"
+  },
+  "location_type": "Highway",
+  "incident_address": "20901 Tyler Hollow Suite 311, West Patriciachester, IL 56027",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1181,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1963",
+  "audio_file_name": "911-20250509-0887.mp3",
+  "audio_duration_seconds": 48,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.4,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "sure",
+    "north",
+    "particular",
+    "benefit",
+    "that",
+    "fire",
+    "able",
+    "pull"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Painting hope support peace laugh power especially agreement relate pay happen mind energy public fact over evening become respond clear.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

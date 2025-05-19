@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250505-0718",
+  "timestamp_received": "2025-05-05T06:36:34Z",
+  "caller_number": "27607414644026",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.98154,
+    "longitude": -81.23621,
+    "county": "Lexington",
+    "state": "KY",
+    "census_tract": "35359"
+  },
+  "location_type": "Public Park",
+  "incident_address": "3425 Peterson Corners, East Lisa, VA 20481",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 399,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1181",
+  "audio_file_name": "911-20250505-0718.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.2,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "story",
+    "debate",
+    "eight",
+    "but"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "General successful offer goal upon that pick significant term fund happy total me article toward positive moment commercial actually choose author.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250425-0749",
+  "timestamp_received": "2025-04-25T09:06:55Z",
+  "caller_number": "24169814207681",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.91756,
+    "longitude": -82.07842,
+    "county": "Punta Gorda Isles",
+    "state": "TN",
+    "census_tract": "31031"
+  },
+  "location_type": "School",
+  "incident_address": "68143 Ward Mountains, Lake Sarah, WA 85770",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 957,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3187",
+  "audio_file_name": "911-20250425-0749.mp3",
+  "audio_duration_seconds": 34,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.0,
+  "incident_type": "Gunshots",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "skill",
+    "hot",
+    "say",
+    "raise"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Edge tend situation follow ahead management add reach that girl which report Mr accept tonight tree network condition exist happy.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

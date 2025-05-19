@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250417-0444",
+  "timestamp_received": "2025-04-17T05:41:19Z",
+  "caller_number": "7019453911",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.75338,
+    "longitude": -86.11084,
+    "county": "Granger",
+    "state": "SC",
+    "census_tract": "55104"
+  },
+  "location_type": "Highway",
+  "incident_address": "6650 Thompson Mountains Suite 120, New Christopher, SD 42595",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 544,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1852",
+  "audio_file_name": "911-20250417-0444.mp3",
+  "audio_duration_seconds": 117,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "live",
+    "area",
+    "product",
+    "something"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Art car attorney box long natural until agency pick local into friend career cup main much one author catch stand might expect mention increase treatment base experience.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

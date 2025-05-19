@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250430-0661",
+  "timestamp_received": "2025-04-30T03:01:44Z",
+  "caller_number": "3854070084",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.88264,
+    "longitude": -80.08199,
+    "county": "Thomasville",
+    "state": "NY",
+    "census_tract": "41056"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "124 Robert Streets Suite 753, Chadborough, PA 63687",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 214,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1158",
+  "audio_file_name": "911-20250430-0661.mp3",
+  "audio_duration_seconds": 33,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.2,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "heart",
+    "easy",
+    "claim",
+    "expect"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Fine rich security against arrive government against so daughter those baby money marriage.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250509-0086",
+  "timestamp_received": "2025-05-09T23:59:13Z",
+  "caller_number": "84631224179749",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 42,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.80753,
+    "longitude": -87.65644,
+    "county": "New City",
+    "state": "NY",
+    "census_tract": "64602"
+  },
+  "location_type": "Highway",
+  "incident_address": "20802 Julian Crossroad Suite 031, North Tristan, MT 41339",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 1079,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9938",
+  "audio_file_name": "911-20250509-0086.mp3",
+  "audio_duration_seconds": 104,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "size",
+    "marriage",
+    "he",
+    "recent",
+    "all",
+    "bag",
+    "seek"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Argue simply author like court success stage stock business should eat side kitchen scene almost.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250510-0657",
+  "timestamp_received": "2025-05-10T09:26:51Z",
+  "caller_number": "00178624301460669",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55815,
+    "longitude": -73.0515,
+    "county": "Waterbury",
+    "state": "MD",
+    "census_tract": "12602"
+  },
+  "location_type": "School",
+  "incident_address": "9637 Lawson Valleys, Port Michele, NC 64868",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 764,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6566",
+  "audio_file_name": "911-20250510-0657.mp3",
+  "audio_duration_seconds": 51,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "our",
+    "record",
+    "already",
+    "full",
+    "interesting"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 10.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Just glass across blue clearly able road course indeed ability effect apply travel lose newspaper specific must smile.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

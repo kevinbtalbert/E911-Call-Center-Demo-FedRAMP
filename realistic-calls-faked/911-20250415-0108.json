@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250415-0108",
+  "timestamp_received": "2025-04-15T20:07:25Z",
+  "caller_number": "00118306719855460",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.0051,
+    "longitude": -73.78458,
+    "county": "Scarsdale",
+    "state": "NC",
+    "census_tract": "80206"
+  },
+  "location_type": "Industrial",
+  "incident_address": "8517 Holland Fall, South Donnaport, MS 14495",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 165,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5398",
+  "audio_file_name": "911-20250415-0108.mp3",
+  "audio_duration_seconds": 126,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.2,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "piece",
+    "grow",
+    "be",
+    "plan",
+    "same",
+    "cause",
+    "cover"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Draw home society poor matter who speech whom administration fund front return if deep president mission vote thank Mr scientist do author save major affect trade peace.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

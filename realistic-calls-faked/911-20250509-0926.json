@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250509-0926",
+  "timestamp_received": "2025-05-09T18:53:22Z",
+  "caller_number": "4877365188",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55815,
+    "longitude": -73.0515,
+    "county": "Waterbury",
+    "state": "TN",
+    "census_tract": "21668"
+  },
+  "location_type": "School",
+  "incident_address": "866 Jason Prairie, Andrewbury, NJ 24419",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 849,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6694",
+  "audio_file_name": "911-20250509-0926.mp3",
+  "audio_duration_seconds": 139,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 1.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "enough",
+    "idea",
+    "data",
+    "nearly",
+    "live",
+    "challenge"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Produce model alone let need quality federal dinner possible reason modern their across often speech tree investment tonight usually nothing six wish.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250420-0119",
+  "timestamp_received": "2025-04-20T05:29:01Z",
+  "caller_number": "001119393250124955",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 50,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.25064,
+    "longitude": -91.73625,
+    "county": "Searcy",
+    "state": "TN",
+    "census_tract": "45180"
+  },
+  "location_type": "School",
+  "incident_address": "911 Allison Stravenue, West George, ND 01068",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 189,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3739",
+  "audio_file_name": "911-20250420-0119.mp3",
+  "audio_duration_seconds": 141,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 5.4,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "wind",
+    "better",
+    "degree",
+    "mean",
+    "remain",
+    "hand"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Continue pull blue strong wonder interest method imagine seven fire letter mind many guess explain reveal bank management his lead save reach subject difficult imagine world into.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

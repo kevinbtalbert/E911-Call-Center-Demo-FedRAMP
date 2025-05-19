@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250422-0435",
+  "timestamp_received": "2025-04-22T23:02:09Z",
+  "caller_number": "+13014811604991",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.7207,
+    "longitude": -116.21677,
+    "county": "Indio",
+    "state": "NC",
+    "census_tract": "59434"
+  },
+  "location_type": "Commercial",
+  "incident_address": "2028 Castaneda Crest, Moonton, CA 81876",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 275,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3023",
+  "audio_file_name": "911-20250422-0435.mp3",
+  "audio_duration_seconds": 74,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 5.8,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "own",
+    "east",
+    "certain",
+    "western",
+    "show",
+    "election",
+    "time",
+    "various"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Network thousand you decide culture international receive not provide magazine voice option day myself arrive food lose talk this.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

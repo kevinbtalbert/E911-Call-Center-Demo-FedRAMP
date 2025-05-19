@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250508-0026",
+  "timestamp_received": "2025-05-08T12:17:24Z",
+  "caller_number": "3778892554",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 44,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.61452,
+    "longitude": -88.81395,
+    "county": "Jackson",
+    "state": "MD",
+    "census_tract": "38760"
+  },
+  "location_type": "Public Park",
+  "incident_address": "905 Mark Point Suite 449, West Christopher, FL 46352",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1054,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1475",
+  "audio_file_name": "911-20250508-0026.mp3",
+  "audio_duration_seconds": 129,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.5,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "financial",
+    "prevent",
+    "product",
+    "can",
+    "remember",
+    "be",
+    "next",
+    "poor"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Spend prove stock school rate money position interest gun guy Congress degree way main difficult case baby such big side.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

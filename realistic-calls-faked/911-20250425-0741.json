@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250425-0741",
+  "timestamp_received": "2025-04-25T20:13:47Z",
+  "caller_number": "0019857525637448",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.4943,
+    "longitude": -122.24092,
+    "county": "Bryn Mawr-Skyway",
+    "state": "NC",
+    "census_tract": "28012"
+  },
+  "location_type": "Highway",
+  "incident_address": "576 Clark Views Suite 420, Anthonyshire, MA 28788",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 265,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6939",
+  "audio_file_name": "911-20250425-0741.mp3",
+  "audio_duration_seconds": 59,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.9,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "sister",
+    "rate",
+    "civil",
+    "up",
+    "like",
+    "month",
+    "religious",
+    "simple"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Home force medical news art response ok evening voice citizen thing work stage age important interest particular all player sing itself themselves enough common.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

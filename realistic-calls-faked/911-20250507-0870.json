@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250507-0870",
+  "timestamp_received": "2025-05-07T08:08:48Z",
+  "caller_number": "72793922689495",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.92946,
+    "longitude": -116.97725,
+    "county": "Beaumont",
+    "state": "SC",
+    "census_tract": "59825"
+  },
+  "location_type": "Residential",
+  "incident_address": "2933 Simon Well Apt. 240, Thompsonhaven, WY 81380",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 221,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1095",
+  "audio_file_name": "911-20250507-0870.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.1,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "stock",
+    "particularly",
+    "bit",
+    "travel",
+    "indicate",
+    "away",
+    "may",
+    "operation"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Standard air move rich enjoy person discuss rich join yet sing forget camera low own carry major something ready represent machine continue challenge song.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

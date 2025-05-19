@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250502-0412",
+  "timestamp_received": "2025-05-02T04:27:56Z",
+  "caller_number": "326769924277392",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.05266,
+    "longitude": -78.87836,
+    "county": "Fayetteville",
+    "state": "OH",
+    "census_tract": "74166"
+  },
+  "location_type": "Public Park",
+  "incident_address": "202 Gina Brooks Apt. 401, Jensenbury, HI 68168",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 205,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7697",
+  "audio_file_name": "911-20250502-0412.mp3",
+  "audio_duration_seconds": 39,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.5,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "everything",
+    "catch",
+    "which",
+    "manager",
+    "audience",
+    "opportunity"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Threat across pull former fly base successful real camera home trip kind job ready performance.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250419-0306",
+  "timestamp_received": "2025-04-19T04:22:03Z",
+  "caller_number": "1726808081571",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.63316,
+    "longitude": -74.13653,
+    "county": "Port Richmond",
+    "state": "PA",
+    "census_tract": "31311"
+  },
+  "location_type": "Highway",
+  "incident_address": "150 Miller Pass, South Shawnbury, NH 93905",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 308,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1408",
+  "audio_file_name": "911-20250419-0306.mp3",
+  "audio_duration_seconds": 133,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.4,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "director",
+    "bag",
+    "answer",
+    "thank",
+    "guess",
+    "most",
+    "every",
+    "feel"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Company region agent north consider mother month green international involve effect ahead building accept current provide the customer I state try keep.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

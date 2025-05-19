@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250426-0122",
+  "timestamp_received": "2025-04-26T03:25:31Z",
+  "caller_number": "15208507698640",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.08014,
+    "longitude": -83.2321,
+    "county": "Milledgeville",
+    "state": "OH",
+    "census_tract": "98208"
+  },
+  "location_type": "School",
+  "incident_address": "6965 Lindsey Courts, West Tyler, WV 87976",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 680,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4965",
+  "audio_file_name": "911-20250426-0122.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "fund",
+    "pass",
+    "guy",
+    "job",
+    "market",
+    "suggest",
+    "skin",
+    "subject"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Degree enter father of source person when response official option event note most interview girl baby statement measure feel professional finish increase economy middle public.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

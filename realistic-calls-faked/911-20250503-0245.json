@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250503-0245",
+  "timestamp_received": "2025-05-03T11:12:43Z",
+  "caller_number": "7927490728",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.21639,
+    "longitude": -119.0376,
+    "county": "Camarillo",
+    "state": "MD",
+    "census_tract": "15882"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "42893 Jacqueline Club, East Melinda, IN 21790",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 468,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7124",
+  "audio_file_name": "911-20250503-0245.mp3",
+  "audio_duration_seconds": 69,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "house",
+    "structure",
+    "father",
+    "include",
+    "political",
+    "design"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Station save most pressure why edge senior ask artist general run people stage bag share respond activity season.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

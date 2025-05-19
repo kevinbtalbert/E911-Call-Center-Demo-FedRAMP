@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250427-0250",
+  "timestamp_received": "2025-04-27T00:00:33Z",
+  "caller_number": "0370033228",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 83,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.20829,
+    "longitude": -115.98391,
+    "county": "Pahrump",
+    "state": "SC",
+    "census_tract": "66369"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "608 Vasquez Skyway Suite 810, New Barry, OR 64918",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 383,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6201",
+  "audio_file_name": "911-20250427-0250.mp3",
+  "audio_duration_seconds": 47,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.6,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "according",
+    "reduce",
+    "ok",
+    "happy",
+    "together",
+    "clearly"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Charge account physical performance enter hear home strong senior eight cultural today hotel practice later knowledge whose.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

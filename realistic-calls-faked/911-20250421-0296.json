@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250421-0296",
+  "timestamp_received": "2025-04-21T10:12:24Z",
+  "caller_number": "8915624152",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.60876,
+    "longitude": -77.37331,
+    "county": "Mechanicsville",
+    "state": "TN",
+    "census_tract": "36504"
+  },
+  "location_type": "Public Park",
+  "incident_address": "725 Jackson Ports Apt. 693, West Alyssa, TX 49004",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 125,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1977",
+  "audio_file_name": "911-20250421-0296.mp3",
+  "audio_duration_seconds": 101,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.1,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "bill",
+    "team",
+    "vote",
+    "blood",
+    "represent"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Hand weight majority enjoy hit sure food particular series significant expert energy account fill perhaps there throw station avoid strategy trial.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

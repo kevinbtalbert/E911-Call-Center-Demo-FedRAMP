@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250417-0815",
+  "timestamp_received": "2025-04-17T15:42:27Z",
+  "caller_number": "1874309647",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.64621,
+    "longitude": -73.97069,
+    "county": "Kensington",
+    "state": "NY",
+    "census_tract": "86318"
+  },
+  "location_type": "School",
+  "incident_address": "68348 Johnson Stravenue, New Melinda, MT 88583",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 442,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3856",
+  "audio_file_name": "911-20250417-0815.mp3",
+  "audio_duration_seconds": 142,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 4.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "collection",
+    "remember",
+    "American",
+    "fine",
+    "enter",
+    "smile",
+    "help",
+    "just"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Development technology cost miss candidate shoulder subject treatment hotel I entire eight bit kind term edge turn.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

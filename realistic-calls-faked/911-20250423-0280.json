@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250423-0280",
+  "timestamp_received": "2025-04-23T13:13:43Z",
+  "caller_number": "+19376297454",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.38093,
+    "longitude": -122.23484,
+    "county": "Kent",
+    "state": "SC",
+    "census_tract": "37637"
+  },
+  "location_type": "Highway",
+  "incident_address": "64687 Nancy Crescent, North Jerry, ND 15333",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 171,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5331",
+  "audio_file_name": "911-20250423-0280.mp3",
+  "audio_duration_seconds": 59,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "nice",
+    "house",
+    "power",
+    "Republican",
+    "stage",
+    "apply",
+    "conference",
+    "then"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Drive anything teach myself avoid much base modern behavior end nature stock analysis make study.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250430-0940",
+  "timestamp_received": "2025-04-30T02:55:33Z",
+  "caller_number": "001703101221338753",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "OH",
+    "census_tract": "43940"
+  },
+  "location_type": "Industrial",
+  "incident_address": "14483 Roberts Trail Suite 749, New Roger, ID 74153",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 1007,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2664",
+  "audio_file_name": "911-20250430-0940.mp3",
+  "audio_duration_seconds": 151,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "really",
+    "gun",
+    "he",
+    "expert",
+    "along",
+    "tax"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Ready use fund who goal majority quite expert here watch again skill well rich policy speak same charge see like.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

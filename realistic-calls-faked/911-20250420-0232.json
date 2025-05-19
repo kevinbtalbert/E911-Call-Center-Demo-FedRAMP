@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250420-0232",
+  "timestamp_received": "2025-04-20T02:59:20Z",
+  "caller_number": "001225013948848826",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 31,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.82232,
+    "longitude": -74.15987,
+    "county": "Nutley",
+    "state": "OH",
+    "census_tract": "41862"
+  },
+  "location_type": "Residential",
+  "incident_address": "11964 Jennifer Place, Randyfurt, WA 39024",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 1033,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3539",
+  "audio_file_name": "911-20250420-0232.mp3",
+  "audio_duration_seconds": 125,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "party",
+    "wife",
+    "food",
+    "different"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Early choice yeah ago difference reason despite themselves key specific certainly father who.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

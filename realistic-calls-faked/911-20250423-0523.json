@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250423-0523",
+  "timestamp_received": "2025-04-23T20:33:55Z",
+  "caller_number": "93307811171960",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.49428,
+    "longitude": -122.86705,
+    "county": "Aloha",
+    "state": "NY",
+    "census_tract": "62142"
+  },
+  "location_type": "School",
+  "incident_address": "Unit 4902 Box 1444, DPO AE 47250",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 217,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2251",
+  "audio_file_name": "911-20250423-0523.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.6,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "free",
+    "option",
+    "language",
+    "dinner",
+    "do",
+    "product",
+    "field"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Room world understand hear class nothing board simply ago decision doctor during ability view area pay someone on his identify girl rest response whatever party positive.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

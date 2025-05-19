@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250413-0761",
+  "timestamp_received": "2025-04-13T11:21:26Z",
+  "caller_number": "+14371492627",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 57,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 27.09978,
+    "longitude": -82.45426,
+    "county": "Venice",
+    "state": "SC",
+    "census_tract": "93498"
+  },
+  "location_type": "Highway",
+  "incident_address": "60012 Gutierrez Heights Suite 096, West Cassidyton, CO 01333",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 229,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4119",
+  "audio_file_name": "911-20250413-0761.mp3",
+  "audio_duration_seconds": 153,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.8,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "another",
+    "blood",
+    "hot",
+    "strong",
+    "or"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Final wall very eat area listen million environmental hundred pressure than road television practice choose state treat fire start candidate.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

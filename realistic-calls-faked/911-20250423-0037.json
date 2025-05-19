@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250423-0037",
+  "timestamp_received": "2025-04-23T05:41:21Z",
+  "caller_number": "+11547887287431",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 52,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.54072,
+    "longitude": -116.56346,
+    "county": "Nampa",
+    "state": "MD",
+    "census_tract": "19329"
+  },
+  "location_type": "Industrial",
+  "incident_address": "420 Gibbs Port Apt. 296, Robertsonland, TN 13003",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 601,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4241",
+  "audio_file_name": "911-20250423-0037.mp3",
+  "audio_duration_seconds": 138,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "continue",
+    "cell",
+    "food",
+    "easy"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Himself land environment form old of end growth door property let civil rather type thousand show real police.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

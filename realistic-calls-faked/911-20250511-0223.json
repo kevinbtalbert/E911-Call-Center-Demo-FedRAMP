@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250511-0223",
+  "timestamp_received": "2025-05-11T17:23:34Z",
+  "caller_number": "93817359848840",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.34912,
+    "longitude": -111.90466,
+    "county": "Saratoga Springs",
+    "state": "NC",
+    "census_tract": "20369"
+  },
+  "location_type": "Commercial",
+  "incident_address": "557 Jack Mountain, South Michael, TX 92783",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 527,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6136",
+  "audio_file_name": "911-20250511-0223.mp3",
+  "audio_duration_seconds": 111,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "else",
+    "page",
+    "usually",
+    "cell",
+    "politics",
+    "interview"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Something story art writer health not yet where their force much executive free attack away begin next both citizen message surface off life practice.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

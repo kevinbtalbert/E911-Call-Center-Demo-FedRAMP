@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250423-0829",
+  "timestamp_received": "2025-04-23T03:01:28Z",
+  "caller_number": "22324204300631",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.76232,
+    "longitude": -122.2054,
+    "county": "Bothell",
+    "state": "VA",
+    "census_tract": "47712"
+  },
+  "location_type": "Public Park",
+  "incident_address": "9713 Blake Junctions, Port Emilyland, ME 94707",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 624,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9061",
+  "audio_file_name": "911-20250423-0829.mp3",
+  "audio_duration_seconds": 106,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.0,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "chair",
+    "any",
+    "student",
+    "natural"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Card certain citizen in task will building ability sign player upon fear certainly scene.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250510-0848",
+  "timestamp_received": "2025-05-10T22:23:52Z",
+  "caller_number": "8390187692704",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.50343,
+    "longitude": -74.01042,
+    "county": "Newburgh",
+    "state": "OH",
+    "census_tract": "37150"
+  },
+  "location_type": "School",
+  "incident_address": "287 Melissa Knoll Apt. 443, East Mackenziemouth, VT 31966",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 569,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7730",
+  "audio_file_name": "911-20250510-0848.mp3",
+  "audio_duration_seconds": 62,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.4,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "near",
+    "financial",
+    "their",
+    "computer",
+    "exactly",
+    "choose",
+    "to"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Star movie account recognize middle history right physical represent newspaper perform much later current today effort price maintain.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

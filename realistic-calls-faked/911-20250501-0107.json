@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250501-0107",
+  "timestamp_received": "2025-05-01T19:39:23Z",
+  "caller_number": "+1391119269212447",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 54,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.38093,
+    "longitude": -122.23484,
+    "county": "Kent",
+    "state": "OH",
+    "census_tract": "34101"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "746 Scott Tunnel, West Kimberlyfurt, MA 08373",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 1029,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4948",
+  "audio_file_name": "911-20250501-0107.mp3",
+  "audio_duration_seconds": 87,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.2,
+  "incident_type": "Gunshots",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "election",
+    "spend",
+    "concern",
+    "attorney",
+    "woman",
+    "customer",
+    "hotel"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Board music issue pass blood kid else alone audience road since affect marriage present a also hospital charge form hospital about remain side long.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

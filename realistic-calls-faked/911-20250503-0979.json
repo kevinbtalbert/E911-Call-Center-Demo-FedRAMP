@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250503-0979",
+  "timestamp_received": "2025-05-03T06:21:14Z",
+  "caller_number": "7708665748",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.54072,
+    "longitude": -116.56346,
+    "county": "Nampa",
+    "state": "KY",
+    "census_tract": "74261"
+  },
+  "location_type": "Public Park",
+  "incident_address": "775 Henry Orchard Apt. 800, Floreschester, DC 25685",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 773,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9518",
+  "audio_file_name": "911-20250503-0979.mp3",
+  "audio_duration_seconds": 62,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.3,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "pretty",
+    "easy",
+    "little",
+    "study",
+    "difference",
+    "draw",
+    "life",
+    "executive"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Unit rest its none identify full appear early standard toward happy style able sea.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

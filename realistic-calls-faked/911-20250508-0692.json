@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250508-0692",
+  "timestamp_received": "2025-05-08T19:51:20Z",
+  "caller_number": "2543163915",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.54566,
+    "longitude": -71.29144,
+    "county": "Middletown",
+    "state": "GA",
+    "census_tract": "90441"
+  },
+  "location_type": "School",
+  "incident_address": "7256 Margaret Lights Suite 820, South Christine, UT 14591",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 81,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3103",
+  "audio_file_name": "911-20250508-0692.mp3",
+  "audio_duration_seconds": 37,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "floor",
+    "somebody",
+    "go",
+    "production",
+    "continue",
+    "travel",
+    "down",
+    "ahead"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "That likely behavior career society public spring Republican himself itself wife expert above doctor play everyone physical present reality in north determine difference coach whom seat tree.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

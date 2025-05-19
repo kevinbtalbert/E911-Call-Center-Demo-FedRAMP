@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250415-0277",
+  "timestamp_received": "2025-04-15T18:58:19Z",
+  "caller_number": "8460191344389",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 85,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.96372,
+    "longitude": -76.99081,
+    "county": "Chillum",
+    "state": "NY",
+    "census_tract": "50959"
+  },
+  "location_type": "Highway",
+  "incident_address": "780 Susan Islands, Bradleytown, ID 25060",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 763,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9765",
+  "audio_file_name": "911-20250415-0277.mp3",
+  "audio_duration_seconds": 32,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.2,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "board",
+    "fill",
+    "share",
+    "economy",
+    "source",
+    "only",
+    "pick"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "North ground here person three foot tax ground serve mouth manage issue none ready billion time discuss term day include you authority race wish kid career scene.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

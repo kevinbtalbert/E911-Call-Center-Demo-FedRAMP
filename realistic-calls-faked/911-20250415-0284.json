@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250415-0284",
+  "timestamp_received": "2025-04-15T14:12:46Z",
+  "caller_number": "824301764644898",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 23,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.5576,
+    "longitude": -74.28459,
+    "county": "Woodbridge",
+    "state": "OH",
+    "census_tract": "60933"
+  },
+  "location_type": "Public Park",
+  "incident_address": "15388 Maria Harbor, Jessicaberg, RI 91883",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 588,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5336",
+  "audio_file_name": "911-20250415-0284.mp3",
+  "audio_duration_seconds": 75,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.8,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "article",
+    "read",
+    "also",
+    "rather",
+    "arm"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Draw trouble decade share great stock election fire remember house develop center bill behind outside moment return skin name.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

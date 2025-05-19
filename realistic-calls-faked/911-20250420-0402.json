@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250420-0402",
+  "timestamp_received": "2025-04-20T14:29:44Z",
+  "caller_number": "001604134820849315",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 31,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "PA",
+    "census_tract": "61229"
+  },
+  "location_type": "Commercial",
+  "incident_address": "122 Smith Avenue, West Kennethmouth, FL 81364",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 82,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5476",
+  "audio_file_name": "911-20250420-0402.mp3",
+  "audio_duration_seconds": 69,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.0,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "right",
+    "want",
+    "what",
+    "figure",
+    "present",
+    "dinner",
+    "almost"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Room nor design brother daughter specific many charge player myself car option music popular strategy himself civil skill vote.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

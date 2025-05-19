@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250509-0598",
+  "timestamp_received": "2025-05-09T05:55:13Z",
+  "caller_number": "00108348124266474",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 55,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.05266,
+    "longitude": -78.87836,
+    "county": "Fayetteville",
+    "state": "MD",
+    "census_tract": "24610"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "4047 Katie Track Apt. 796, Allenmouth, CO 90036",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 1058,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1106",
+  "audio_file_name": "911-20250509-0598.mp3",
+  "audio_duration_seconds": 111,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.6,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "realize",
+    "listen",
+    "station",
+    "few"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Note find money professional fill wear himself particular work notice reflect economic special form join financial century past act check her soldier serve suggest voice source environmental.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

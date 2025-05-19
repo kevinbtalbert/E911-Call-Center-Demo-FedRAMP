@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250502-0260",
+  "timestamp_received": "2025-05-02T02:03:46Z",
+  "caller_number": "1884216309001",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 42,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.54428,
+    "longitude": -84.23381,
+    "county": "Stockbridge",
+    "state": "GA",
+    "census_tract": "90223"
+  },
+  "location_type": "Residential",
+  "incident_address": "6333 Reilly Knoll Apt. 208, Kathrynburgh, MS 27127",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 1143,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2436",
+  "audio_file_name": "911-20250502-0260.mp3",
+  "audio_duration_seconds": 153,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "my",
+    "admit",
+    "civil",
+    "number",
+    "pass"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Special buy east image drug participant throughout truth evidence about provide itself team support land discussion suggest impact.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

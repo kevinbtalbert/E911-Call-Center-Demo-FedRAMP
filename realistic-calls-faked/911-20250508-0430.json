@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250508-0430",
+  "timestamp_received": "2025-05-08T00:58:15Z",
+  "caller_number": "2411420667",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.97086,
+    "longitude": -82.42491,
+    "county": "Port Huron",
+    "state": "NC",
+    "census_tract": "78013"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "45992 Cody Wall Suite 633, East Derek, KY 05397",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 1163,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3033",
+  "audio_file_name": "911-20250508-0430.mp3",
+  "audio_duration_seconds": 83,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 7.3,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "all",
+    "floor",
+    "than",
+    "onto",
+    "contain",
+    "compare"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Help pretty believe professional pass another away serve eight fill difference big direction company consider her win someone citizen run effect.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

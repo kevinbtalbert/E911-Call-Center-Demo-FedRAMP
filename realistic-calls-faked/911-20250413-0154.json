@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250413-0154",
+  "timestamp_received": "2025-04-13T20:13:51Z",
+  "caller_number": "273230085766656",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 23,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.58894,
+    "longitude": -89.99038,
+    "county": "Fairview Heights",
+    "state": "GA",
+    "census_tract": "88861"
+  },
+  "location_type": "Commercial",
+  "incident_address": "0169 James Mews, Kelseystad, VT 64545",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 1138,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8831",
+  "audio_file_name": "911-20250413-0154.mp3",
+  "audio_duration_seconds": 30,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.1,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "play",
+    "happy",
+    "around",
+    "history"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Save drug alone spend piece put recently population end lay race effect own weight success activity side popular true huge only too.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

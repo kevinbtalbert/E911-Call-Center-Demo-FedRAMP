@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250503-0633",
+  "timestamp_received": "2025-05-03T04:11:29Z",
+  "caller_number": "18793978953770",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 37,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.66394,
+    "longitude": -83.55521,
+    "county": "Toledo",
+    "state": "VA",
+    "census_tract": "83394"
+  },
+  "location_type": "School",
+  "incident_address": "9316 Kelly Skyway, West Tina, ND 02413",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 177,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6695",
+  "audio_file_name": "911-20250503-0633.mp3",
+  "audio_duration_seconds": 152,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 4.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "establish",
+    "able",
+    "always",
+    "pick"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Home attention meeting language hour oil worry tonight total cause anyone wife since whether property we city.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

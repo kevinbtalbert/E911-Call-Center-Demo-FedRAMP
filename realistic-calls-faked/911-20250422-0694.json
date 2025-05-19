@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250422-0694",
+  "timestamp_received": "2025-04-22T20:18:22Z",
+  "caller_number": "001751937849531273",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 79,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.34912,
+    "longitude": -111.90466,
+    "county": "Saratoga Springs",
+    "state": "GA",
+    "census_tract": "68283"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "8019 Henderson Estate Apt. 346, South Joshuafurt, MD 19991",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 267,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3694",
+  "audio_file_name": "911-20250422-0694.mp3",
+  "audio_duration_seconds": 65,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.5,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "voice",
+    "source",
+    "it",
+    "friend",
+    "character",
+    "center",
+    "suggest",
+    "so"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Although put believe writer blue month board old kind past movement analysis style over whose economy language so few program true possible stand.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

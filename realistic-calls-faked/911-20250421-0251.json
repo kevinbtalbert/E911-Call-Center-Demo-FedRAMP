@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250421-0251",
+  "timestamp_received": "2025-04-21T02:57:30Z",
+  "caller_number": "001632106133943945",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.72255,
+    "longitude": -116.37697,
+    "county": "Palm Desert",
+    "state": "SC",
+    "census_tract": "13433"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "438 Kyle Forge, Port Matthew, VA 51431",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 606,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4783",
+  "audio_file_name": "911-20250421-0251.mp3",
+  "audio_duration_seconds": 89,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 1.7,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "result",
+    "leader",
+    "hospital",
+    "send",
+    "TV",
+    "lose",
+    "others",
+    "some"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Back blue a all anyone action ever a knowledge rock which best happy position wife score health evidence.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

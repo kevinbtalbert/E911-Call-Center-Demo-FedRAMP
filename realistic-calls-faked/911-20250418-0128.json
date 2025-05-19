@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250418-0128",
+  "timestamp_received": "2025-04-18T20:41:40Z",
+  "caller_number": "9710725636694",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.57721,
+    "longitude": -93.71133,
+    "county": "West Des Moines",
+    "state": "OH",
+    "census_tract": "88174"
+  },
+  "location_type": "Commercial",
+  "incident_address": "53759 Adam Parkways, Turnerfurt, MN 17833",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 845,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7931",
+  "audio_file_name": "911-20250418-0128.mp3",
+  "audio_duration_seconds": 77,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.5,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "whose",
+    "nice",
+    "oil",
+    "employee",
+    "mean"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "There car fish most center bring analysis campaign the strong security unit executive theory party seven enough fine throughout firm.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

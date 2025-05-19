@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250413-0967",
+  "timestamp_received": "2025-04-13T16:41:02Z",
+  "caller_number": "4469845989",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 30,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.71715,
+    "longitude": -122.40433,
+    "county": "Visitacion Valley",
+    "state": "GA",
+    "census_tract": "66063"
+  },
+  "location_type": "Public Park",
+  "incident_address": "6094 Warren Center, Thomaschester, MO 94938",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 157,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4783",
+  "audio_file_name": "911-20250413-0967.mp3",
+  "audio_duration_seconds": 99,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.2,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "world",
+    "maybe",
+    "mother",
+    "not",
+    "network",
+    "concern",
+    "environment"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Home where drug central morning exactly cause up often common figure early note and middle rate century also whatever.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

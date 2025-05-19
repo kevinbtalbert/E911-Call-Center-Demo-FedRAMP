@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250421-0720",
+  "timestamp_received": "2025-04-21T12:44:45Z",
+  "caller_number": "+1536678320316131",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.44872,
+    "longitude": -86.78777,
+    "county": "Vestavia Hills",
+    "state": "TN",
+    "census_tract": "61694"
+  },
+  "location_type": "Commercial",
+  "incident_address": "3403 Jaime Cove, Lauraville, AK 14316",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 150,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5962",
+  "audio_file_name": "911-20250421-0720.mp3",
+  "audio_duration_seconds": 33,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.1,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "huge",
+    "evidence",
+    "stand",
+    "church",
+    "interest",
+    "Mrs",
+    "than"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Develop more really trial popular half create book everybody those thus nor name behind machine employee beautiful fish sound again help international matter suffer dog herself arrive.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

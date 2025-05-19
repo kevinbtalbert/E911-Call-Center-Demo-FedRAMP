@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250416-0399",
+  "timestamp_received": "2025-04-16T10:08:32Z",
+  "caller_number": "4485007288",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.57582,
+    "longitude": -105.11221,
+    "county": "Ken Caryl",
+    "state": "KY",
+    "census_tract": "48987"
+  },
+  "location_type": "School",
+  "incident_address": "274 Charles Plains Apt. 691, Garrisonburgh, NJ 53735",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 418,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7800",
+  "audio_file_name": "911-20250416-0399.mp3",
+  "audio_duration_seconds": 93,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.5,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "hot",
+    "administration",
+    "almost",
+    "card",
+    "admit",
+    "person",
+    "lead"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Yes instead pull think exactly despite sort high prepare politics free miss start machine accept condition.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

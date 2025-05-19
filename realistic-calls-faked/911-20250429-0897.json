@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250429-0897",
+  "timestamp_received": "2025-04-29T11:18:56Z",
+  "caller_number": "7601231625751",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 41,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.88264,
+    "longitude": -80.08199,
+    "county": "Thomasville",
+    "state": "VA",
+    "census_tract": "98228"
+  },
+  "location_type": "Commercial",
+  "incident_address": "36685 Callahan Garden, Chaneybury, KY 59618",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 321,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1591",
+  "audio_file_name": "911-20250429-0897.mp3",
+  "audio_duration_seconds": 83,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.3,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "will",
+    "stage",
+    "before",
+    "really",
+    "especially"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Me tend dinner answer computer community source movie court create table will form both cause professional various season day senior beat.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

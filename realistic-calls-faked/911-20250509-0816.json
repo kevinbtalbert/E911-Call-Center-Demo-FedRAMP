@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250509-0816",
+  "timestamp_received": "2025-05-09T02:28:51Z",
+  "caller_number": "522469685169217",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.17492,
+    "longitude": -122.2608,
+    "county": "American Canyon",
+    "state": "SC",
+    "census_tract": "29561"
+  },
+  "location_type": "Residential",
+  "incident_address": "35284 Green Motorway Apt. 500, Lindamouth, TX 44085",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 335,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6968",
+  "audio_file_name": "911-20250509-0816.mp3",
+  "audio_duration_seconds": 131,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.3,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "remember",
+    "western",
+    "machine",
+    "information",
+    "movement",
+    "military",
+    "boy",
+    "nation"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Budget lay another movie dog glass experience computer true sit turn gun expert well serious Mr hit administration.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

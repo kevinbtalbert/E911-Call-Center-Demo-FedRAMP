@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250423-0735",
+  "timestamp_received": "2025-04-23T22:08:25Z",
+  "caller_number": "530937313403779",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 18,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.76232,
+    "longitude": -122.2054,
+    "county": "Bothell",
+    "state": "NC",
+    "census_tract": "27023"
+  },
+  "location_type": "Industrial",
+  "incident_address": "37930 Davis Plain Apt. 004, Zacharyton, FL 13149",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 406,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5789",
+  "audio_file_name": "911-20250423-0735.mp3",
+  "audio_duration_seconds": 95,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.8,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "hospital",
+    "stock",
+    "large",
+    "realize"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Fear next use during growth smile fly should war strong offer paper friend through his.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

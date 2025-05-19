@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250418-0409",
+  "timestamp_received": "2025-04-18T02:17:21Z",
+  "caller_number": "2094523759795",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 38,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.88264,
+    "longitude": -80.08199,
+    "county": "Thomasville",
+    "state": "NY",
+    "census_tract": "81938"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "260 Cindy Place, Williamsmouth, NM 39203",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 543,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9313",
+  "audio_file_name": "911-20250418-0409.mp3",
+  "audio_duration_seconds": 50,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.5,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "product",
+    "election",
+    "event",
+    "picture",
+    "weight",
+    "analysis",
+    "experience"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "While example experience forget message buy administration night responsibility organization girl go deep though suddenly seven huge image term others rate change management manager fire imagine.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250508-0734",
+  "timestamp_received": "2025-05-08T12:46:19Z",
+  "caller_number": "234811808293850",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 18,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.9156,
+    "longitude": -117.14392,
+    "county": "Mira Mesa",
+    "state": "PA",
+    "census_tract": "93888"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "847 Vargas Plaza, West Zachary, MI 29229",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 164,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9136",
+  "audio_file_name": "911-20250508-0734.mp3",
+  "audio_duration_seconds": 178,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "let",
+    "yeah",
+    "international",
+    "far",
+    "fly"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Describe almost sign high indicate through article three recently defense town bed of would responsibility recent your writer.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

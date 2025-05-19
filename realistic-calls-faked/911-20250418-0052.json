@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250418-0052",
+  "timestamp_received": "2025-04-18T14:03:36Z",
+  "caller_number": "271361115542622",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.09112,
+    "longitude": -94.41551,
+    "county": "Independence",
+    "state": "KY",
+    "census_tract": "97881"
+  },
+  "location_type": "Industrial",
+  "incident_address": "275 Courtney Drive, Jensenmouth, IL 11863",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 918,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3531",
+  "audio_file_name": "911-20250418-0052.mp3",
+  "audio_duration_seconds": 136,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.7,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "to",
+    "cause",
+    "but",
+    "role",
+    "goal",
+    "investment"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Easy popular easy over return expect wait agree suggest then day parent country hot position.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

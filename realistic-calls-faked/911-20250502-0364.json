@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250502-0364",
+  "timestamp_received": "2025-05-02T15:58:02Z",
+  "caller_number": "0585615473",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.4943,
+    "longitude": -122.24092,
+    "county": "Bryn Mawr-Skyway",
+    "state": "NC",
+    "census_tract": "18151"
+  },
+  "location_type": "School",
+  "incident_address": "6397 Michael Turnpike Apt. 164, South Sue, AZ 87011",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 1035,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4519",
+  "audio_file_name": "911-20250502-0364.mp3",
+  "audio_duration_seconds": 144,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "care",
+    "meet",
+    "drive",
+    "main",
+    "lead",
+    "talk"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Organization you practice important gas economic computer bank southern eight stage raise baby throw perhaps recent where follow through friend the play federal stock amount.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

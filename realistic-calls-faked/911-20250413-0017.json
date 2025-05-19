@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250413-0017",
+  "timestamp_received": "2025-04-13T22:28:51Z",
+  "caller_number": "3963605766",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 42,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.09273,
+    "longitude": -88.64235,
+    "county": "Iron River",
+    "state": "GA",
+    "census_tract": "97416"
+  },
+  "location_type": "Residential",
+  "incident_address": "Unit 2702 Box 8951, DPO AA 13570",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 892,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3532",
+  "audio_file_name": "911-20250413-0017.mp3",
+  "audio_duration_seconds": 90,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.2,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "moment",
+    "lead",
+    "reveal",
+    "improve",
+    "pressure"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Avoid sit enter perhaps however bag forget purpose move west phone thought maintain must pay.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250422-0723",
+  "timestamp_received": "2025-04-22T15:05:53Z",
+  "caller_number": "54318864594780",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 75,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.35843,
+    "longitude": -71.05977,
+    "county": "Boston",
+    "state": "SC",
+    "census_tract": "22923"
+  },
+  "location_type": "Industrial",
+  "incident_address": "463 Jenkins Rapid, South Megan, SC 85641",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 1095,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6947",
+  "audio_file_name": "911-20250422-0723.mp3",
+  "audio_duration_seconds": 135,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.0,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "half",
+    "admit",
+    "story",
+    "from",
+    "during"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Guess add score section wide pay approach could kitchen certain picture back dinner guy onto matter executive decide body serious pull oil enough break.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

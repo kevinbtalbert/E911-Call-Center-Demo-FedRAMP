@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250430-0652",
+  "timestamp_received": "2025-04-30T20:34:07Z",
+  "caller_number": "+197328290183205",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 62,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.16704,
+    "longitude": -73.20483,
+    "county": "Bridgeport",
+    "state": "KY",
+    "census_tract": "52730"
+  },
+  "location_type": "Industrial",
+  "incident_address": "34063 Ferguson Cliffs, West Anthonyport, MO 41762",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 332,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9682",
+  "audio_file_name": "911-20250430-0652.mp3",
+  "audio_duration_seconds": 82,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.7,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "ask",
+    "purpose",
+    "point",
+    "story",
+    "task",
+    "listen",
+    "back"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Leave property even goal speech key itself member if crime price clear western soldier.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

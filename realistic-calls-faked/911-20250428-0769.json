@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250428-0769",
+  "timestamp_received": "2025-04-28T12:02:45Z",
+  "caller_number": "20757931444941",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 53,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.76446,
+    "longitude": -117.79394,
+    "county": "North Tustin",
+    "state": "VA",
+    "census_tract": "48191"
+  },
+  "location_type": "Commercial",
+  "incident_address": "459 Thompson Greens Apt. 840, Port Trevor, CA 46998",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 502,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4423",
+  "audio_file_name": "911-20250428-0769.mp3",
+  "audio_duration_seconds": 120,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 3.8,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "late",
+    "type",
+    "program",
+    "increase",
+    "former"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Arrive purpose time choose become traditional so visit bed most laugh young local often event stock health involve treatment people south rock rather.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

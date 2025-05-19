@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250507-0831",
+  "timestamp_received": "2025-05-07T11:13:18Z",
+  "caller_number": "726173629245989",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.0408,
+    "longitude": -93.263,
+    "county": "Columbia Heights",
+    "state": "MD",
+    "census_tract": "12487"
+  },
+  "location_type": "Residential",
+  "incident_address": "3824 Stacey Drives Apt. 462, East Jacob, NC 29741",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 604,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7602",
+  "audio_file_name": "911-20250507-0831.mp3",
+  "audio_duration_seconds": 136,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "culture",
+    "result",
+    "bar",
+    "matter"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Computer clear full yes his magazine agree ok relate try stand amount rest benefit everyone avoid find under control would.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

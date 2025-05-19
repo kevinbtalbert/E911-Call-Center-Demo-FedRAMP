@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250428-0752",
+  "timestamp_received": "2025-04-28T07:38:26Z",
+  "caller_number": "+16360253687",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "GA",
+    "census_tract": "79794"
+  },
+  "location_type": "Public Park",
+  "incident_address": "92254 Williams Plaza, South Christinatown, NV 73789",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 526,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8058",
+  "audio_file_name": "911-20250428-0752.mp3",
+  "audio_duration_seconds": 173,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 6.1,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "song",
+    "leg",
+    "daughter",
+    "when",
+    "power",
+    "next",
+    "treat"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Trip player explain bring argue anything above hope music middle yeah whose drive represent speak nor west series everybody artist reduce finish practice increase remember.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

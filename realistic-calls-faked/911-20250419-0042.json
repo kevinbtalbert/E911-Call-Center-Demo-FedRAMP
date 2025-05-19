@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250419-0042",
+  "timestamp_received": "2025-04-19T11:23:21Z",
+  "caller_number": "23536937854777",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 53,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55838,
+    "longitude": -81.56929,
+    "county": "Collinwood",
+    "state": "PA",
+    "census_tract": "45838"
+  },
+  "location_type": "School",
+  "incident_address": "28728 Alexandria Villages Apt. 006, Port Crystal, VT 20296",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 1027,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4993",
+  "audio_file_name": "911-20250419-0042.mp3",
+  "audio_duration_seconds": 146,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 9.3,
+  "incident_type": "Gunshots",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "across",
+    "media",
+    "health",
+    "pay"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Tree process administration mother in admit reveal movie expert maybe recently issue vote conference truth modern drive people education great some bad where learn during recently feel.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

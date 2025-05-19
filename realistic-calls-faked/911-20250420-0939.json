@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250420-0939",
+  "timestamp_received": "2025-04-20T06:47:42Z",
+  "caller_number": "6411991365",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 19,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.6764,
+    "longitude": -91.58045,
+    "county": "Coralville",
+    "state": "GA",
+    "census_tract": "45501"
+  },
+  "location_type": "Industrial",
+  "incident_address": "254 Ronnie Canyon, Martinezshire, HI 22423",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 155,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3081",
+  "audio_file_name": "911-20250420-0939.mp3",
+  "audio_duration_seconds": 168,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "country",
+    "employee",
+    "growth",
+    "leg"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Could position five of happen toward north choose as lot test focus others performance learn huge fire class suffer special pull peace four job movie into impact.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

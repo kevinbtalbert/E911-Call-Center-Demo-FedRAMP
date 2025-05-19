@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250502-0457",
+  "timestamp_received": "2025-05-02T03:50:30Z",
+  "caller_number": "2666788093",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.76232,
+    "longitude": -122.2054,
+    "county": "Bothell",
+    "state": "GA",
+    "census_tract": "13145"
+  },
+  "location_type": "Commercial",
+  "incident_address": "65228 Steven Prairie Apt. 598, East Marcusfort, NH 20462",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 849,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3414",
+  "audio_file_name": "911-20250502-0457.mp3",
+  "audio_duration_seconds": 120,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 4.5,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "its",
+    "window",
+    "structure",
+    "herself",
+    "agent"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Treatment hard score agency ahead authority report various by kid throughout sit form necessary country attorney.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

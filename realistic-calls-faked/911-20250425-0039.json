@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250425-0039",
+  "timestamp_received": "2025-04-25T02:00:11Z",
+  "caller_number": "+10170462265",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 21,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.08014,
+    "longitude": -83.2321,
+    "county": "Milledgeville",
+    "state": "SC",
+    "census_tract": "71669"
+  },
+  "location_type": "Highway",
+  "incident_address": "Unit 6766 Box 1825, DPO AE 23893",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 629,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3973",
+  "audio_file_name": "911-20250425-0039.mp3",
+  "audio_duration_seconds": 179,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 5.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "year",
+    "hotel",
+    "camera",
+    "without",
+    "strong",
+    "series"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Leg rest interest here discover leave choice country themselves she allow produce past view threat drive attack order land.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

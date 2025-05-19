@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250415-0115",
+  "timestamp_received": "2025-04-15T14:37:18Z",
+  "caller_number": "0592745238",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.14676,
+    "longitude": -73.49484,
+    "county": "New Canaan",
+    "state": "PA",
+    "census_tract": "83860"
+  },
+  "location_type": "Industrial",
+  "incident_address": "2578 Amanda Crossing Apt. 672, Reillyberg, WA 72085",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 427,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6152",
+  "audio_file_name": "911-20250415-0115.mp3",
+  "audio_duration_seconds": 34,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 8.4,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "wish",
+    "former",
+    "relate",
+    "listen",
+    "face"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Project son rock two full both look always question bring agent pay detail group for part crime money sit short cultural base support quality whatever wish.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

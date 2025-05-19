@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250501-0193",
+  "timestamp_received": "2025-05-01T14:00:53Z",
+  "caller_number": "6512418938984",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 60,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.47892,
+    "longitude": -87.45476,
+    "county": "Schererville",
+    "state": "GA",
+    "census_tract": "37964"
+  },
+  "location_type": "Industrial",
+  "incident_address": "197 Delgado Bypass, Robertborough, WV 08285",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 738,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6911",
+  "audio_file_name": "911-20250501-0193.mp3",
+  "audio_duration_seconds": 105,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.4,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "cause",
+    "natural",
+    "safe",
+    "under",
+    "professional",
+    "there"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Management south nor particular strong space generation audience indicate school upon thought long can rich bit market different.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

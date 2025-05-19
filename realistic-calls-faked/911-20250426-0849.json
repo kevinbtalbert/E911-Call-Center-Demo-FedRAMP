@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250426-0849",
+  "timestamp_received": "2025-04-26T12:01:34Z",
+  "caller_number": "7115787378156",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 48,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.52787,
+    "longitude": -70.92866,
+    "county": "Peabody",
+    "state": "SC",
+    "census_tract": "16154"
+  },
+  "location_type": "Public Park",
+  "incident_address": "17367 Jimmy Pines Suite 314, Lake Danielleborough, CA 75102",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 828,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5488",
+  "audio_file_name": "911-20250426-0849.mp3",
+  "audio_duration_seconds": 172,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.7,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "real",
+    "bring",
+    "interesting",
+    "term",
+    "responsibility",
+    "interest"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Section produce pay nation rich poor it they hotel very away catch find notice pick consider election if window.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

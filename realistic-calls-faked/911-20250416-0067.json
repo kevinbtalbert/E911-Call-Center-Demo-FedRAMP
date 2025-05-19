@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250416-0067",
+  "timestamp_received": "2025-04-16T02:15:02Z",
+  "caller_number": "0461849926",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 38,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.77453,
+    "longitude": -96.67834,
+    "county": "Ada",
+    "state": "VA",
+    "census_tract": "42472"
+  },
+  "location_type": "Industrial",
+  "incident_address": "914 Kristen Parks, New James, NC 26934",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 959,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9586",
+  "audio_file_name": "911-20250416-0067.mp3",
+  "audio_duration_seconds": 163,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "group",
+    "important",
+    "civil",
+    "nature",
+    "travel",
+    "read"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Former able public trade structure protect chance bed memory rich big eight discuss write fast less between company always fact soon fine school believe.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

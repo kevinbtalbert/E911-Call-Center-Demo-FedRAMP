@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250416-0283",
+  "timestamp_received": "2025-04-16T11:07:09Z",
+  "caller_number": "001982210401648188",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 43,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.54944,
+    "longitude": -81.77285,
+    "county": "Clermont",
+    "state": "NY",
+    "census_tract": "93634"
+  },
+  "location_type": "Residential",
+  "incident_address": "428 Jimenez Gateway Apt. 638, South Josephberg, CA 19047",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 236,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3128",
+  "audio_file_name": "911-20250416-0283.mp3",
+  "audio_duration_seconds": 126,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.7,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "recent",
+    "people",
+    "far",
+    "color"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Population project film father again these series candidate reveal suddenly issue bit whether edge left American hope watch place church watch health fact them cost small.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250511-0377",
+  "timestamp_received": "2025-05-11T10:04:21Z",
+  "caller_number": "0634359488",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.50921,
+    "longitude": -111.89903,
+    "county": "Scottsdale",
+    "state": "GA",
+    "census_tract": "93681"
+  },
+  "location_type": "School",
+  "incident_address": "849 Herrera Lodge, Greentown, CT 13707",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 628,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9197",
+  "audio_file_name": "911-20250511-0377.mp3",
+  "audio_duration_seconds": 156,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.6,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "year",
+    "consider",
+    "claim",
+    "there"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Cultural seek bank risk east ahead remain anything particularly week interest statement dream central require politics measure apply around.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250417-0416",
+  "timestamp_received": "2025-04-17T08:26:12Z",
+  "caller_number": "0972361080",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.91023,
+    "longitude": -121.75689,
+    "county": "Watsonville",
+    "state": "GA",
+    "census_tract": "34331"
+  },
+  "location_type": "Commercial",
+  "incident_address": "1662 Corey Islands, Rachelmouth, NY 53762",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 434,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4143",
+  "audio_file_name": "911-20250417-0416.mp3",
+  "audio_duration_seconds": 96,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.2,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "week",
+    "form",
+    "program",
+    "mission"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Follow seem grow management between whom effort issue accept appear model front skin increase most car raise group increase good foot child.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

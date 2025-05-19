@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250412-0966",
+  "timestamp_received": "2025-04-12T20:08:28Z",
+  "caller_number": "3180021498",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.95143,
+    "longitude": -91.77127,
+    "county": "Rolla",
+    "state": "TN",
+    "census_tract": "22725"
+  },
+  "location_type": "Highway",
+  "incident_address": "5557 Wright Spur Apt. 282, New Carlos, TN 93054",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 452,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8180",
+  "audio_file_name": "911-20250412-0966.mp3",
+  "audio_duration_seconds": 168,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.1,
+  "incident_type": "Gunshots",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "yourself",
+    "near",
+    "statement",
+    "drop"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Oil risk enjoy military group message act even over spend market catch wonder law firm evening friend center blood possible letter.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

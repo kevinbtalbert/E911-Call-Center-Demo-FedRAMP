@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250510-0899",
+  "timestamp_received": "2025-05-10T09:03:51Z",
+  "caller_number": "9642549780643",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 84,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.91756,
+    "longitude": -82.07842,
+    "county": "Punta Gorda Isles",
+    "state": "GA",
+    "census_tract": "27304"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "34897 Cesar Meadow Apt. 156, Jimmyshire, MN 24766",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 106,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3652",
+  "audio_file_name": "911-20250510-0899.mp3",
+  "audio_duration_seconds": 52,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "until",
+    "benefit",
+    "score",
+    "room",
+    "radio"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Speech effort behavior age scientist degree police particularly smile region indeed nature most memory full responsibility hard good me.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

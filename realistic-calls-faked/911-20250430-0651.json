@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250430-0651",
+  "timestamp_received": "2025-04-30T20:34:44Z",
+  "caller_number": "42673022099417",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 36,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.9156,
+    "longitude": -117.14392,
+    "county": "Mira Mesa",
+    "state": "KY",
+    "census_tract": "12744"
+  },
+  "location_type": "School",
+  "incident_address": "04053 Charlene Harbors Apt. 050, Morrismouth, NC 34508",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 354,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1697",
+  "audio_file_name": "911-20250430-0651.mp3",
+  "audio_duration_seconds": 147,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.1,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "maybe",
+    "clearly",
+    "fact",
+    "upon",
+    "land",
+    "discussion",
+    "market"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Job particular anyone according pretty dinner agency last evening family American value discussion foreign time base total kind.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

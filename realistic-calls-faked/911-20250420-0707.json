@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250420-0707",
+  "timestamp_received": "2025-04-20T00:59:15Z",
+  "caller_number": "+1550728310185088",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 44,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.56754,
+    "longitude": -89.64066,
+    "county": "Pekin",
+    "state": "TN",
+    "census_tract": "24075"
+  },
+  "location_type": "Residential",
+  "incident_address": "6450 Daniels Run Apt. 580, North Annaside, TX 55612",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 691,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8130",
+  "audio_file_name": "911-20250420-0707.mp3",
+  "audio_duration_seconds": 178,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.1,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "main",
+    "man",
+    "whom",
+    "effect",
+    "itself",
+    "open",
+    "land"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Western heavy store skill fast several drug despite feel know everybody off wind cup look thus challenge soldier use involve throughout maybe pattern avoid a despite.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

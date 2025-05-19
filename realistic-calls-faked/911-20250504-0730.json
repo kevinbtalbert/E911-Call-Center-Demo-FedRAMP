@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250504-0730",
+  "timestamp_received": "2025-05-04T12:01:16Z",
+  "caller_number": "+109529055095792",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 66,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.8542,
+    "longitude": -87.66561,
+    "county": "Lower West Side",
+    "state": "KY",
+    "census_tract": "68931"
+  },
+  "location_type": "Commercial",
+  "incident_address": "2668 Randy Ford Apt. 416, North Candiceview, UT 95011",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 924,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6157",
+  "audio_file_name": "911-20250504-0730.mp3",
+  "audio_duration_seconds": 175,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 9.6,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "rich",
+    "together",
+    "stop",
+    "smile",
+    "concern",
+    "maintain",
+    "position"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Ago with you seat approach maybe cut several change property brother view forward cause never sing thing decide western control hope marriage get station remain degree surface.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

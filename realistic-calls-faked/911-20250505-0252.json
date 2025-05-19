@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250505-0252",
+  "timestamp_received": "2025-05-05T20:34:32Z",
+  "caller_number": "01424731072011",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.90054,
+    "longitude": -81.26367,
+    "county": "Deltona",
+    "state": "SC",
+    "census_tract": "35330"
+  },
+  "location_type": "Commercial",
+  "incident_address": "844 Jacqueline Neck Apt. 231, Gregorytown, NM 57188",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 896,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1245",
+  "audio_file_name": "911-20250505-0252.mp3",
+  "audio_duration_seconds": 99,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.0,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "store",
+    "include",
+    "win",
+    "officer"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Prevent where then report rest dark environment provide white could ready special yet.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

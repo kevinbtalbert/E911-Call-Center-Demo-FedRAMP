@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250501-0545",
+  "timestamp_received": "2025-05-01T07:48:27Z",
+  "caller_number": "+11921474984",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.54491,
+    "longitude": -121.74052,
+    "county": "Davis",
+    "state": "MD",
+    "census_tract": "74117"
+  },
+  "location_type": "Highway",
+  "incident_address": "42937 Timothy Plaza Suite 721, Russellmouth, NM 44534",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 540,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1474",
+  "audio_file_name": "911-20250501-0545.mp3",
+  "audio_duration_seconds": 104,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.5,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "movement",
+    "speak",
+    "general",
+    "century",
+    "strategy",
+    "Congress"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Ten stuff people me power lawyer year modern wait former everything mention third serve whom dog above truth unit carry very yard worker.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

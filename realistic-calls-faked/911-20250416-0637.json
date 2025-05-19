@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250416-0637",
+  "timestamp_received": "2025-04-16T13:33:01Z",
+  "caller_number": "+1765766647608520",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 48,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.14251,
+    "longitude": -118.25508,
+    "county": "Glendale",
+    "state": "VA",
+    "census_tract": "89450"
+  },
+  "location_type": "Residential",
+  "incident_address": "296 Rivera Islands Apt. 175, West Ashleyside, NM 69866",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 181,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7113",
+  "audio_file_name": "911-20250416-0637.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.1,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "care",
+    "next",
+    "maintain",
+    "century",
+    "guess",
+    "science"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Coach issue reach network realize increase parent organization movie situation discussion moment size every article.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250417-0554",
+  "timestamp_received": "2025-04-17T21:31:54Z",
+  "caller_number": "+13172366704",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 41,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.68066,
+    "longitude": -73.47429,
+    "county": "Massapequa",
+    "state": "MD",
+    "census_tract": "24898"
+  },
+  "location_type": "Residential",
+  "incident_address": "Unit 1710 Box 3891, DPO AP 15594",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1074,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3797",
+  "audio_file_name": "911-20250417-0554.mp3",
+  "audio_duration_seconds": 164,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 8.9,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "thousand",
+    "soldier",
+    "look",
+    "along"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Born reveal site age thought eat well enjoy happy agreement manage eight.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "call_id": "911-20151210-0003",
+  "timestamp_received": "2015-12-10T14:39:21Z",
+  "caller_number": "+15551870420",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.121182,
+    "longitude": -75.351975,
+    "county": "NORRISTOWN",
+    "state": "PA",
+    "census_tract": "PA-95384"
+  },
+  "location_type": "Residential",
+  "incident_address": "HAWS AVE",
+  "response_unit_dispatched": "Medic 5",
+  "response_time_seconds": 531,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1517",
+  "audio_file_name": "ffc382bf0b8c4a4aa31b0df38f4367b4.mp3",
+  "audio_duration_seconds": 69,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 4.9
+}

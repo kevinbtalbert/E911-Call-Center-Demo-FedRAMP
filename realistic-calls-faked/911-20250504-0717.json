@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250504-0717",
+  "timestamp_received": "2025-05-04T11:46:58Z",
+  "caller_number": "74508098971733",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 69,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.65995,
+    "longitude": -111.99633,
+    "county": "Kearns",
+    "state": "VA",
+    "census_tract": "42160"
+  },
+  "location_type": "Commercial",
+  "incident_address": "1604 Patrick Views Apt. 447, South Masonview, WI 14235",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 665,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7128",
+  "audio_file_name": "911-20250504-0717.mp3",
+  "audio_duration_seconds": 43,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.0,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "have",
+    "involve",
+    "exist",
+    "general",
+    "process",
+    "science",
+    "century",
+    "total"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "School experience worry either process stuff sometimes boy despite room leg and organization magazine investment again country natural court east hot foot.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

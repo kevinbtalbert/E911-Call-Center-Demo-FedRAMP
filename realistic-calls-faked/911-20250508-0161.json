@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250508-0161",
+  "timestamp_received": "2025-05-08T09:57:09Z",
+  "caller_number": "001312920875102932",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.95143,
+    "longitude": -91.77127,
+    "county": "Rolla",
+    "state": "KY",
+    "census_tract": "59996"
+  },
+  "location_type": "Public Park",
+  "incident_address": "11845 Rodney Shoals Apt. 340, Donnamouth, OK 64784",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 972,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1731",
+  "audio_file_name": "911-20250508-0161.mp3",
+  "audio_duration_seconds": 97,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.0,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "reason",
+    "mission",
+    "worry",
+    "goal",
+    "Mrs"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Reach production and already center task Democrat care need option everyone rock instead near end power clear.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

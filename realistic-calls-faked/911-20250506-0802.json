@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250506-0802",
+  "timestamp_received": "2025-05-06T20:53:04Z",
+  "caller_number": "+17770750139",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 25,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "NC",
+    "census_tract": "73074"
+  },
+  "location_type": "Highway",
+  "incident_address": "256 Monroe Neck, Kerrifurt, IA 12558",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 397,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1768",
+  "audio_file_name": "911-20250506-0802.mp3",
+  "audio_duration_seconds": 80,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.1,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "several",
+    "look",
+    "lot",
+    "million",
+    "consider"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.5,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Room same surface in identify discussion difficult no debate move drop voice central son candidate range past instead agree education however speak.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

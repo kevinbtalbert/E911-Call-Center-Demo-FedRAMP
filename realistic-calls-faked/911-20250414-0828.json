@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250414-0828",
+  "timestamp_received": "2025-04-14T01:39:35Z",
+  "caller_number": "05683355563859",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.9156,
+    "longitude": -117.14392,
+    "county": "Mira Mesa",
+    "state": "PA",
+    "census_tract": "22770"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "439 Phillips Turnpike, Rileyton, MI 94423",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 977,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2759",
+  "audio_file_name": "911-20250414-0828.mp3",
+  "audio_duration_seconds": 67,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.3,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "growth",
+    "represent",
+    "decade",
+    "tell",
+    "dark"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "About perhaps same call picture a purpose act edge this have bill southern administration include stuff get follow organization partner whom although huge movement however.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

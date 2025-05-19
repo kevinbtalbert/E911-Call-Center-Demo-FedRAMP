@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250421-0949",
+  "timestamp_received": "2025-04-21T22:33:57Z",
+  "caller_number": "0011410526963",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.8542,
+    "longitude": -87.66561,
+    "county": "Lower West Side",
+    "state": "GA",
+    "census_tract": "95813"
+  },
+  "location_type": "Highway",
+  "incident_address": "2721 Rhonda Lodge Suite 543, Tuckerhaven, WI 63554",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 149,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5466",
+  "audio_file_name": "911-20250421-0949.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.4,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "particularly",
+    "item",
+    "process",
+    "hope",
+    "picture"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Hit message remember above small real deal car past night sort responsibility we speech stop ability.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

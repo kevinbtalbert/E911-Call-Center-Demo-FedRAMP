@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250412-0375",
+  "timestamp_received": "2025-04-12T02:23:07Z",
+  "caller_number": "60422763460191",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.72059,
+    "longitude": -87.70172,
+    "county": "Evergreen Park",
+    "state": "VA",
+    "census_tract": "11255"
+  },
+  "location_type": "Industrial",
+  "incident_address": "7347 Jordan Keys, Millerchester, GA 21889",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 906,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9011",
+  "audio_file_name": "911-20250412-0375.mp3",
+  "audio_duration_seconds": 130,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.3,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "vote",
+    "series",
+    "see",
+    "call",
+    "learn",
+    "well"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Laugh about hot industry speak various use situation well task everybody baby unit these this impact nation member such so fall level.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

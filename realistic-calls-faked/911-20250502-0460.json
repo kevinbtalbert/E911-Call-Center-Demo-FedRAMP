@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250502-0460",
+  "timestamp_received": "2025-05-02T02:16:48Z",
+  "caller_number": "6688658348348",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 58,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.08014,
+    "longitude": -83.2321,
+    "county": "Milledgeville",
+    "state": "SC",
+    "census_tract": "95715"
+  },
+  "location_type": "Commercial",
+  "incident_address": "586 Melissa Village, Lewisfurt, ME 68341",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 917,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9144",
+  "audio_file_name": "911-20250502-0460.mp3",
+  "audio_duration_seconds": 167,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.8,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "finish",
+    "child",
+    "team",
+    "specific"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Half likely under too fact city this impact sound night prevent power feeling the rock you real term all agency right figure son guess.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

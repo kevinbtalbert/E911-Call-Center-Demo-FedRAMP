@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250422-0240",
+  "timestamp_received": "2025-04-22T18:31:00Z",
+  "caller_number": "001913098107964967",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.64621,
+    "longitude": -73.97069,
+    "county": "Kensington",
+    "state": "VA",
+    "census_tract": "46170"
+  },
+  "location_type": "Highway",
+  "incident_address": "PSC 3794, Box 5772, APO AA 70815",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 1199,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3534",
+  "audio_file_name": "911-20250422-0240.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.4,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "these",
+    "difference",
+    "expert",
+    "room",
+    "white",
+    "home",
+    "either",
+    "civil"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "It feel amount improve they surface would by phone decade image third.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250423-0054",
+  "timestamp_received": "2025-04-23T07:27:47Z",
+  "caller_number": "0202758842",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.61452,
+    "longitude": -88.81395,
+    "county": "Jackson",
+    "state": "NY",
+    "census_tract": "10371"
+  },
+  "location_type": "Public Park",
+  "incident_address": "105 Nelson Circles Suite 917, Dixonton, OK 22374",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 326,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9850",
+  "audio_file_name": "911-20250423-0054.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 8.8,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "happy",
+    "effort",
+    "bill",
+    "off",
+    "reveal",
+    "direction"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Able teach activity animal hair turn condition whether along sort research pretty different eat trouble floor step number budget pull apply development middle animal husband.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

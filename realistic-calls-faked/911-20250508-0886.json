@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250508-0886",
+  "timestamp_received": "2025-05-08T08:21:44Z",
+  "caller_number": "2944627635",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.84568,
+    "longitude": -102.36764,
+    "county": "Odessa",
+    "state": "GA",
+    "census_tract": "95713"
+  },
+  "location_type": "Public Park",
+  "incident_address": "USS Eaton, FPO AA 67543",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 416,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9936",
+  "audio_file_name": "911-20250508-0886.mp3",
+  "audio_duration_seconds": 121,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.2,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "less",
+    "operation",
+    "likely",
+    "before"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Capital our forget hard south our role national difference place tend former tell fall.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

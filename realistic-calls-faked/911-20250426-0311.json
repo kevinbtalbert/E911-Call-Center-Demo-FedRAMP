@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0311",
+  "timestamp_received": "2025-04-26T18:05:09Z",
+  "caller_number": "0016240964966",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.35283,
+    "longitude": -111.78903,
+    "county": "Gilbert",
+    "state": "MD",
+    "census_tract": "39428"
+  },
+  "location_type": "Residential",
+  "incident_address": "604 Hunt Drive Apt. 702, Curtisberg, MI 76522",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 375,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5303",
+  "audio_file_name": "911-20250426-0311.mp3",
+  "audio_duration_seconds": 106,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.0,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "set",
+    "stay",
+    "image",
+    "my",
+    "by"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Whose whether single entire hundred recent direction American job world house character would money own attention against strategy become available your both to yes.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

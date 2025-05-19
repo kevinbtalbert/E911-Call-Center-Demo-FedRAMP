@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250503-0574",
+  "timestamp_received": "2025-05-03T03:16:42Z",
+  "caller_number": "+1239933025598792",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 59,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.95143,
+    "longitude": -91.77127,
+    "county": "Rolla",
+    "state": "OH",
+    "census_tract": "95726"
+  },
+  "location_type": "Commercial",
+  "incident_address": "14596 Megan Prairie, Schultzshire, MO 72272",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 368,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5668",
+  "audio_file_name": "911-20250503-0574.mp3",
+  "audio_duration_seconds": 109,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "answer",
+    "explain",
+    "air",
+    "clear",
+    "assume"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Successful society accept business skill simply walk three shoulder education section southern style.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

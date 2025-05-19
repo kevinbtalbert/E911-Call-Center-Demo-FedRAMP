@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250426-0014",
+  "timestamp_received": "2025-04-26T13:31:18Z",
+  "caller_number": "9413186999",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.43534,
+    "longitude": -84.20299,
+    "county": "Lebanon",
+    "state": "NC",
+    "census_tract": "11220"
+  },
+  "location_type": "School",
+  "incident_address": "7496 Carroll Circle Apt. 334, East Johnside, GA 00851",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 264,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2200",
+  "audio_file_name": "911-20250426-0014.mp3",
+  "audio_duration_seconds": 167,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 9.4,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "impact",
+    "ready",
+    "like",
+    "allow",
+    "explain",
+    "executive"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Author do enough social operation sound cup boy different chance enter central arrive society organization station TV keep light fight I evening music.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

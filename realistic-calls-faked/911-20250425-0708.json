@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250425-0708",
+  "timestamp_received": "2025-04-25T04:34:50Z",
+  "caller_number": "8734505219",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.47892,
+    "longitude": -87.45476,
+    "county": "Schererville",
+    "state": "OH",
+    "census_tract": "78673"
+  },
+  "location_type": "Public Park",
+  "incident_address": "047 Karen Burg Suite 962, West Michaelshire, NV 31465",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 102,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9176",
+  "audio_file_name": "911-20250425-0708.mp3",
+  "audio_duration_seconds": 159,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.8,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "with",
+    "important",
+    "administration",
+    "mouth",
+    "scientist",
+    "first",
+    "boy",
+    "news"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Seem machine result home half pass population money model south media other quite total the laugh each son partner education energy when reveal.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

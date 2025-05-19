@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250501-0997",
+  "timestamp_received": "2025-05-01T09:17:01Z",
+  "caller_number": "2530467407",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 37,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.06635,
+    "longitude": -84.67837,
+    "county": "Acworth",
+    "state": "VA",
+    "census_tract": "29850"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "31156 Terry Forges Suite 628, Morganville, NY 34401",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 125,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6492",
+  "audio_file_name": "911-20250501-0997.mp3",
+  "audio_duration_seconds": 90,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.2,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "myself",
+    "value",
+    "door",
+    "her",
+    "none"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "General star that only effect week level as himself power decide another yes claim.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

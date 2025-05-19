@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250426-0592",
+  "timestamp_received": "2025-04-26T19:02:57Z",
+  "caller_number": "+191540273201295",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.38093,
+    "longitude": -122.23484,
+    "county": "Kent",
+    "state": "TN",
+    "census_tract": "30242"
+  },
+  "location_type": "Industrial",
+  "incident_address": "04231 Holly Trace Suite 820, Allisonville, UT 04765",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 360,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5789",
+  "audio_file_name": "911-20250426-0592.mp3",
+  "audio_duration_seconds": 128,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "note",
+    "travel",
+    "argue",
+    "whether",
+    "father"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Remember design might kitchen station outside those only moment security even respond point force money bit teach movie magazine.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

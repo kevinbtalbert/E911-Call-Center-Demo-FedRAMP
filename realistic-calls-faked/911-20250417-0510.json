@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250417-0510",
+  "timestamp_received": "2025-04-17T21:00:55Z",
+  "caller_number": "+104247960009409",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.95015,
+    "longitude": -118.03917,
+    "county": "South Whittier",
+    "state": "GA",
+    "census_tract": "36777"
+  },
+  "location_type": "Residential",
+  "incident_address": "3762 Koch Lodge Suite 225, Brittneyton, MT 79091",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 110,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9287",
+  "audio_file_name": "911-20250417-0510.mp3",
+  "audio_duration_seconds": 143,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.7,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "discuss",
+    "other",
+    "be",
+    "whatever",
+    "type"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Window treatment quickly chance drop want box least standard how treatment else whether foreign occur small these plant miss call particular development without particularly world evening song clear.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

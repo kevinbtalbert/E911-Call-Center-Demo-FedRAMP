@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250423-0525",
+  "timestamp_received": "2025-04-23T09:55:02Z",
+  "caller_number": "6989354646",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.16024,
+    "longitude": -93.08883,
+    "county": "Lino Lakes",
+    "state": "MD",
+    "census_tract": "24973"
+  },
+  "location_type": "Residential",
+  "incident_address": "14557 Melanie Fort Apt. 427, Lake Amberfurt, WA 76941",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 129,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5428",
+  "audio_file_name": "911-20250423-0525.mp3",
+  "audio_duration_seconds": 101,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "who",
+    "gun",
+    "call",
+    "street",
+    "possible",
+    "forget",
+    "perform"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Hope approach answer bag when standard project seek bar force available audience one court election education.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

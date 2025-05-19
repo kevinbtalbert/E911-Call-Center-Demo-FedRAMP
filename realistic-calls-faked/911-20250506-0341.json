@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250506-0341",
+  "timestamp_received": "2025-05-06T11:50:02Z",
+  "caller_number": "2124139369",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 64,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.52253,
+    "longitude": -117.70755,
+    "county": "Laguna Niguel",
+    "state": "TN",
+    "census_tract": "61733"
+  },
+  "location_type": "Industrial",
+  "incident_address": "0987 Charles Meadow Suite 731, East Samuel, TX 04212",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 330,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1673",
+  "audio_file_name": "911-20250506-0341.mp3",
+  "audio_duration_seconds": 178,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.5,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "leave",
+    "fund",
+    "officer",
+    "most",
+    "perform"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Inside down PM debate piece occur trouble realize data owner picture him final air mention rise official friend do certain citizen only goal age give.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

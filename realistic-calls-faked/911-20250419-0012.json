@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250419-0012",
+  "timestamp_received": "2025-04-19T23:48:58Z",
+  "caller_number": "+1919058651850671",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.4251,
+    "longitude": -71.06616,
+    "county": "Malden",
+    "state": "OH",
+    "census_tract": "44760"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "726 Jessica Run Suite 987, Grahamshire, MD 32678",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 644,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7930",
+  "audio_file_name": "911-20250419-0012.mp3",
+  "audio_duration_seconds": 172,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.7,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "store",
+    "beautiful",
+    "think",
+    "during",
+    "let",
+    "particular"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "From management foot maintain great election evidence other they new might course drop image new drive live Republican large admit family.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250416-0665",
+  "timestamp_received": "2025-04-16T06:47:50Z",
+  "caller_number": "+15547018977",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 62,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.7207,
+    "longitude": -116.21677,
+    "county": "Indio",
+    "state": "NY",
+    "census_tract": "98892"
+  },
+  "location_type": "Residential",
+  "incident_address": "14670 Rodney Divide Suite 028, North Laurenport, CA 60981",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 597,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6227",
+  "audio_file_name": "911-20250416-0665.mp3",
+  "audio_duration_seconds": 145,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 5.5,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "low",
+    "represent",
+    "stock",
+    "manager",
+    "establish",
+    "sure",
+    "amount",
+    "easy"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Best professional actually maintain peace soon second history environmental loss successful maintain eye condition me TV them than set senior majority tonight.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250507-0146",
+  "timestamp_received": "2025-05-07T17:16:43Z",
+  "caller_number": "0013842530428",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 69,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.16547,
+    "longitude": -77.70066,
+    "county": "Gates-North Gates",
+    "state": "MD",
+    "census_tract": "17850"
+  },
+  "location_type": "Commercial",
+  "incident_address": "Unit 7317 Box 9128, DPO AA 98976",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 250,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1719",
+  "audio_file_name": "911-20250507-0146.mp3",
+  "audio_duration_seconds": 89,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.8,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "think",
+    "seem",
+    "hear",
+    "million",
+    "condition",
+    "Republican",
+    "moment",
+    "low"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Listen ok point so power debate thus later doctor despite interesting help church successful effort be seem far million discover American mention from later.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

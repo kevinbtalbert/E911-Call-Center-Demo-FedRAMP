@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250425-0664",
+  "timestamp_received": "2025-04-25T20:31:07Z",
+  "caller_number": "9730294069572",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 70,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.05266,
+    "longitude": -78.87836,
+    "county": "Fayetteville",
+    "state": "TN",
+    "census_tract": "55188"
+  },
+  "location_type": "Industrial",
+  "incident_address": "35893 Murray Creek, West Amy, KS 70063",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 1146,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1114",
+  "audio_file_name": "911-20250425-0664.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.6,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "worry",
+    "nice",
+    "thus",
+    "option"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "West feel owner weight himself rise person attack religious once finish staff prevent fall fear edge focus draw once air authority have field choose then take money.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

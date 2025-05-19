@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250420-0007",
+  "timestamp_received": "2025-04-20T16:08:40Z",
+  "caller_number": "+16801128059",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 43.61062,
+    "longitude": -72.97261,
+    "county": "Rutland",
+    "state": "TN",
+    "census_tract": "93748"
+  },
+  "location_type": "Highway",
+  "incident_address": "04505 Evelyn Shores Apt. 586, East Michelle, HI 54541",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 467,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3504",
+  "audio_file_name": "911-20250420-0007.mp3",
+  "audio_duration_seconds": 125,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 3.9,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "agent",
+    "say",
+    "forward",
+    "us",
+    "soon",
+    "ten"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Environment skin blue the teach develop staff least figure somebody dinner age cover foreign ten whom evidence political.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

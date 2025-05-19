@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250508-0293",
+  "timestamp_received": "2025-05-08T04:49:21Z",
+  "caller_number": "001638318285605397",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 44,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.27621,
+    "longitude": -72.86843,
+    "county": "East Haven",
+    "state": "MD",
+    "census_tract": "92111"
+  },
+  "location_type": "Industrial",
+  "incident_address": "USS Vasquez, FPO AP 77651",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 626,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1869",
+  "audio_file_name": "911-20250508-0293.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 8.6,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "name",
+    "PM",
+    "idea",
+    "until",
+    "budget"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Record I visit door if sister chair society half able music base subject Congress pick foreign city yeah quickly process address friend writer view.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

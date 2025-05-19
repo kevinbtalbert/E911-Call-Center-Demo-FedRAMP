@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250427-0405",
+  "timestamp_received": "2025-04-27T08:26:47Z",
+  "caller_number": "+108517328951456",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.92946,
+    "longitude": -116.97725,
+    "county": "Beaumont",
+    "state": "GA",
+    "census_tract": "70132"
+  },
+  "location_type": "Commercial",
+  "incident_address": "91858 Maxwell Plains Apt. 157, Josephfurt, MN 33121",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 630,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7045",
+  "audio_file_name": "911-20250427-0405.mp3",
+  "audio_duration_seconds": 41,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.7,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "own",
+    "bring",
+    "huge",
+    "position"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Able expect onto throughout song response five find much world yes eat type Republican change bank much race open hour civil vote rule draw.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

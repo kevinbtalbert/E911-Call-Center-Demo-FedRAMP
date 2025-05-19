@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250508-0705",
+  "timestamp_received": "2025-05-08T15:02:16Z",
+  "caller_number": "81135373965272",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 50,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.06635,
+    "longitude": -84.67837,
+    "county": "Acworth",
+    "state": "SC",
+    "census_tract": "22568"
+  },
+  "location_type": "Industrial",
+  "incident_address": "867 Harrison Circle Suite 548, South Christopherburgh, OR 79819",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 479,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1654",
+  "audio_file_name": "911-20250508-0705.mp3",
+  "audio_duration_seconds": 175,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 4.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "his",
+    "she",
+    "us",
+    "for",
+    "region",
+    "consumer"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Act prevent off describe receive bit wonder hospital occur likely energy after ask its nation movie away matter base career parent attack entire red.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

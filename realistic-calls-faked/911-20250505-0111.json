@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250505-0111",
+  "timestamp_received": "2025-05-05T17:17:05Z",
+  "caller_number": "1363631797",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.97086,
+    "longitude": -82.42491,
+    "county": "Port Huron",
+    "state": "MD",
+    "census_tract": "32050"
+  },
+  "location_type": "Industrial",
+  "incident_address": "39726 Taylor Stravenue Apt. 543, Davidshire, KY 18392",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 406,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3293",
+  "audio_file_name": "911-20250505-0111.mp3",
+  "audio_duration_seconds": 169,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.9,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "book",
+    "letter",
+    "industry",
+    "set"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Though page smile point particularly color wife talk beat tax majority yet option student evidence role save.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

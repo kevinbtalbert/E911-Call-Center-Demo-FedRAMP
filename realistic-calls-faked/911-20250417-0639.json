@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250417-0639",
+  "timestamp_received": "2025-04-17T05:34:00Z",
+  "caller_number": "+1355669633895864",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.61033,
+    "longitude": -88.31476,
+    "county": "Murray",
+    "state": "NY",
+    "census_tract": "77959"
+  },
+  "location_type": "Commercial",
+  "incident_address": "6019 Kimberly Street, Andersonchester, ME 83577",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 1079,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4164",
+  "audio_file_name": "911-20250417-0639.mp3",
+  "audio_duration_seconds": 69,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 5.9,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "like",
+    "region",
+    "collection",
+    "cultural"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Exist it team student magazine operation course loss risk paper worry bed there capital write stage manager baby serve quickly you fine result put camera.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250429-0330",
+  "timestamp_received": "2025-04-29T16:24:38Z",
+  "caller_number": "2362192158",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.57582,
+    "longitude": -105.11221,
+    "county": "Ken Caryl",
+    "state": "GA",
+    "census_tract": "29722"
+  },
+  "location_type": "Industrial",
+  "incident_address": "059 Ryan Trail Apt. 863, Martinside, VA 77642",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 951,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7721",
+  "audio_file_name": "911-20250429-0330.mp3",
+  "audio_duration_seconds": 111,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.4,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "thing",
+    "notice",
+    "less",
+    "win",
+    "cold",
+    "real"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "New and anyone yeah fund door movement space page democratic natural heart wall meet old tonight sound everybody which financial apply.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

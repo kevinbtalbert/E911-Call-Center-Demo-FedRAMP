@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250424-0767",
+  "timestamp_received": "2025-04-24T05:25:35Z",
+  "caller_number": "+19963691845441",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 75,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.53885,
+    "longitude": -95.44744,
+    "county": "Fresno",
+    "state": "VA",
+    "census_tract": "61142"
+  },
+  "location_type": "Public Park",
+  "incident_address": "579 Alison Locks, Lake Cassandra, MT 46625",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 380,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6811",
+  "audio_file_name": "911-20250424-0767.mp3",
+  "audio_duration_seconds": 125,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.6,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "bit",
+    "owner",
+    "officer",
+    "coach",
+    "up",
+    "land"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Story yes whatever guess former difference which audience positive off similar author professor political stage forget him as story see teacher here piece central sort.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

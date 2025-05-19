@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250422-0889",
+  "timestamp_received": "2025-04-22T07:35:59Z",
+  "caller_number": "94906082761002",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "TN",
+    "census_tract": "27040"
+  },
+  "location_type": "School",
+  "incident_address": "20945 Silva Isle Suite 349, Nicoleside, SC 87067",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 645,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2732",
+  "audio_file_name": "911-20250422-0889.mp3",
+  "audio_duration_seconds": 147,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.6,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "institution",
+    "daughter",
+    "grow",
+    "term",
+    "reason"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Or be run save three more that both middle picture production talk race build discover someone particular theory.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

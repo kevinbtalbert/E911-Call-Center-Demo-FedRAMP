@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250413-0584",
+  "timestamp_received": "2025-04-13T03:16:21Z",
+  "caller_number": "3417491953",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.24255,
+    "longitude": -82.61573,
+    "county": "Norwalk",
+    "state": "MD",
+    "census_tract": "40765"
+  },
+  "location_type": "School",
+  "incident_address": "842 Buchanan Walk, East James, AL 89574",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 329,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7200",
+  "audio_file_name": "911-20250413-0584.mp3",
+  "audio_duration_seconds": 61,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.9,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "specific",
+    "support",
+    "boy",
+    "tend",
+    "almost"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Bank particular free moment a executive see include economy peace serve end one.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

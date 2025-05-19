@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250510-0978",
+  "timestamp_received": "2025-05-10T00:45:56Z",
+  "caller_number": "00139215819277244",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 84,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.84576,
+    "longitude": -90.10674,
+    "county": "Estelle",
+    "state": "GA",
+    "census_tract": "99621"
+  },
+  "location_type": "Industrial",
+  "incident_address": "645 Jones Street Suite 689, West Rebeccaside, ID 27548",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 395,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2559",
+  "audio_file_name": "911-20250510-0978.mp3",
+  "audio_duration_seconds": 51,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.5,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "treatment",
+    "want",
+    "perform",
+    "kitchen",
+    "maintain",
+    "and"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "While bit middle score reach owner recently participant address memory difference wall thousand successful heart instead note movement sort oil myself audience help in pay brother role off.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

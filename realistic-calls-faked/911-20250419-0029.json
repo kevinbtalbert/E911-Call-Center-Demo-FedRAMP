@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250419-0029",
+  "timestamp_received": "2025-04-19T22:48:03Z",
+  "caller_number": "1179808932460",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 29,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.80527,
+    "longitude": -122.24064,
+    "county": "Bothell West",
+    "state": "NY",
+    "census_tract": "13365"
+  },
+  "location_type": "Public Park",
+  "incident_address": "621 Jones Pine, South Morganton, MS 49430",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 828,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7498",
+  "audio_file_name": "911-20250419-0029.mp3",
+  "audio_duration_seconds": 80,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 7.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "effect",
+    "administration",
+    "small",
+    "general",
+    "run",
+    "pick",
+    "sign",
+    "same"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Card good full poor store range wonder long consider care respond want already cut social though firm financial huge spring.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250414-0096",
+  "timestamp_received": "2025-04-14T13:09:23Z",
+  "caller_number": "+16803476447",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 68,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 30.17746,
+    "longitude": -81.38758,
+    "county": "Palm Valley",
+    "state": "KY",
+    "census_tract": "71918"
+  },
+  "location_type": "Residential",
+  "incident_address": "082 Gallegos Mission Apt. 812, South Robert, AK 23946",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 70,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3587",
+  "audio_file_name": "911-20250414-0096.mp3",
+  "audio_duration_seconds": 134,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "law",
+    "to",
+    "time",
+    "think",
+    "bed",
+    "food"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Responsibility but box last guy model himself social memory wear her herself should treatment not process.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

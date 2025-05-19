@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250507-0397",
+  "timestamp_received": "2025-05-07T10:57:54Z",
+  "caller_number": "29073992891982",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.54428,
+    "longitude": -84.23381,
+    "county": "Stockbridge",
+    "state": "VA",
+    "census_tract": "58319"
+  },
+  "location_type": "Highway",
+  "incident_address": "5337 Stephen Avenue, Shortport, KS 22995",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 411,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6353",
+  "audio_file_name": "911-20250507-0397.mp3",
+  "audio_duration_seconds": 135,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "if",
+    "factor",
+    "air",
+    "responsibility"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Movie west doctor this push down force reach policy realize both grow not without last yes out as future Mrs couple happy you most when even no.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250506-0005",
+  "timestamp_received": "2025-05-06T05:38:47Z",
+  "caller_number": "7317810801326",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 30.16688,
+    "longitude": -96.39774,
+    "county": "Brenham",
+    "state": "SC",
+    "census_tract": "44718"
+  },
+  "location_type": "Commercial",
+  "incident_address": "0260 Baker Tunnel, Mitchellside, VT 64289",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 1163,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5304",
+  "audio_file_name": "911-20250506-0005.mp3",
+  "audio_duration_seconds": 179,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.0,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "choice",
+    "father",
+    "why",
+    "often"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.3,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Article finish anyone live try most arm meet surface attention attack technology identify walk now often always bank price north first end prove fire enter.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

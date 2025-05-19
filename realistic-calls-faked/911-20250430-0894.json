@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250430-0894",
+  "timestamp_received": "2025-04-30T00:44:43Z",
+  "caller_number": "2074197537006",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 86,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.45621,
+    "longitude": -77.96389,
+    "county": "Martinsburg",
+    "state": "PA",
+    "census_tract": "20689"
+  },
+  "location_type": "Industrial",
+  "incident_address": "988 Hurley Fords, West Erik, NC 45258",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 700,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8598",
+  "audio_file_name": "911-20250430-0894.mp3",
+  "audio_duration_seconds": 150,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.0,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "trouble",
+    "country",
+    "policy",
+    "hand",
+    "radio",
+    "national"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Wide want city because page son side hard beyond article model she nor ready middle report.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

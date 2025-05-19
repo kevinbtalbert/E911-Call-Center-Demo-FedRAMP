@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250414-0778",
+  "timestamp_received": "2025-04-14T07:19:52Z",
+  "caller_number": "7137998708",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.48199,
+    "longitude": -81.79819,
+    "county": "Lakewood",
+    "state": "NY",
+    "census_tract": "86132"
+  },
+  "location_type": "Industrial",
+  "incident_address": "82898 Lauren Squares Apt. 396, Shawnstad, ID 85063",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 652,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5681",
+  "audio_file_name": "911-20250414-0778.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 10.0,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "main",
+    "service",
+    "establish",
+    "explain",
+    "box",
+    "phone",
+    "unit"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Vote check must theory day exactly impact eight especially work open reach hit decide arm.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

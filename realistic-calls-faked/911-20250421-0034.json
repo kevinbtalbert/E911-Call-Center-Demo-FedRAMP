@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250421-0034",
+  "timestamp_received": "2025-04-21T10:09:48Z",
+  "caller_number": "+174801624565060",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 45,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.38093,
+    "longitude": -122.23484,
+    "county": "Kent",
+    "state": "KY",
+    "census_tract": "33519"
+  },
+  "location_type": "Public Park",
+  "incident_address": "8416 Duran Harbors, East Theresafurt, WY 44945",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 1153,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3073",
+  "audio_file_name": "911-20250421-0034.mp3",
+  "audio_duration_seconds": 100,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 3.6,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "newspaper",
+    "hand",
+    "certain",
+    "own"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Matter and case four listen lead paper middle foreign party class wrong school federal from stock mother remember feel staff happy purpose.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250507-0485",
+  "timestamp_received": "2025-05-07T03:30:28Z",
+  "caller_number": "5553015303",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.57721,
+    "longitude": -93.71133,
+    "county": "West Des Moines",
+    "state": "GA",
+    "census_tract": "57826"
+  },
+  "location_type": "Residential",
+  "incident_address": "0778 Emily Courts Apt. 965, Elizabethmouth, NH 53818",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 120,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6366",
+  "audio_file_name": "911-20250507-0485.mp3",
+  "audio_duration_seconds": 65,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.2,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "scientist",
+    "remain",
+    "down",
+    "song",
+    "for",
+    "though"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Situation score contain opportunity center voice tax our game area fill bank peace safe bill.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

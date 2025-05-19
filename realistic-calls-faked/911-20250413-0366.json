@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250413-0366",
+  "timestamp_received": "2025-04-13T22:55:55Z",
+  "caller_number": "001640343988187387",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.33427,
+    "longitude": -76.43941,
+    "county": "Middle River",
+    "state": "NC",
+    "census_tract": "58688"
+  },
+  "location_type": "Public Park",
+  "incident_address": "333 Campbell Mountains Suite 041, Lake Alan, RI 15275",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 681,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5816",
+  "audio_file_name": "911-20250413-0366.mp3",
+  "audio_duration_seconds": 154,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.1,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "walk",
+    "give",
+    "mention",
+    "PM",
+    "industry",
+    "age"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Campaign card enough cold always energy pretty color thank thus particularly right green left account serious at argue real ready stuff evening north city he.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

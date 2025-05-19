@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250417-0396",
+  "timestamp_received": "2025-04-17T06:34:22Z",
+  "caller_number": "2266794190",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.57582,
+    "longitude": -105.11221,
+    "county": "Ken Caryl",
+    "state": "MD",
+    "census_tract": "93755"
+  },
+  "location_type": "Public Park",
+  "incident_address": "865 Wayne Isle Apt. 673, Harrisburgh, NY 91412",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 411,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2709",
+  "audio_file_name": "911-20250417-0396.mp3",
+  "audio_duration_seconds": 171,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.4,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "pay",
+    "summer",
+    "series",
+    "would",
+    "agency"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Sometimes point summer such PM number catch brother lay energy task institution record back ten radio kind imagine day stuff.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

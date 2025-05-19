@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250422-0823",
+  "timestamp_received": "2025-04-22T10:02:53Z",
+  "caller_number": "001648782648713000",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.66394,
+    "longitude": -83.55521,
+    "county": "Toledo",
+    "state": "NY",
+    "census_tract": "55251"
+  },
+  "location_type": "Commercial",
+  "incident_address": "6453 Justin Road Suite 294, Keithtown, DE 90866",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 1076,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1279",
+  "audio_file_name": "911-20250422-0823.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.3,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "recognize",
+    "head",
+    "forget",
+    "seat",
+    "deep",
+    "cultural"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Into travel possible table mission opportunity possible cup population talk hair pattern for.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

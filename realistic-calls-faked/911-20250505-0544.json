@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250505-0544",
+  "timestamp_received": "2025-05-05T13:08:08Z",
+  "caller_number": "4450999863245",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 66,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.72816,
+    "longitude": -74.07764,
+    "county": "Jersey City",
+    "state": "NY",
+    "census_tract": "56809"
+  },
+  "location_type": "Highway",
+  "incident_address": "79111 Heather Centers Suite 184, Byrdhaven, OH 88097",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 665,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2581",
+  "audio_file_name": "911-20250505-0544.mp3",
+  "audio_duration_seconds": 86,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.7,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "yet",
+    "focus",
+    "develop",
+    "coach",
+    "drug",
+    "step",
+    "include"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Program appear probably rich cup every view mother there always choose prevent industry choice pattern way production care friend forward national clearly off thank.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

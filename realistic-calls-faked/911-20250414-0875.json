@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250414-0875",
+  "timestamp_received": "2025-04-14T20:38:37Z",
+  "caller_number": "001981625499314536",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.96372,
+    "longitude": -76.99081,
+    "county": "Chillum",
+    "state": "VA",
+    "census_tract": "21988"
+  },
+  "location_type": "Residential",
+  "incident_address": "86136 Schwartz Vista, Millerville, AL 42275",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 821,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1016",
+  "audio_file_name": "911-20250414-0875.mp3",
+  "audio_duration_seconds": 75,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.8,
+  "incident_type": "Assault",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "evening",
+    "difficult",
+    "radio",
+    "machine"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Him back marriage employee about painting trial hear dream back blue smile spring organization task production hold show.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

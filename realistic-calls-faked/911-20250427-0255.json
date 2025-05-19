@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250427-0255",
+  "timestamp_received": "2025-04-27T16:51:33Z",
+  "caller_number": "53469979907075",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 19,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.73941,
+    "longitude": -93.12577,
+    "county": "Rosemount",
+    "state": "SC",
+    "census_tract": "69464"
+  },
+  "location_type": "Highway",
+  "incident_address": "768 Roberto Radial Suite 706, South Katherineland, KS 71769",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 991,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2477",
+  "audio_file_name": "911-20250427-0255.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.6,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "begin",
+    "early",
+    "store",
+    "piece",
+    "behind",
+    "here",
+    "front"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Worker alone finally since take describe improve act campaign television sit very know maybe leg recent hold understand president any one recently make total fall clear face.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

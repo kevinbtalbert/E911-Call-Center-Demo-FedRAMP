@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250429-0448",
+  "timestamp_received": "2025-04-29T13:02:38Z",
+  "caller_number": "3367960828",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 83,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.72943,
+    "longitude": -104.83192,
+    "county": "Aurora",
+    "state": "NY",
+    "census_tract": "58705"
+  },
+  "location_type": "Commercial",
+  "incident_address": "136 Melissa Route Suite 946, North Anna, MT 37192",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 490,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7292",
+  "audio_file_name": "911-20250429-0448.mp3",
+  "audio_duration_seconds": 52,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.7,
+  "incident_type": "Burglary",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "nothing",
+    "street",
+    "box",
+    "could",
+    "end",
+    "hard",
+    "test",
+    "traditional"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Hear station wide themselves back together factor body general tonight resource thus politics must any weight safe.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

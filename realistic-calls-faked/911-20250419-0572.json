@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250419-0572",
+  "timestamp_received": "2025-04-19T17:37:57Z",
+  "caller_number": "8158061949",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.17492,
+    "longitude": -122.2608,
+    "county": "American Canyon",
+    "state": "MD",
+    "census_tract": "82067"
+  },
+  "location_type": "Industrial",
+  "incident_address": "65055 Barbara Skyway, Port Sarah, ND 57913",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 495,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8738",
+  "audio_file_name": "911-20250419-0572.mp3",
+  "audio_duration_seconds": 126,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 4.5,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "bank",
+    "item",
+    "produce",
+    "baby",
+    "account",
+    "activity",
+    "find"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Our daughter clear structure when next resource sit very hand make treatment big institution child.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

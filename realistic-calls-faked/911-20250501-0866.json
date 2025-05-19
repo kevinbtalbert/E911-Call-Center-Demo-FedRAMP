@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250501-0866",
+  "timestamp_received": "2025-05-01T15:01:03Z",
+  "caller_number": "3143422070431",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.2737,
+    "longitude": -76.88442,
+    "county": "Harrisburg",
+    "state": "KY",
+    "census_tract": "46562"
+  },
+  "location_type": "Public Park",
+  "incident_address": "7222 King Ranch, Ritashire, VA 52957",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 836,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8168",
+  "audio_file_name": "911-20250501-0866.mp3",
+  "audio_duration_seconds": 49,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 1.4,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "main",
+    "fall",
+    "must",
+    "however",
+    "bank",
+    "similar",
+    "worker"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Property morning western town several middle brother as deal present common various character debate development under clearly decision management analysis expert modern air president.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

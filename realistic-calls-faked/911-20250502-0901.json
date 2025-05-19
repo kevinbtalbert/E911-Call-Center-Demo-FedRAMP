@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250502-0901",
+  "timestamp_received": "2025-05-02T06:38:13Z",
+  "caller_number": "+13246719992752",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.33427,
+    "longitude": -76.43941,
+    "county": "Middle River",
+    "state": "VA",
+    "census_tract": "60222"
+  },
+  "location_type": "Commercial",
+  "incident_address": "02959 Lee Cliffs, Bellton, IL 24242",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 373,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2378",
+  "audio_file_name": "911-20250502-0901.mp3",
+  "audio_duration_seconds": 176,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 1.5,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "among",
+    "responsibility",
+    "heavy",
+    "determine",
+    "piece",
+    "assume"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Southern event whole perform lot report story prevent audience arm interview foreign well hold sit develop remember sign rich.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.99,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

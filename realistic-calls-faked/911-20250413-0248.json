@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250413-0248",
+  "timestamp_received": "2025-04-13T01:02:09Z",
+  "caller_number": "00141763425073305",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.32374,
+    "longitude": -120.00865,
+    "county": "Sunnyside",
+    "state": "PA",
+    "census_tract": "49967"
+  },
+  "location_type": "Public Park",
+  "incident_address": "245 Galloway Rapids Apt. 399, West Jessicaborough, NY 37523",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 865,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3572",
+  "audio_file_name": "911-20250413-0248.mp3",
+  "audio_duration_seconds": 34,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.6,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "eat",
+    "heavy",
+    "red",
+    "system"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "End century agent prepare several bad let travel challenge personal new order serve blue event every relationship law clear.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

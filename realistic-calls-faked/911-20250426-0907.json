@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0907",
+  "timestamp_received": "2025-04-26T20:55:22Z",
+  "caller_number": "0019801337619157",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 27,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.60876,
+    "longitude": -77.37331,
+    "county": "Mechanicsville",
+    "state": "KY",
+    "census_tract": "34296"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "41115 Dana Villages, East Chad, RI 36326",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 352,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6293",
+  "audio_file_name": "911-20250426-0907.mp3",
+  "audio_duration_seconds": 125,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.6,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "civil",
+    "available",
+    "group",
+    "leg",
+    "reveal"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Full officer ask dark outside they hair hard keep score send service building sort ask pretty page stop artist popular talk far.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

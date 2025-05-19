@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250413-0331",
+  "timestamp_received": "2025-04-13T08:16:39Z",
+  "caller_number": "227200283948232",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 55,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.52515,
+    "longitude": -93.75018,
+    "county": "Shreveport",
+    "state": "MD",
+    "census_tract": "73620"
+  },
+  "location_type": "Highway",
+  "incident_address": "41447 Pena Street, Lake Michelle, DE 09156",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 924,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1606",
+  "audio_file_name": "911-20250413-0331.mp3",
+  "audio_duration_seconds": 81,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "instead",
+    "well",
+    "growth",
+    "own"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Red pull save same camera plant without everybody research chance system candidate keep grow us receive billion.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

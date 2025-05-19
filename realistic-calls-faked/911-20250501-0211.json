@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250501-0211",
+  "timestamp_received": "2025-05-01T07:51:17Z",
+  "caller_number": "55125427820797",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.48199,
+    "longitude": -81.79819,
+    "county": "Lakewood",
+    "state": "NC",
+    "census_tract": "40116"
+  },
+  "location_type": "School",
+  "incident_address": "673 Cummings Rapid Suite 764, East Kathrynhaven, MT 56323",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 265,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4513",
+  "audio_file_name": "911-20250501-0211.mp3",
+  "audio_duration_seconds": 160,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 6.5,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "similar",
+    "west",
+    "husband",
+    "agreement",
+    "mention",
+    "two",
+    "though"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Cup win sell candidate four whether wife finally she soon learn close a challenge third feeling ball door data bed each range suffer hear local.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

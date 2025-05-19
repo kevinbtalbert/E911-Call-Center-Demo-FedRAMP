@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250417-0568",
+  "timestamp_received": "2025-04-17T14:19:55Z",
+  "caller_number": "6632567322",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.17492,
+    "longitude": -122.2608,
+    "county": "American Canyon",
+    "state": "MD",
+    "census_tract": "28325"
+  },
+  "location_type": "School",
+  "incident_address": "USNS Mitchell, FPO AP 59747",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 721,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7099",
+  "audio_file_name": "911-20250417-0568.mp3",
+  "audio_duration_seconds": 174,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 7.3,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "environmental",
+    "degree",
+    "woman",
+    "international",
+    "hot"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Oil almost action nature issue result road security debate teach child finally under language.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

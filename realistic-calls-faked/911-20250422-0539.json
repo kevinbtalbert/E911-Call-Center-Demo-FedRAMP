@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250422-0539",
+  "timestamp_received": "2025-04-22T05:27:38Z",
+  "caller_number": "4907697216218",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 82,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.35126,
+    "longitude": -95.30106,
+    "county": "Tyler",
+    "state": "TN",
+    "census_tract": "85384"
+  },
+  "location_type": "Highway",
+  "incident_address": "391 Becky Lane, North Aaron, IN 03763",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 263,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6690",
+  "audio_file_name": "911-20250422-0539.mp3",
+  "audio_duration_seconds": 102,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.5,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "lose",
+    "city",
+    "try",
+    "among",
+    "argue"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Call certainly do leg security consider single firm per food save movement knowledge coach natural certainly hundred character realize million really score whether wonder cold wish.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

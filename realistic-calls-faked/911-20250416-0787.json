@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250416-0787",
+  "timestamp_received": "2025-04-16T11:16:07Z",
+  "caller_number": "+12817393396",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.8542,
+    "longitude": -87.66561,
+    "county": "Lower West Side",
+    "state": "MD",
+    "census_tract": "60393"
+  },
+  "location_type": "Residential",
+  "incident_address": "82965 Farley Dale, Port Maryfurt, MS 36909",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 196,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5317",
+  "audio_file_name": "911-20250416-0787.mp3",
+  "audio_duration_seconds": 35,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 9.7,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "result",
+    "student",
+    "yourself",
+    "heavy",
+    "less",
+    "staff",
+    "him"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.4,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Together never TV around quite possible your wall easy worker who oil choice life administration oil this method build certain.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250506-0262",
+  "timestamp_received": "2025-05-06T14:20:10Z",
+  "caller_number": "5345472239898",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 57,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.24537,
+    "longitude": -75.64963,
+    "county": "Pottstown",
+    "state": "VA",
+    "census_tract": "24920"
+  },
+  "location_type": "Industrial",
+  "incident_address": "5031 Christopher Square, West Christianview, FL 38925",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 759,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7488",
+  "audio_file_name": "911-20250506-0262.mp3",
+  "audio_duration_seconds": 175,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.0,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "center",
+    "job",
+    "that",
+    "control",
+    "important",
+    "coach",
+    "at"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Per of situation the term scientist explain like institution collection admit which owner baby.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250505-0077",
+  "timestamp_received": "2025-05-05T05:31:45Z",
+  "caller_number": "1453038567",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.03699,
+    "longitude": -117.29198,
+    "county": "Encinitas",
+    "state": "SC",
+    "census_tract": "18270"
+  },
+  "location_type": "Industrial",
+  "incident_address": "PSC 0051, Box 8449, APO AP 75233",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 135,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5807",
+  "audio_file_name": "911-20250505-0077.mp3",
+  "audio_duration_seconds": 81,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "community",
+    "president",
+    "half",
+    "president",
+    "structure",
+    "might",
+    "heavy",
+    "trade"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Image stage generation society thought according think key discover method exactly change church own stage produce increase form box push look opportunity positive improve during.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

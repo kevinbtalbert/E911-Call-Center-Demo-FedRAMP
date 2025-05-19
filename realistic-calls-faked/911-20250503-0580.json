@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250503-0580",
+  "timestamp_received": "2025-05-03T00:59:19Z",
+  "caller_number": "41443010614452",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 40,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.15112,
+    "longitude": -82.46148,
+    "county": "Lutz",
+    "state": "NY",
+    "census_tract": "44206"
+  },
+  "location_type": "Public Park",
+  "incident_address": "5744 Jason Ranch Suite 115, East Lori, KY 76605",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 1112,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9833",
+  "audio_file_name": "911-20250503-0580.mp3",
+  "audio_duration_seconds": 92,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 5.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "usually",
+    "clearly",
+    "it",
+    "past",
+    "agreement"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.5,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Seek second social few family outside many school my green necessary including.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250424-0045",
+  "timestamp_received": "2025-04-24T20:46:26Z",
+  "caller_number": "604661839826224",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 66,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.64995,
+    "longitude": -117.23991,
+    "county": "Opportunity",
+    "state": "NC",
+    "census_tract": "53065"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "12646 Washington Club Suite 437, South Daniel, AL 52365",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 838,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6188",
+  "audio_file_name": "911-20250424-0045.mp3",
+  "audio_duration_seconds": 154,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.7,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "forward",
+    "per",
+    "sound",
+    "forget"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Issue statement prepare organization feel owner receive look concern huge five same plan whose site for exactly skill half usually.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

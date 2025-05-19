@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250420-0808",
+  "timestamp_received": "2025-04-20T20:13:08Z",
+  "caller_number": "598460745625670",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.84568,
+    "longitude": -102.36764,
+    "county": "Odessa",
+    "state": "TN",
+    "census_tract": "49749"
+  },
+  "location_type": "Public Park",
+  "incident_address": "PSC 2718, Box 8758, APO AA 43520",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 1134,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7276",
+  "audio_file_name": "911-20250420-0808.mp3",
+  "audio_duration_seconds": 128,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.7,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "apply",
+    "often",
+    "that",
+    "professor",
+    "alone",
+    "game",
+    "word"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Animal hundred thus treat though wonder decade again human employee mouth lose manager pass among.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

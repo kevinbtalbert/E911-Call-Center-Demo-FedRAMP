@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250418-0257",
+  "timestamp_received": "2025-04-18T09:17:28Z",
+  "caller_number": "8471296180332",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.72943,
+    "longitude": -104.83192,
+    "county": "Aurora",
+    "state": "NY",
+    "census_tract": "43175"
+  },
+  "location_type": "Residential",
+  "incident_address": "50801 Richards Branch Suite 253, Solisborough, NJ 63189",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 1079,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9169",
+  "audio_file_name": "911-20250418-0257.mp3",
+  "audio_duration_seconds": 169,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 3.0,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "long",
+    "between",
+    "hold",
+    "plant",
+    "must",
+    "sound",
+    "certainly"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Tax certainly set local wrong authority clearly phone including personal visit still image sell amount.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

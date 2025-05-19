@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250421-0996",
+  "timestamp_received": "2025-04-21T00:08:56Z",
+  "caller_number": "001077836350968019",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.5576,
+    "longitude": -74.28459,
+    "county": "Woodbridge",
+    "state": "TN",
+    "census_tract": "94631"
+  },
+  "location_type": "Industrial",
+  "incident_address": "1662 Melissa Rest, West Henry, AL 11624",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 413,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7868",
+  "audio_file_name": "911-20250421-0996.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "leave",
+    "pick",
+    "language",
+    "teacher"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "From attack today camera wide better friend some visit stay turn think bank would wife nearly degree position summer poor.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

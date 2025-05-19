@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250427-0360",
+  "timestamp_received": "2025-04-27T06:46:26Z",
+  "caller_number": "8926087882",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 37,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.76212,
+    "longitude": -95.63079,
+    "county": "Palestine",
+    "state": "OH",
+    "census_tract": "18056"
+  },
+  "location_type": "School",
+  "incident_address": "2787 Alec Views, Whiteland, HI 16521",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 369,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1947",
+  "audio_file_name": "911-20250427-0360.mp3",
+  "audio_duration_seconds": 163,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.0,
+  "incident_type": "Gunshots",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "knowledge",
+    "figure",
+    "force",
+    "produce",
+    "unit",
+    "rock"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Speech six anyone mention tell green rate could evidence high because look score value or however usually would difference sport carry painting either heavy.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

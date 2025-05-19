@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250422-0817",
+  "timestamp_received": "2025-04-22T05:21:00Z",
+  "caller_number": "3417654614119",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.53885,
+    "longitude": -95.44744,
+    "county": "Fresno",
+    "state": "PA",
+    "census_tract": "56840"
+  },
+  "location_type": "Commercial",
+  "incident_address": "147 Ashley Shore, Lake Garyshire, SD 31341",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 1155,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7460",
+  "audio_file_name": "911-20250422-0817.mp3",
+  "audio_duration_seconds": 45,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.5,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "wait",
+    "finish",
+    "economy",
+    "nice",
+    "time",
+    "account",
+    "between"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Little career kind majority black focus positive yet create street above opportunity race example maintain travel education treatment ability court soldier wife series.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250507-0649",
+  "timestamp_received": "2025-05-07T22:28:26Z",
+  "caller_number": "0010001917653244",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 37,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.99012,
+    "longitude": -123.02621,
+    "county": "Keizer",
+    "state": "KY",
+    "census_tract": "58545"
+  },
+  "location_type": "Residential",
+  "incident_address": "87151 Mitchell Park Suite 691, South Tiffanyton, VT 90934",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 272,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4828",
+  "audio_file_name": "911-20250507-0649.mp3",
+  "audio_duration_seconds": 31,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.5,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "need",
+    "action",
+    "lot",
+    "mouth",
+    "control"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Such apply perhaps prevent run mind technology nation road executive require political.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

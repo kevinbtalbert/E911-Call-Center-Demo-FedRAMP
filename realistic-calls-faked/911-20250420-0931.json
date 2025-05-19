@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250420-0931",
+  "timestamp_received": "2025-04-20T09:57:08Z",
+  "caller_number": "7939194743",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.99012,
+    "longitude": -123.02621,
+    "county": "Keizer",
+    "state": "VA",
+    "census_tract": "72774"
+  },
+  "location_type": "Public Park",
+  "incident_address": "352 Heather Trafficway, Mortontown, DE 04027",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 1122,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6697",
+  "audio_file_name": "911-20250420-0931.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "catch",
+    "institution",
+    "site",
+    "market",
+    "training"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Cost push direction ball avoid plan any join indicate purpose doctor last yeah use board despite task economic partner.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

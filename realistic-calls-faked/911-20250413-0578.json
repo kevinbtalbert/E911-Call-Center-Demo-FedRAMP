@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250413-0578",
+  "timestamp_received": "2025-04-13T17:29:40Z",
+  "caller_number": "343779824021168",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 30,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.03699,
+    "longitude": -117.29198,
+    "county": "Encinitas",
+    "state": "KY",
+    "census_tract": "14798"
+  },
+  "location_type": "Highway",
+  "incident_address": "79981 Denise Canyon, Hernandezport, MT 45564",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 569,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3871",
+  "audio_file_name": "911-20250413-0578.mp3",
+  "audio_duration_seconds": 51,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 2.3,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "year",
+    "mind",
+    "pattern",
+    "south",
+    "specific",
+    "quickly"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Mean later executive want get camera degree reduce maybe wear century see yeah station chance financial security campaign focus force attack.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

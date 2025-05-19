@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250418-0616",
+  "timestamp_received": "2025-04-18T09:26:59Z",
+  "caller_number": "00189392763985238",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 70,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.24537,
+    "longitude": -75.64963,
+    "county": "Pottstown",
+    "state": "KY",
+    "census_tract": "96665"
+  },
+  "location_type": "Commercial",
+  "incident_address": "936 Tara Road, Port Mary, SD 56400",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 130,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7308",
+  "audio_file_name": "911-20250418-0616.mp3",
+  "audio_duration_seconds": 42,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.3,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "might",
+    "long",
+    "worker",
+    "truth",
+    "ever"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Good trial significant discuss minute own often audience ball interview official cost ball course economic religious result.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250427-0484",
+  "timestamp_received": "2025-04-27T05:21:10Z",
+  "caller_number": "8655816759",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.78504,
+    "longitude": -85.76942,
+    "county": "Greenfield",
+    "state": "SC",
+    "census_tract": "33567"
+  },
+  "location_type": "Public Park",
+  "incident_address": "93489 Amy Stravenue, Lake Brianborough, CA 34343",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 425,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1515",
+  "audio_file_name": "911-20250427-0484.mp3",
+  "audio_duration_seconds": 60,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 10.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "term",
+    "country",
+    "camera",
+    "parent",
+    "staff"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Trip bill part have leg subject within suggest subject save big as fire line cover before beautiful rich because.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

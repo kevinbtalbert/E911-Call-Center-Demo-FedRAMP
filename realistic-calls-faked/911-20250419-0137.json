@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250419-0137",
+  "timestamp_received": "2025-04-19T23:12:34Z",
+  "caller_number": "1961159408215",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 60,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.84568,
+    "longitude": -102.36764,
+    "county": "Odessa",
+    "state": "GA",
+    "census_tract": "92323"
+  },
+  "location_type": "Industrial",
+  "incident_address": "4702 Kristen Manor Apt. 443, Port Jodi, DE 72267",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 903,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8248",
+  "audio_file_name": "911-20250419-0137.mp3",
+  "audio_duration_seconds": 85,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.8,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "give",
+    "that",
+    "individual",
+    "of",
+    "not",
+    "too"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Little result paper seven measure leave last last term foot son professor important do house must when three save position tend.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

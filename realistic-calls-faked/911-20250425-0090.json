@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250425-0090",
+  "timestamp_received": "2025-04-25T13:53:53Z",
+  "caller_number": "195761228685289",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 31,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.20829,
+    "longitude": -115.98391,
+    "county": "Pahrump",
+    "state": "SC",
+    "census_tract": "22672"
+  },
+  "location_type": "School",
+  "incident_address": "8556 Mckenzie Islands Apt. 983, Cannonview, NV 59155",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 754,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6990",
+  "audio_file_name": "911-20250425-0090.mp3",
+  "audio_duration_seconds": 66,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.4,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "where",
+    "a",
+    "alone",
+    "expect",
+    "administration",
+    "career"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "According worker Democrat fire sign wall state try memory number occur behind leave choose enter threat economic eight feel.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

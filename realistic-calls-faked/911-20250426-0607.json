@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250426-0607",
+  "timestamp_received": "2025-04-26T06:19:04Z",
+  "caller_number": "1956964607",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25807,
+    "longitude": -88.70464,
+    "county": "Tupelo",
+    "state": "VA",
+    "census_tract": "11119"
+  },
+  "location_type": "Commercial",
+  "incident_address": "569 Veronica Viaduct Apt. 205, East Michealbury, VA 75072",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 934,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3465",
+  "audio_file_name": "911-20250426-0607.mp3",
+  "audio_duration_seconds": 96,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 5.1,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "value",
+    "production",
+    "someone",
+    "room",
+    "site",
+    "particular",
+    "goal",
+    "any"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Black level enter special modern police country must necessary room majority market meeting want example later draw tell pass performance question.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

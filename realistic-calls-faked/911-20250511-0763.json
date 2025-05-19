@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250511-0763",
+  "timestamp_received": "2025-05-11T02:07:55Z",
+  "caller_number": "0019538875598759",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 16,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "TN",
+    "census_tract": "42192"
+  },
+  "location_type": "School",
+  "incident_address": "USNS Brown, FPO AP 09643",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 759,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2453",
+  "audio_file_name": "911-20250511-0763.mp3",
+  "audio_duration_seconds": 122,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.4,
+  "incident_type": "Burglary",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "pull",
+    "think",
+    "clear",
+    "smile",
+    "morning",
+    "six",
+    "true"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Anyone television human walk rock after probably phone you owner manager relate far simple dinner simply window.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

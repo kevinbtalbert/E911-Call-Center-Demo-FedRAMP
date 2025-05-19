@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250413-0151",
+  "timestamp_received": "2025-04-13T16:22:10Z",
+  "caller_number": "47090063353310",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.70734,
+    "longitude": -77.02303,
+    "county": "Fort Washington",
+    "state": "TN",
+    "census_tract": "75390"
+  },
+  "location_type": "School",
+  "incident_address": "3131 Jennifer Cape, Huntmouth, OH 82655",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 1041,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1999",
+  "audio_file_name": "911-20250413-0151.mp3",
+  "audio_duration_seconds": 52,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.8,
+  "incident_type": "Gunshots",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "couple",
+    "debate",
+    "must",
+    "voice",
+    "building",
+    "degree",
+    "ground",
+    "community"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Pressure activity defense detail price everything perhaps analysis those in should matter wrong Republican social two notice edge behind food piece home.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

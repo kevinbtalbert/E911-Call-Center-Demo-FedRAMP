@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250421-0186",
+  "timestamp_received": "2025-04-21T02:30:14Z",
+  "caller_number": "43251225720765",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 66,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.80527,
+    "longitude": -122.24064,
+    "county": "Bothell West",
+    "state": "GA",
+    "census_tract": "69905"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "20957 Tracy Gateway Suite 100, Maryhaven, GA 99459",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 752,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2765",
+  "audio_file_name": "911-20250421-0186.mp3",
+  "audio_duration_seconds": 136,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.1,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "chair",
+    "behind",
+    "fight",
+    "save",
+    "laugh",
+    "same",
+    "wrong"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Professional effect learn still feeling free military professional tend such machine establish mind policy challenge improve detail yes.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

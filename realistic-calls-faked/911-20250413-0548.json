@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250413-0548",
+  "timestamp_received": "2025-04-13T18:01:49Z",
+  "caller_number": "001428828470520313",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 83,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.09611,
+    "longitude": -118.10583,
+    "county": "San Gabriel",
+    "state": "NC",
+    "census_tract": "75732"
+  },
+  "location_type": "School",
+  "incident_address": "887 Laura Throughway, East Julie, AK 27762",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 146,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3571",
+  "audio_file_name": "911-20250413-0548.mp3",
+  "audio_duration_seconds": 102,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.7,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "test",
+    "war",
+    "mission",
+    "woman",
+    "camera",
+    "kind"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Nation carry war reflect sing control century leg her ahead during according yes low night story join bag sea image program dinner develop point.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

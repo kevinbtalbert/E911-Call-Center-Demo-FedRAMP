@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250416-0068",
+  "timestamp_received": "2025-04-16T14:06:26Z",
+  "caller_number": "2255794155",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.91756,
+    "longitude": -82.07842,
+    "county": "Punta Gorda Isles",
+    "state": "TN",
+    "census_tract": "43029"
+  },
+  "location_type": "Industrial",
+  "incident_address": "7467 Banks Union Apt. 120, North Robert, NJ 75073",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 367,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6461",
+  "audio_file_name": "911-20250416-0068.mp3",
+  "audio_duration_seconds": 50,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "question",
+    "consider",
+    "here",
+    "grow",
+    "agreement",
+    "range",
+    "stuff",
+    "wind"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Low maintain thought key as pressure actually than modern season rich difference what their mind.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

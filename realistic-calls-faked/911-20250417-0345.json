@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250417-0345",
+  "timestamp_received": "2025-04-17T03:34:49Z",
+  "caller_number": "0019314584345",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.06084,
+    "longitude": -97.92977,
+    "county": "Hutchinson",
+    "state": "VA",
+    "census_tract": "20625"
+  },
+  "location_type": "School",
+  "incident_address": "13885 Nicole Hill, East Maria, TN 97607",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 989,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5412",
+  "audio_file_name": "911-20250417-0345.mp3",
+  "audio_duration_seconds": 31,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.6,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "career",
+    "teach",
+    "crime",
+    "leader",
+    "consumer",
+    "image",
+    "pretty",
+    "affect"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Professional research indeed scientist push price sit music agreement need top wear finish remain cell team high.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

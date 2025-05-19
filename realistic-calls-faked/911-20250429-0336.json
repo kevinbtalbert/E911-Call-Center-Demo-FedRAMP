@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250429-0336",
+  "timestamp_received": "2025-04-29T01:56:32Z",
+  "caller_number": "8178522115",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 86,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.54944,
+    "longitude": -81.77285,
+    "county": "Clermont",
+    "state": "KY",
+    "census_tract": "69409"
+  },
+  "location_type": "Industrial",
+  "incident_address": "84523 Ochoa Shoals Suite 268, Greenfort, DE 65672",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 166,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4010",
+  "audio_file_name": "911-20250429-0336.mp3",
+  "audio_duration_seconds": 143,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.8,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "create",
+    "who",
+    "thank",
+    "value",
+    "quality",
+    "reality",
+    "in",
+    "game"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Development know laugh officer hundred food could life born treat population another shake record spring.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

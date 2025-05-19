@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250428-0249",
+  "timestamp_received": "2025-04-28T14:12:35Z",
+  "caller_number": "010587525680656",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.41012,
+    "longitude": -91.06177,
+    "county": "Greenville",
+    "state": "NC",
+    "census_tract": "60096"
+  },
+  "location_type": "Highway",
+  "incident_address": "459 Nicole Centers, South Caleb, DC 20367",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 525,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7837",
+  "audio_file_name": "911-20250428-0249.mp3",
+  "audio_duration_seconds": 91,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.2,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "bill",
+    "clear",
+    "research",
+    "begin",
+    "growth",
+    "ground",
+    "ball",
+    "gas"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Manage nation modern politics how choice state sport large boy treat end dream.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

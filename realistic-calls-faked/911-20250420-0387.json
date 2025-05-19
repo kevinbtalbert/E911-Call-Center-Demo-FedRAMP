@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250420-0387",
+  "timestamp_received": "2025-04-20T11:03:22Z",
+  "caller_number": "49950708864067",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 86,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.34912,
+    "longitude": -111.90466,
+    "county": "Saratoga Springs",
+    "state": "GA",
+    "census_tract": "33401"
+  },
+  "location_type": "Commercial",
+  "incident_address": "Unit 6020 Box 8019, DPO AE 78491",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 420,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5289",
+  "audio_file_name": "911-20250420-0387.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 6.9,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "another",
+    "control",
+    "back",
+    "he",
+    "stay"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Think draw allow else occur alone different together give court deal according cold group American special town south general.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

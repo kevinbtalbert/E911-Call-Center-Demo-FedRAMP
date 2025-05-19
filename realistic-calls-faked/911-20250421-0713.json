@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250421-0713",
+  "timestamp_received": "2025-04-21T01:38:44Z",
+  "caller_number": "8306848368167",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.95303,
+    "longitude": -120.43572,
+    "county": "Santa Maria",
+    "state": "KY",
+    "census_tract": "32517"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "5606 Castillo Keys Suite 735, Craigtown, WA 99750",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 1111,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1339",
+  "audio_file_name": "911-20250421-0713.mp3",
+  "audio_duration_seconds": 158,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.5,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "police",
+    "thousand",
+    "loss",
+    "probably",
+    "government"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Family condition read sort mouth past maybe ask physical treatment south more.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250425-0258",
+  "timestamp_received": "2025-04-25T12:01:30Z",
+  "caller_number": "001603567932798623",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.09273,
+    "longitude": -88.64235,
+    "county": "Iron River",
+    "state": "GA",
+    "census_tract": "16411"
+  },
+  "location_type": "Commercial",
+  "incident_address": "1690 Jones Corner Apt. 054, Campbellmouth, ND 79838",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 172,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6718",
+  "audio_file_name": "911-20250425-0258.mp3",
+  "audio_duration_seconds": 39,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.2,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "force",
+    "final",
+    "way",
+    "memory",
+    "history",
+    "that"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Receive type painting produce off light before majority garden military place edge environmental even eye message fine town trade not give fill stay military in enough interest.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

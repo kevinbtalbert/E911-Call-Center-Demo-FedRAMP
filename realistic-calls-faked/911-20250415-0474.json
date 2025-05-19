@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250415-0474",
+  "timestamp_received": "2025-04-15T23:11:52Z",
+  "caller_number": "540181444248420",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.14676,
+    "longitude": -73.49484,
+    "county": "New Canaan",
+    "state": "OH",
+    "census_tract": "78783"
+  },
+  "location_type": "Commercial",
+  "incident_address": "50947 Bell Course Apt. 861, Robertview, RI 75992",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 436,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1880",
+  "audio_file_name": "911-20250415-0474.mp3",
+  "audio_duration_seconds": 53,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.5,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "expect",
+    "final",
+    "goal",
+    "per",
+    "per",
+    "assume",
+    "court"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Floor store care stuff wrong range perhaps meet station history away top.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

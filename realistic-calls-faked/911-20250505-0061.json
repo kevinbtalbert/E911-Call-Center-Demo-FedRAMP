@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250505-0061",
+  "timestamp_received": "2025-05-05T13:50:12Z",
+  "caller_number": "6527047743490",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.12406,
+    "longitude": -97.90308,
+    "county": "Copperas Cove",
+    "state": "OH",
+    "census_tract": "45804"
+  },
+  "location_type": "Commercial",
+  "incident_address": "58693 Mary Viaduct, Sheppardfort, IA 62925",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 293,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6655",
+  "audio_file_name": "911-20250505-0061.mp3",
+  "audio_duration_seconds": 140,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.1,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "federal",
+    "house",
+    "take",
+    "alone"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Too song quality per build serious common worker will speak call interest write itself young physical street election treat trial attack hold however for everybody leader.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

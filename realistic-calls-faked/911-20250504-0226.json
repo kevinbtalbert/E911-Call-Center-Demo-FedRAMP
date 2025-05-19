@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250504-0226",
+  "timestamp_received": "2025-05-04T03:54:41Z",
+  "caller_number": "+13459626228225",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.54044,
+    "longitude": -82.90375,
+    "county": "Dublin",
+    "state": "OH",
+    "census_tract": "78610"
+  },
+  "location_type": "Industrial",
+  "incident_address": "07346 Stout Greens, Anthonytown, AK 62170",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 694,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6688",
+  "audio_file_name": "911-20250504-0226.mp3",
+  "audio_duration_seconds": 153,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.8,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "alone",
+    "the",
+    "trial",
+    "another",
+    "help"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Reveal college beyond give development information at why less indeed together key tax speak a live tonight either follow music whatever protect benefit manage store number call.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

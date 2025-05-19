@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250504-0340",
+  "timestamp_received": "2025-05-04T05:47:59Z",
+  "caller_number": "+185201362608463",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.95143,
+    "longitude": -91.77127,
+    "county": "Rolla",
+    "state": "MD",
+    "census_tract": "27459"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "561 Cross Turnpike Suite 055, Ashleyburgh, TN 09321",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 874,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4476",
+  "audio_file_name": "911-20250504-0340.mp3",
+  "audio_duration_seconds": 128,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.9,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "happy",
+    "into",
+    "result",
+    "author",
+    "not",
+    "truth"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Form even now provide office heavy world opportunity late market source art sound specific adult collection with project author term.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

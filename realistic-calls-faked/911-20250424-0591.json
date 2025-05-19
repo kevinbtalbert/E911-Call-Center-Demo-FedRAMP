@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250424-0591",
+  "timestamp_received": "2025-04-24T14:55:17Z",
+  "caller_number": "49272809031788",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 53,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.44872,
+    "longitude": -86.78777,
+    "county": "Vestavia Hills",
+    "state": "MD",
+    "census_tract": "53340"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "3167 Reese Parkway Suite 440, Wendyshire, AK 26702",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 588,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5510",
+  "audio_file_name": "911-20250424-0591.mp3",
+  "audio_duration_seconds": 39,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 3.6,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "yet",
+    "will",
+    "almost",
+    "phone",
+    "he",
+    "above",
+    "require",
+    "garden"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "People sit buy gun deal treatment also candidate way probably I cultural again outside through travel group who good why without ahead.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

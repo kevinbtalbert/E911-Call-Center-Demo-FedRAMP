@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250506-0987",
+  "timestamp_received": "2025-05-06T15:55:50Z",
+  "caller_number": "5794065253",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.78504,
+    "longitude": -85.76942,
+    "county": "Greenfield",
+    "state": "MD",
+    "census_tract": "33817"
+  },
+  "location_type": "School",
+  "incident_address": "244 Bates Throughway, West Jessica, OK 77470",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 384,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9924",
+  "audio_file_name": "911-20250506-0987.mp3",
+  "audio_duration_seconds": 137,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 4.1,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "hard",
+    "try",
+    "send",
+    "present",
+    "page"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Fish speak management response six season protect agree into concern social a relationship voice cost feeling process large writer else tend nature live example.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

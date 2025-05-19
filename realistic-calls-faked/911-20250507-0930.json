@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250507-0930",
+  "timestamp_received": "2025-05-07T12:37:47Z",
+  "caller_number": "+16547192705",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55815,
+    "longitude": -73.0515,
+    "county": "Waterbury",
+    "state": "SC",
+    "census_tract": "29150"
+  },
+  "location_type": "Commercial",
+  "incident_address": "8705 James Fork Apt. 056, New Deborahport, SC 51794",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 732,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9200",
+  "audio_file_name": "911-20250507-0930.mp3",
+  "audio_duration_seconds": 137,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 9.4,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "the",
+    "guess",
+    "teacher",
+    "catch"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "True apply house heart heavy student suffer stop ahead give again memory guess head leader form Mrs.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

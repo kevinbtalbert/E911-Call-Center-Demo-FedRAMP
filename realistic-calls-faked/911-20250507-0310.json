@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250507-0310",
+  "timestamp_received": "2025-05-07T12:01:12Z",
+  "caller_number": "+1123691496112879",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.21639,
+    "longitude": -119.0376,
+    "county": "Camarillo",
+    "state": "NY",
+    "census_tract": "59253"
+  },
+  "location_type": "Residential",
+  "incident_address": "688 Steven Terrace, Lanefort, SC 07057",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 898,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5478",
+  "audio_file_name": "911-20250507-0310.mp3",
+  "audio_duration_seconds": 136,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 6.1,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "environment",
+    "open",
+    "director",
+    "brother",
+    "toward"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "So interest great analysis tonight politics computer exist throw real next four help blood.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250423-0596",
+  "timestamp_received": "2025-04-23T01:09:25Z",
+  "caller_number": "5955621683357",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.47892,
+    "longitude": -87.45476,
+    "county": "Schererville",
+    "state": "MD",
+    "census_tract": "22880"
+  },
+  "location_type": "Highway",
+  "incident_address": "8089 Blake Hollow Apt. 086, West Jamesfort, MN 43706",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 713,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2196",
+  "audio_file_name": "911-20250423-0596.mp3",
+  "audio_duration_seconds": 80,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 1.8,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "quite",
+    "next",
+    "she",
+    "behavior",
+    "responsibility",
+    "lead",
+    "discuss",
+    "hospital"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Thought sing pattern whole that property inside model western third work national position agency because happy so necessary others behavior hard.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

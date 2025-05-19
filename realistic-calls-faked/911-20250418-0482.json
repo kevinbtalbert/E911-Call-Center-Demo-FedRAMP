@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250418-0482",
+  "timestamp_received": "2025-04-18T08:05:58Z",
+  "caller_number": "00152565995089142",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.54944,
+    "longitude": -81.77285,
+    "county": "Clermont",
+    "state": "SC",
+    "census_tract": "41420"
+  },
+  "location_type": "Industrial",
+  "incident_address": "29276 Wyatt Island, Marybury, ND 55856",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 668,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4175",
+  "audio_file_name": "911-20250418-0482.mp3",
+  "audio_duration_seconds": 167,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.9,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "company",
+    "choose",
+    "effect",
+    "great",
+    "describe"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Mother heavy final film test degree opportunity bed law scientist fund end federal few.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

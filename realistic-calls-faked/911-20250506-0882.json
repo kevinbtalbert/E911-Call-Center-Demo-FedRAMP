@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250506-0882",
+  "timestamp_received": "2025-05-06T15:17:32Z",
+  "caller_number": "+12031759145090",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 42.16808,
+    "longitude": -88.42814,
+    "county": "Huntley",
+    "state": "NY",
+    "census_tract": "12503"
+  },
+  "location_type": "Commercial",
+  "incident_address": "395 Taylor Lane, New Matthew, SC 12249",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 664,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8293",
+  "audio_file_name": "911-20250506-0882.mp3",
+  "audio_duration_seconds": 129,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 6.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "agency",
+    "sure",
+    "lose",
+    "detail",
+    "turn"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Know wife floor describe set music appear concern feel home miss offer commercial while gun generation.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

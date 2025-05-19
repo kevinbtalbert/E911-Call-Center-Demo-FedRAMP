@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250425-0535",
+  "timestamp_received": "2025-04-25T22:14:43Z",
+  "caller_number": "0017630900737",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.14676,
+    "longitude": -73.49484,
+    "county": "New Canaan",
+    "state": "NC",
+    "census_tract": "20683"
+  },
+  "location_type": "School",
+  "incident_address": "5744 Rodriguez Cape Suite 692, Taylormouth, SD 30943",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1094,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3431",
+  "audio_file_name": "911-20250425-0535.mp3",
+  "audio_duration_seconds": 177,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.9,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "fear",
+    "later",
+    "great",
+    "nothing"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "All song else future present middle TV middle western PM television scientist left paper situation whom hair talk late series two market.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

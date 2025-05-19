@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250421-0617",
+  "timestamp_received": "2025-04-21T02:44:33Z",
+  "caller_number": "7077508849",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 89,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "OH",
+    "census_tract": "69258"
+  },
+  "location_type": "Commercial",
+  "incident_address": "57686 Martinez Cliffs Apt. 805, Charlesview, KY 97474",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 598,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9943",
+  "audio_file_name": "911-20250421-0617.mp3",
+  "audio_duration_seconds": 142,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.9,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "grow",
+    "security",
+    "clear",
+    "he",
+    "four"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Cultural suffer country alone force attack family ok decade read body section under between.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

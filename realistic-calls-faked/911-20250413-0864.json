@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250413-0864",
+  "timestamp_received": "2025-04-13T10:43:12Z",
+  "caller_number": "9212985672405",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.61452,
+    "longitude": -88.81395,
+    "county": "Jackson",
+    "state": "MD",
+    "census_tract": "60624"
+  },
+  "location_type": "Residential",
+  "incident_address": "1774 Jordan Drives, Parkerberg, WA 35846",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 1181,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2369",
+  "audio_file_name": "911-20250413-0864.mp3",
+  "audio_duration_seconds": 105,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 8.2,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "democratic",
+    "film",
+    "measure",
+    "career",
+    "child"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Camera every about fall number among class future research west then blood everything leave another in.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

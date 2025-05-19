@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250422-0219",
+  "timestamp_received": "2025-04-22T05:32:39Z",
+  "caller_number": "28727601534332",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.67705,
+    "longitude": -73.89125,
+    "county": "Cypress Hills",
+    "state": "KY",
+    "census_tract": "57395"
+  },
+  "location_type": "Highway",
+  "incident_address": "357 Hudson Route, Port Juliehaven, IN 97674",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 443,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9987",
+  "audio_file_name": "911-20250422-0219.mp3",
+  "audio_duration_seconds": 97,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 9.6,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "dark",
+    "professional",
+    "huge",
+    "better",
+    "forget"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Even which suggest Mrs bag something land mission each something consumer view tax.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.87,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

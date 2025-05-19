@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250419-0095",
+  "timestamp_received": "2025-04-19T02:39:25Z",
+  "caller_number": "001994999393305172",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 21,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 29.65163,
+    "longitude": -82.32483,
+    "county": "Gainesville",
+    "state": "TN",
+    "census_tract": "20358"
+  },
+  "location_type": "Public Park",
+  "incident_address": "526 Wells Estates Apt. 306, West Stephaniebury, TN 27086",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 585,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8849",
+  "audio_file_name": "911-20250419-0095.mp3",
+  "audio_duration_seconds": 84,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 7.3,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "serious",
+    "at",
+    "until",
+    "worry",
+    "term",
+    "majority",
+    "foot",
+    "leader"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Into simply part station result hour voice occur movie political region although body lead there there early Mrs.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

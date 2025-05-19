@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250413-0230",
+  "timestamp_received": "2025-04-13T12:58:35Z",
+  "caller_number": "0012743811995",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.66394,
+    "longitude": -83.55521,
+    "county": "Toledo",
+    "state": "SC",
+    "census_tract": "17345"
+  },
+  "location_type": "Public Park",
+  "incident_address": "660 Michelle Harbors Suite 485, Estradaview, CO 02195",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 206,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9899",
+  "audio_file_name": "911-20250413-0230.mp3",
+  "audio_duration_seconds": 150,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.4,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "big",
+    "south",
+    "drug",
+    "manager",
+    "opportunity"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Billion sit remain night study heart million understand him own opportunity soldier west offer brother shake guess pull.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250430-0051",
+  "timestamp_received": "2025-04-30T00:47:53Z",
+  "caller_number": "45458929750017",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 45,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.52487,
+    "longitude": -77.55777,
+    "county": "Bon Air",
+    "state": "MD",
+    "census_tract": "13280"
+  },
+  "location_type": "Highway",
+  "incident_address": "7063 Nicole Hollow, Port Sarah, CO 86299",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 731,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4626",
+  "audio_file_name": "911-20250430-0051.mp3",
+  "audio_duration_seconds": 46,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 4.7,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "growth",
+    "bar",
+    "professor",
+    "power"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 10.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "How figure record doctor pretty region ability live car difficult quite act receive.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

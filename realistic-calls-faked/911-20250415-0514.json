@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250415-0514",
+  "timestamp_received": "2025-04-15T07:28:13Z",
+  "caller_number": "63282463061621",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 37.95143,
+    "longitude": -91.77127,
+    "county": "Rolla",
+    "state": "OH",
+    "census_tract": "71833"
+  },
+  "location_type": "Highway",
+  "incident_address": "635 Albert Tunnel Apt. 761, Bobberg, MD 80076",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 1098,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9608",
+  "audio_file_name": "911-20250415-0514.mp3",
+  "audio_duration_seconds": 96,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.6,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "none",
+    "history",
+    "speak",
+    "property"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Other leave back couple democratic who agency value among she also analysis trouble she individual benefit anyone describe chance store modern newspaper.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

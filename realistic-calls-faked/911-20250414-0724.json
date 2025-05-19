@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250414-0724",
+  "timestamp_received": "2025-04-14T18:17:48Z",
+  "caller_number": "60193352062260",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 67,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.08367,
+    "longitude": -84.50855,
+    "county": "Covington",
+    "state": "OH",
+    "census_tract": "30191"
+  },
+  "location_type": "School",
+  "incident_address": "64266 Jerry Light, West Brianside, ID 14316",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 122,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6468",
+  "audio_file_name": "911-20250414-0724.mp3",
+  "audio_duration_seconds": 124,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.4,
+  "incident_type": "Robbery",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "account",
+    "little",
+    "reality",
+    "building",
+    "soldier",
+    "far",
+    "let",
+    "school"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Free body program of ahead available to activity success serious four side something.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

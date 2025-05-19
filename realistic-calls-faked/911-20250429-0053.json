@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250429-0053",
+  "timestamp_received": "2025-04-29T19:58:34Z",
+  "caller_number": "61379180552696",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 61,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.55815,
+    "longitude": -73.0515,
+    "county": "Waterbury",
+    "state": "VA",
+    "census_tract": "62184"
+  },
+  "location_type": "Public Park",
+  "incident_address": "1091 Jose Canyon, Port Raymondport, VT 66174",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 310,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8450",
+  "audio_file_name": "911-20250429-0053.mp3",
+  "audio_duration_seconds": 53,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.1,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "short",
+    "interest",
+    "I",
+    "policy",
+    "Mrs",
+    "check",
+    "base",
+    "bad"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Window choice force only shake power poor financial join well draw each under break partner area program.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

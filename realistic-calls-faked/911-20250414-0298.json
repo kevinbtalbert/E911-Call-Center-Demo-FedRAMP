@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250414-0298",
+  "timestamp_received": "2025-04-14T03:31:29Z",
+  "caller_number": "5238885622586",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.44872,
+    "longitude": -86.78777,
+    "county": "Vestavia Hills",
+    "state": "PA",
+    "census_tract": "14406"
+  },
+  "location_type": "School",
+  "incident_address": "867 Ramirez Wall Apt. 275, Tonyaview, SC 45004",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 867,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8852",
+  "audio_file_name": "911-20250414-0298.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.7,
+  "incident_type": "Fire",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "run",
+    "instead",
+    "hair",
+    "term",
+    "skin"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Explain maybe fight pass budget bar really world agent usually according always choose fill police only there authority door poor stay yard break for fish decade food.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

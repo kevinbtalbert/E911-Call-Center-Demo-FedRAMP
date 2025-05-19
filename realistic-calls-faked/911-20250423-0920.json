@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250423-0920",
+  "timestamp_received": "2025-04-23T03:04:56Z",
+  "caller_number": "00131538348995312",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.84364,
+    "longitude": -87.71255,
+    "county": "South Lawndale",
+    "state": "KY",
+    "census_tract": "60609"
+  },
+  "location_type": "Residential",
+  "incident_address": "85904 Teresa Burgs, West Dalton, NV 04696",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 626,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8801",
+  "audio_file_name": "911-20250423-0920.mp3",
+  "audio_duration_seconds": 41,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.1,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "Democrat",
+    "respond",
+    "contain",
+    "during",
+    "make",
+    "eat"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Daughter stage chance artist this key soon occur lot step class avoid lose.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

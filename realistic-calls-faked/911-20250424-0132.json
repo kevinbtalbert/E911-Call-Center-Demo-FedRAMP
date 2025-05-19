@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250424-0132",
+  "timestamp_received": "2025-04-24T23:28:38Z",
+  "caller_number": "00174995641220310",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.32374,
+    "longitude": -120.00865,
+    "county": "Sunnyside",
+    "state": "SC",
+    "census_tract": "63948"
+  },
+  "location_type": "Residential",
+  "incident_address": "37236 Christopher Trail, Hernandezchester, DE 22272",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 319,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3174",
+  "audio_file_name": "911-20250424-0132.mp3",
+  "audio_duration_seconds": 93,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.9,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "total",
+    "school",
+    "knowledge",
+    "machine",
+    "after"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.2,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "One cut notice street anything account piece require woman support say other never fact maintain main opportunity particularly question stage maintain research month.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

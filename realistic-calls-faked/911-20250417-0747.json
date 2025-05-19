@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250417-0747",
+  "timestamp_received": "2025-04-17T23:35:23Z",
+  "caller_number": "+10045015311",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 57,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.08014,
+    "longitude": -83.2321,
+    "county": "Milledgeville",
+    "state": "OH",
+    "census_tract": "59640"
+  },
+  "location_type": "Industrial",
+  "incident_address": "602 Sullivan Tunnel Apt. 477, Butlermouth, NY 44054",
+  "response_unit_dispatched": "Rescue 17",
+  "response_time_seconds": 623,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8264",
+  "audio_file_name": "911-20250417-0747.mp3",
+  "audio_duration_seconds": 81,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.2,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "heavy",
+    "first",
+    "glass",
+    "study",
+    "college",
+    "finally",
+    "ten"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.2,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Hit theory production realize increase body rock man table they school city since.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

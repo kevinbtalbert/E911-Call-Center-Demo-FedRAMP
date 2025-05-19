@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250507-0281",
+  "timestamp_received": "2025-05-07T18:00:35Z",
+  "caller_number": "1829716815",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 17,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25628,
+    "longitude": -78.04471,
+    "county": "Leland",
+    "state": "TN",
+    "census_tract": "68827"
+  },
+  "location_type": "School",
+  "incident_address": "0000 Michelle Stream Apt. 152, North Haileyfort, CT 58038",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 1145,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1672",
+  "audio_file_name": "911-20250507-0281.mp3",
+  "audio_duration_seconds": 54,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "situation",
+    "much",
+    "he",
+    "skin",
+    "security",
+    "painting"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Write fine public some mean face factor city nation challenge property music expert mission should.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

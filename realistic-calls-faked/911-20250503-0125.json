@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250503-0125",
+  "timestamp_received": "2025-05-03T23:08:21Z",
+  "caller_number": "7851586734",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.34912,
+    "longitude": -111.90466,
+    "county": "Saratoga Springs",
+    "state": "TN",
+    "census_tract": "15856"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "7540 Mckenzie Shore, Lake Samanthabury, OH 50923",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 106,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6620",
+  "audio_file_name": "911-20250503-0125.mp3",
+  "audio_duration_seconds": 57,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 2.6,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "finally",
+    "when",
+    "guy",
+    "speech",
+    "business",
+    "term",
+    "tax",
+    "home"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Until truth feeling view series father teacher civil keep first speech popular smile ever bag single man say unit four institution truth.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

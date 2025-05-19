@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250421-0410",
+  "timestamp_received": "2025-04-21T18:38:57Z",
+  "caller_number": "6162486070",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.68451,
+    "longitude": -80.66756,
+    "county": "Belle Glade",
+    "state": "NC",
+    "census_tract": "57131"
+  },
+  "location_type": "School",
+  "incident_address": "6023 Marsh Circles, Williamtown, MN 26590",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 403,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8712",
+  "audio_file_name": "911-20250421-0410.mp3",
+  "audio_duration_seconds": 142,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.4,
+  "incident_type": "Robbery",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "race",
+    "attack",
+    "discover",
+    "rise",
+    "week",
+    "institution",
+    "speak"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Institution get key artist can eight avoid early for kind enter report why rule half best speech reason would level.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

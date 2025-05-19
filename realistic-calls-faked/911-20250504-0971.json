@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250504-0971",
+  "timestamp_received": "2025-05-04T11:48:01Z",
+  "caller_number": "+10736649706",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 36,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 36.06523,
+    "longitude": -119.01677,
+    "county": "Porterville",
+    "state": "OH",
+    "census_tract": "45481"
+  },
+  "location_type": "Highway",
+  "incident_address": "901 Alvarado Viaduct Suite 335, Thomasshire, WY 03990",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 564,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6677",
+  "audio_file_name": "911-20250504-0971.mp3",
+  "audio_duration_seconds": 172,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 3.9,
+  "incident_type": "Assault",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "common",
+    "threat",
+    "television",
+    "third",
+    "write"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.2,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Accept analysis above Mr cause campaign area dog seek amount only office grow worry any number air interesting audience language structure administration begin like.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

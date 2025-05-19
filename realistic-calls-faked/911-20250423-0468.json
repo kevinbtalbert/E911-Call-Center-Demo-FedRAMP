@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250423-0468",
+  "timestamp_received": "2025-04-23T05:47:55Z",
+  "caller_number": "7718862639",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 34,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.06084,
+    "longitude": -97.92977,
+    "county": "Hutchinson",
+    "state": "SC",
+    "census_tract": "75748"
+  },
+  "location_type": "Highway",
+  "incident_address": "66783 Nathan Park, South Corey, NC 63130",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 1131,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6593",
+  "audio_file_name": "911-20250423-0468.mp3",
+  "audio_duration_seconds": 144,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 4.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "section",
+    "statement",
+    "another",
+    "role",
+    "design",
+    "pretty",
+    "response"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Project which few skin though compare interest road a week book south indicate benefit fear phone bill control memory.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250422-0217",
+  "timestamp_received": "2025-04-22T00:54:52Z",
+  "caller_number": "195237100687616",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 41,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.50921,
+    "longitude": -111.89903,
+    "county": "Scottsdale",
+    "state": "GA",
+    "census_tract": "91080"
+  },
+  "location_type": "Public Park",
+  "incident_address": "USS Baldwin, FPO AP 85316",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 278,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2964",
+  "audio_file_name": "911-20250422-0217.mp3",
+  "audio_duration_seconds": 50,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.6,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "writer",
+    "resource",
+    "just",
+    "still",
+    "art",
+    "speech",
+    "stock",
+    "rise"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Guy respond memory power investment buy certainly energy stay send born college include.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

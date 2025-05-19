@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250511-0406",
+  "timestamp_received": "2025-05-11T02:53:45Z",
+  "caller_number": "+18640788026",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 65,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.57788,
+    "longitude": -73.95958,
+    "county": "Brighton Beach",
+    "state": "SC",
+    "census_tract": "53522"
+  },
+  "location_type": "Commercial",
+  "incident_address": "64693 Jennifer Junctions Suite 230, New Tricia, KS 03209",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 1047,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2106",
+  "audio_file_name": "911-20250511-0406.mp3",
+  "audio_duration_seconds": 115,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.6,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "me",
+    "medical",
+    "apply",
+    "shoulder",
+    "it"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Measure who next yeah amount collection without resource outside past must reveal realize.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250417-0599",
+  "timestamp_received": "2025-04-17T06:39:29Z",
+  "caller_number": "66811822923246",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 43,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.34912,
+    "longitude": -111.90466,
+    "county": "Saratoga Springs",
+    "state": "TN",
+    "census_tract": "75769"
+  },
+  "location_type": "Public Park",
+  "incident_address": "03733 Mann Trail, Brianfurt, VT 08931",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 1146,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8731",
+  "audio_file_name": "911-20250417-0599.mp3",
+  "audio_duration_seconds": 56,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 7.0,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "data",
+    "including",
+    "turn",
+    "religious",
+    "writer"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Many each up skin foreign his son threat put last human standard trouble wonder stay leave history quality approach good.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250425-0695",
+  "timestamp_received": "2025-04-25T12:56:40Z",
+  "caller_number": "6817930080",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 87,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.09112,
+    "longitude": -94.41551,
+    "county": "Independence",
+    "state": "OH",
+    "census_tract": "18773"
+  },
+  "location_type": "Residential",
+  "incident_address": "8081 Smith Forge, Jennifertown, AZ 72966",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 598,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6859",
+  "audio_file_name": "911-20250425-0695.mp3",
+  "audio_duration_seconds": 151,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 2.1,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "stuff",
+    "both",
+    "return",
+    "answer",
+    "heavy",
+    "we",
+    "determine",
+    "whatever"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Result price special option also continue black door attention in increase field against case player claim what fact involve large instead election media chance rate.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

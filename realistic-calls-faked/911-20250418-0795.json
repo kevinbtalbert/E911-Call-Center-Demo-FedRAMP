@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250418-0795",
+  "timestamp_received": "2025-04-18T03:49:08Z",
+  "caller_number": "001624874856237886",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 58,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.76212,
+    "longitude": -95.63079,
+    "county": "Palestine",
+    "state": "VA",
+    "census_tract": "89320"
+  },
+  "location_type": "Industrial",
+  "incident_address": "27760 Mccann Field Suite 136, South Michaelfort, CA 91994",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 1170,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8096",
+  "audio_file_name": "911-20250418-0795.mp3",
+  "audio_duration_seconds": 94,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.9,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "include",
+    "nature",
+    "popular",
+    "when"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.7,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Identify remain push little strong he sit town medical government garden laugh research threat gun catch participant who measure including movie race.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

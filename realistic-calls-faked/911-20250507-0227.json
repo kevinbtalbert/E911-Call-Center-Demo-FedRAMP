@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250507-0227",
+  "timestamp_received": "2025-05-07T23:26:07Z",
+  "caller_number": "2311649133",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.72255,
+    "longitude": -116.37697,
+    "county": "Palm Desert",
+    "state": "MD",
+    "census_tract": "49270"
+  },
+  "location_type": "Residential",
+  "incident_address": "7988 Wolf Curve Suite 652, Lake Rebeccafurt, AR 26439",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 659,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4788",
+  "audio_file_name": "911-20250507-0227.mp3",
+  "audio_duration_seconds": 31,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 8.9,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "woman",
+    "add",
+    "play",
+    "structure",
+    "down"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Follow occur low gas pick stage officer later Democrat perform national brother evidence shoulder under front throughout effort southern maintain nature professional.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

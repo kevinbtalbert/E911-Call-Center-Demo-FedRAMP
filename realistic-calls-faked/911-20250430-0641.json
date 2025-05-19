@@ -1,0 +1,51 @@
+{
+  "call_id": "911-20250430-0641",
+  "timestamp_received": "2025-04-30T07:18:53Z",
+  "caller_number": "435074509332809",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 78,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.85059,
+    "longitude": -87.882,
+    "county": "Westchester",
+    "state": "VA",
+    "census_tract": "74387"
+  },
+  "location_type": "Residential",
+  "incident_address": "24404 Christopher River Apt. 771, East Erica, UT 32158",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 1051,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7370",
+  "audio_file_name": "911-20250430-0641.mp3",
+  "audio_duration_seconds": 108,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 7.3,
+  "incident_type": "Gunshots",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "voice",
+    "can",
+    "thank",
+    "listen",
+    "poor"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Job gas kid ask camera ground water front finally unit explain visit conference hope into fund raise oil sometimes officer thank parent conference remain.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

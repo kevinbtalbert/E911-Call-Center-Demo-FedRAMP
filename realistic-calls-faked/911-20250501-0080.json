@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250501-0080",
+  "timestamp_received": "2025-05-01T17:16:09Z",
+  "caller_number": "2138658902601",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 81,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.45621,
+    "longitude": -77.96389,
+    "county": "Martinsburg",
+    "state": "SC",
+    "census_tract": "14081"
+  },
+  "location_type": "Commercial",
+  "incident_address": "611 Walker Common Apt. 669, Jenniferton, HI 84425",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 957,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1570",
+  "audio_file_name": "911-20250501-0080.mp3",
+  "audio_duration_seconds": 62,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 4.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "manager",
+    "action",
+    "sure",
+    "us",
+    "million",
+    "crime",
+    "six",
+    "member"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Past purpose growth pretty wish beautiful every human prove if customer address region try near risk next.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

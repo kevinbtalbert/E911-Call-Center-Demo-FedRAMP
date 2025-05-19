@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250427-0771",
+  "timestamp_received": "2025-04-27T21:29:47Z",
+  "caller_number": "4289078162",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.09273,
+    "longitude": -88.64235,
+    "county": "Iron River",
+    "state": "MD",
+    "census_tract": "75625"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "615 Timothy Walks, South Raymondfurt, AR 29370",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1191,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9592",
+  "audio_file_name": "911-20250427-0771.mp3",
+  "audio_duration_seconds": 32,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.4,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "item",
+    "thank",
+    "around",
+    "office",
+    "especially",
+    "build"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Policy race kitchen issue dark organization without include allow us hold any leave pattern still television change television memory adult prove majority military Republican laugh none.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

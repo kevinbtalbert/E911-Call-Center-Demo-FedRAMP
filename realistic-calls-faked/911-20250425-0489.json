@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250425-0489",
+  "timestamp_received": "2025-04-25T11:56:59Z",
+  "caller_number": "00105347283951673",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 25,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.58654,
+    "longitude": -122.39168,
+    "county": "Redding",
+    "state": "NY",
+    "census_tract": "94707"
+  },
+  "location_type": "School",
+  "incident_address": "326 Smith Point Suite 886, Davenportmouth, UT 87117",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 710,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6244",
+  "audio_file_name": "911-20250425-0489.mp3",
+  "audio_duration_seconds": 80,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.5,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "chance",
+    "through",
+    "happen",
+    "professional"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Professional their city town response too set book despite early decide join member garden movement fear walk institution trade police maybe particularly human food necessary.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

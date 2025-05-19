@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250418-0820",
+  "timestamp_received": "2025-04-18T18:41:11Z",
+  "caller_number": "190558753029614",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 30,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.52515,
+    "longitude": -93.75018,
+    "county": "Shreveport",
+    "state": "NY",
+    "census_tract": "98268"
+  },
+  "location_type": "Residential",
+  "incident_address": "941 Mcdonald Islands, Lake Bobby, PA 67088",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 290,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7268",
+  "audio_file_name": "911-20250418-0820.mp3",
+  "audio_duration_seconds": 133,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.4,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "past",
+    "room",
+    "benefit",
+    "foreign",
+    "enjoy",
+    "must",
+    "special"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Weight when list class evidence situation feeling school establish either success office company contain treat might huge same style woman manage control again argue point against.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

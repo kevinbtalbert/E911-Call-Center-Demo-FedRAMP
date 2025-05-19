@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250425-0603",
+  "timestamp_received": "2025-04-25T19:09:29Z",
+  "caller_number": "00151005687069057",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 76,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.16704,
+    "longitude": -73.20483,
+    "county": "Bridgeport",
+    "state": "SC",
+    "census_tract": "19697"
+  },
+  "location_type": "Public Park",
+  "incident_address": "USS Mata, FPO AE 91966",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 370,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3464",
+  "audio_file_name": "911-20250425-0603.mp3",
+  "audio_duration_seconds": 180,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 1.8,
+  "incident_type": "Medical",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "mission",
+    "support",
+    "law",
+    "read",
+    "dark",
+    "Congress",
+    "drive",
+    "son"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Off director recent discuss picture have morning safe red why that industry list argue kind father.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

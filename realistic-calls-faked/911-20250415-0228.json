@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250415-0228",
+  "timestamp_received": "2025-04-15T20:17:09Z",
+  "caller_number": "001841560821371184",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 46,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.73941,
+    "longitude": -93.12577,
+    "county": "Rosemount",
+    "state": "PA",
+    "census_tract": "90375"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "7681 Raymond Pass Apt. 230, Lake Julie, PA 20393",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 643,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9715",
+  "audio_file_name": "911-20250415-0228.mp3",
+  "audio_duration_seconds": 98,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.6,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "none",
+    "most",
+    "another",
+    "mouth",
+    "much",
+    "really",
+    "young"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Hear beyond close plant peace successful seem charge walk participant teach everything where we fast too.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

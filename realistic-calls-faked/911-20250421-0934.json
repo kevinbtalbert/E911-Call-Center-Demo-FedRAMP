@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250421-0934",
+  "timestamp_received": "2025-04-21T22:29:48Z",
+  "caller_number": "+19023442381622",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.94065,
+    "longitude": -73.99681,
+    "county": "Dumont",
+    "state": "GA",
+    "census_tract": "63398"
+  },
+  "location_type": "Commercial",
+  "incident_address": "491 Davis Lights Apt. 883, Robinsonmouth, AR 86904",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 128,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5074",
+  "audio_file_name": "911-20250421-0934.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 2.6,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "hear",
+    "deal",
+    "beautiful",
+    "guess"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Current quality culture issue spring watch to clearly medical little father lead store small knowledge security dinner per south book shake away recognize test newspaper thing get national.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250508-0742",
+  "timestamp_received": "2025-05-08T17:02:21Z",
+  "caller_number": "35007961653777",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 26,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.64995,
+    "longitude": -117.23991,
+    "county": "Opportunity",
+    "state": "PA",
+    "census_tract": "85675"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "47164 Brenda Loaf Apt. 695, Port Maryfort, HI 45472",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 668,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5874",
+  "audio_file_name": "911-20250508-0742.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 9.3,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "parent",
+    "general",
+    "between",
+    "paper",
+    "give",
+    "party"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Artist person center apply prove again as democratic sure film say adult decade side federal concern would off respond serious everything example need bed here.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

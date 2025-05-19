@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250426-0932",
+  "timestamp_received": "2025-04-26T18:38:10Z",
+  "caller_number": "1452378034",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 24,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.76446,
+    "longitude": -117.79394,
+    "county": "North Tustin",
+    "state": "SC",
+    "census_tract": "90076"
+  },
+  "location_type": "Commercial",
+  "incident_address": "287 Schultz Unions, Robertfurt, OH 51971",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 171,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1448",
+  "audio_file_name": "911-20250426-0932.mp3",
+  "audio_duration_seconds": 66,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 8.0,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "including",
+    "mother",
+    "security",
+    "when",
+    "turn",
+    "American"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.3,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Resource traditional office glass they send name foreign strategy tend apply begin finish.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250505-0129",
+  "timestamp_received": "2025-05-05T12:36:37Z",
+  "caller_number": "001287032032074276",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 40,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.14251,
+    "longitude": -118.25508,
+    "county": "Glendale",
+    "state": "OH",
+    "census_tract": "83607"
+  },
+  "location_type": "Highway",
+  "incident_address": "75877 Rodriguez Stravenue Apt. 151, Port Justin, GA 98796",
+  "response_unit_dispatched": "Rescue 16",
+  "response_time_seconds": 897,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9056",
+  "audio_file_name": "911-20250505-0129.mp3",
+  "audio_duration_seconds": 136,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 1.7,
+  "incident_type": "Fire",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "meet",
+    "evening",
+    "through",
+    "one",
+    "on",
+    "will"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Short Congress turn east marriage behind forget expect wonder business health upon black food ahead least remain look pick especially price forget analysis performance laugh.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

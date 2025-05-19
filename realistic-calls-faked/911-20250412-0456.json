@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250412-0456",
+  "timestamp_received": "2025-04-12T10:56:50Z",
+  "caller_number": "74705311058330",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 85,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.49428,
+    "longitude": -122.86705,
+    "county": "Aloha",
+    "state": "KY",
+    "census_tract": "21136"
+  },
+  "location_type": "Commercial",
+  "incident_address": "3979 Irwin Court Apt. 426, South Yolanda, MI 85388",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 1043,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8279",
+  "audio_file_name": "911-20250412-0456.mp3",
+  "audio_duration_seconds": 71,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 2.4,
+  "incident_type": "Fire",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "agreement",
+    "rock",
+    "if",
+    "magazine",
+    "look",
+    "term",
+    "meeting",
+    "long"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Probably my when important door name town project agency rock however simply policy least husband.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250511-0511",
+  "timestamp_received": "2025-05-11T23:02:30Z",
+  "caller_number": "+13596677153",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 71,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.99012,
+    "longitude": -123.02621,
+    "county": "Keizer",
+    "state": "SC",
+    "census_tract": "93387"
+  },
+  "location_type": "Residential",
+  "incident_address": "26247 Richard Branch, Lake Jamesshire, OK 05473",
+  "response_unit_dispatched": "Rescue 6",
+  "response_time_seconds": 350,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4943",
+  "audio_file_name": "911-20250511-0511.mp3",
+  "audio_duration_seconds": 73,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 3.6,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "reflect",
+    "player",
+    "it",
+    "success",
+    "image",
+    "ten"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Feeling later major success relationship fish probably appear TV compare eat hundred manage century relate article item wear specific.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250422-0976",
+  "timestamp_received": "2025-04-22T23:48:20Z",
+  "caller_number": "8617568634",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 81,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 45.53929,
+    "longitude": -122.38731,
+    "county": "Troutdale",
+    "state": "VA",
+    "census_tract": "23307"
+  },
+  "location_type": "Highway",
+  "incident_address": "PSC 4964, Box 2206, APO AP 75655",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 279,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6836",
+  "audio_file_name": "911-20250422-0976.mp3",
+  "audio_duration_seconds": 138,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 3.5,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "professor",
+    "full",
+    "gas",
+    "similar"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.4,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Action son glass arrive reflect necessary least if worry early season pay rest.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

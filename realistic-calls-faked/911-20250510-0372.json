@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250510-0372",
+  "timestamp_received": "2025-05-10T10:56:26Z",
+  "caller_number": "00179060854818674",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 44.99012,
+    "longitude": -123.02621,
+    "county": "Keizer",
+    "state": "GA",
+    "census_tract": "82706"
+  },
+  "location_type": "Industrial",
+  "incident_address": "09984 John Crest, Lake Marymouth, CT 69102",
+  "response_unit_dispatched": "Rescue 5",
+  "response_time_seconds": 683,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7664",
+  "audio_file_name": "911-20250510-0372.mp3",
+  "audio_duration_seconds": 144,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.4,
+  "incident_type": "Assault",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "think",
+    "five",
+    "product",
+    "new",
+    "hard",
+    "else",
+    "may",
+    "service"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Change adult player source professor attention data several everyone in land heart offer others exist three event identify kid.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

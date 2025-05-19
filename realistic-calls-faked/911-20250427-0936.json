@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250427-0936",
+  "timestamp_received": "2025-04-27T11:07:20Z",
+  "caller_number": "9144533752015",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.60538,
+    "longitude": -73.75513,
+    "county": "Far Rockaway",
+    "state": "GA",
+    "census_tract": "80328"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "6164 Michael Mountains, East Thomas, NC 35907",
+  "response_unit_dispatched": "Rescue 12",
+  "response_time_seconds": 156,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3676",
+  "audio_file_name": "911-20250427-0936.mp3",
+  "audio_duration_seconds": 71,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.0,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "according",
+    "people",
+    "cut",
+    "author",
+    "man"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.0,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Administration accept born hear politics prevent federal general find grow evidence tax prepare.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250422-0634",
+  "timestamp_received": "2025-04-22T10:43:51Z",
+  "caller_number": "712567212300857",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 32.35126,
+    "longitude": -95.30106,
+    "county": "Tyler",
+    "state": "TN",
+    "census_tract": "80568"
+  },
+  "location_type": "Industrial",
+  "incident_address": "153 Janice Falls Suite 660, New Ambertown, MA 64871",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 736,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4810",
+  "audio_file_name": "911-20250422-0634.mp3",
+  "audio_duration_seconds": 175,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.8,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "specific",
+    "defense",
+    "president",
+    "animal"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 5.3,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Air top environmental start wish start if pressure by middle its view environment three own teacher tend.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "call_id": "911-20151210-0004",
+  "timestamp_received": "2015-12-10T16:47:36Z",
+  "caller_number": "+15559661654",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 28,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.116153,
+    "longitude": -75.343513,
+    "county": "NORRISTOWN",
+    "state": "PA",
+    "census_tract": "PA-27911"
+  },
+  "location_type": "Commercial Area",
+  "incident_address": "AIRY ST & SWEDE ST",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 451,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1125",
+  "audio_file_name": "77637b2b1d174134bec17cd85aa1a413.mp3",
+  "audio_duration_seconds": 135,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.3
+}

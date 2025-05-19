@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250422-0104",
+  "timestamp_received": "2025-04-22T19:27:10Z",
+  "caller_number": "6965666683",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 18,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 25.67927,
+    "longitude": -80.31727,
+    "county": "Kendall",
+    "state": "TN",
+    "census_tract": "70686"
+  },
+  "location_type": "Industrial",
+  "incident_address": "38656 Keith Well Apt. 201, East Jenniferfort, NE 18297",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 928,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9715",
+  "audio_file_name": "911-20250422-0104.mp3",
+  "audio_duration_seconds": 127,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 4.1,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "be",
+    "politics",
+    "indeed",
+    "lay"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.0,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Us perhaps lawyer interest star his difficult interesting account marriage room Republican especially unit office almost also low happy oil which bag room money teacher seek evidence.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250428-0806",
+  "timestamp_received": "2025-04-28T11:35:18Z",
+  "caller_number": "4918505824055",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 70,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.91756,
+    "longitude": -82.07842,
+    "county": "Punta Gorda Isles",
+    "state": "KY",
+    "census_tract": "51592"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "512 Richard Brooks Suite 119, Kelseymouth, SC 58124",
+  "response_unit_dispatched": "Rescue 20",
+  "response_time_seconds": 649,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3912",
+  "audio_file_name": "911-20250428-0806.mp3",
+  "audio_duration_seconds": 158,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 9.2,
+  "incident_type": "Burglary",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "choose",
+    "draw",
+    "ability",
+    "budget",
+    "movement",
+    "her"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 5.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Whole other economy throughout serve natural read effect admit once close treat senior blue great understand what.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.83,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

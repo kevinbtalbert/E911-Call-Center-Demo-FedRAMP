@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250429-0432",
+  "timestamp_received": "2025-04-29T02:14:46Z",
+  "caller_number": "95247466535389",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 84,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.57721,
+    "longitude": -93.71133,
+    "county": "West Des Moines",
+    "state": "PA",
+    "census_tract": "37504"
+  },
+  "location_type": "Industrial",
+  "incident_address": "98532 Harris Station Suite 792, Dakotafort, GA 84512",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 151,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4884",
+  "audio_file_name": "911-20250429-0432.mp3",
+  "audio_duration_seconds": 39,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.7,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "leader",
+    "population",
+    "value",
+    "week",
+    "seat",
+    "natural",
+    "different",
+    "even"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 6.1,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Improve foreign see east officer include big room chair not opportunity door part threat national price indeed great different.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

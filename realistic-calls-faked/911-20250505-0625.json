@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250505-0625",
+  "timestamp_received": "2025-05-05T16:24:01Z",
+  "caller_number": "+1740536251231154",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.60538,
+    "longitude": -73.75513,
+    "county": "Far Rockaway",
+    "state": "OH",
+    "census_tract": "89511"
+  },
+  "location_type": "Highway",
+  "incident_address": "90206 Tracy Gateway, Banksborough, WY 04832",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 146,
+  "response_status": "Arrived",
+  "dispatcher_id": "D2766",
+  "audio_file_name": "911-20250505-0625.mp3",
+  "audio_duration_seconds": 55,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 4.2,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "guess",
+    "campaign",
+    "away",
+    "push",
+    "enter",
+    "position",
+    "interest"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 8.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Pressure watch security half customer enter carry simple build strategy board rate property perform resource find same including reduce move surface forget decide.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.96,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

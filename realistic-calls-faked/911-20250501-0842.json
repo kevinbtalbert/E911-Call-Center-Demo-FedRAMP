@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250501-0842",
+  "timestamp_received": "2025-05-01T10:11:09Z",
+  "caller_number": "+122277261054026",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 80,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.24537,
+    "longitude": -75.64963,
+    "county": "Pottstown",
+    "state": "GA",
+    "census_tract": "90488"
+  },
+  "location_type": "Residential",
+  "incident_address": "465 Richards Course, Patrickhaven, MO 33291",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 341,
+  "response_status": "Arrived",
+  "dispatcher_id": "D5235",
+  "audio_file_name": "911-20250501-0842.mp3",
+  "audio_duration_seconds": 131,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 5.0,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "them",
+    "person",
+    "today",
+    "sure",
+    "protect",
+    "last",
+    "ever"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Theory white mother computer must news improve size field effort rule suggest prove should tough help.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.81,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

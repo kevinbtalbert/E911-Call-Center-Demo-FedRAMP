@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250415-0459",
+  "timestamp_received": "2025-04-15T16:58:36Z",
+  "caller_number": "2223369318062",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 35,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.64995,
+    "longitude": -117.23991,
+    "county": "Opportunity",
+    "state": "SC",
+    "census_tract": "51976"
+  },
+  "location_type": "Commercial",
+  "incident_address": "3024 Rebecca Run, Taylorshire, MN 31855",
+  "response_unit_dispatched": "Rescue 13",
+  "response_time_seconds": 974,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8838",
+  "audio_file_name": "911-20250415-0459.mp3",
+  "audio_duration_seconds": 47,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 5,
+  "incident_risk_score": 3.5,
+  "incident_type": "Burglary",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "light",
+    "society",
+    "play",
+    "yes",
+    "recently"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "Manager site begin politics everyone hospital professional our top question traditional eight result myself manage decade position education head effort.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.88,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "call_id": "911-20250501-0839",
+  "timestamp_received": "2025-05-01T00:50:05Z",
+  "caller_number": "+14039092767",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 77,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 28.90054,
+    "longitude": -81.26367,
+    "county": "Deltona",
+    "state": "VA",
+    "census_tract": "45013"
+  },
+  "location_type": "Residential",
+  "incident_address": "86333 Williams Lock Suite 760, Michaelhaven, AK 85515",
+  "response_unit_dispatched": "Rescue 19",
+  "response_time_seconds": 786,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4757",
+  "audio_file_name": "911-20250501-0839.mp3",
+  "audio_duration_seconds": 60,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.8,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "already",
+    "story",
+    "any",
+    "part"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Design indicate perform guess reality opportunity measure along worker white through up find back off explain attack camera deep assume answer actually conference player weight particular.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.89,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250417-0981",
+  "timestamp_received": "2025-04-17T02:06:49Z",
+  "caller_number": "1724985963",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 33.03699,
+    "longitude": -117.29198,
+    "county": "Encinitas",
+    "state": "GA",
+    "census_tract": "93649"
+  },
+  "location_type": "Residential",
+  "incident_address": "0941 Mahoney Roads Suite 724, New Catherineburgh, TN 65051",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 1141,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9237",
+  "audio_file_name": "911-20250417-0981.mp3",
+  "audio_duration_seconds": 117,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 6.2,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "arm",
+    "three",
+    "east",
+    "suggest",
+    "head",
+    "table",
+    "interest",
+    "artist"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 6.4,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Baby let let account skill respond occur out respond and special travel term nearly property against common drug yeah old huge finish course fine board type bed.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

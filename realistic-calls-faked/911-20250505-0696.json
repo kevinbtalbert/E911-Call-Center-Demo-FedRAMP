@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250505-0696",
+  "timestamp_received": "2025-05-05T04:46:12Z",
+  "caller_number": "0018362074988",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 39,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 47.92526,
+    "longitude": -97.03285,
+    "county": "Grand Forks",
+    "state": "NY",
+    "census_tract": "64166"
+  },
+  "location_type": "Residential",
+  "incident_address": "591 Paul Wall Apt. 033, Lake Meganchester, MT 90527",
+  "response_unit_dispatched": "Rescue 18",
+  "response_time_seconds": 141,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4805",
+  "audio_file_name": "911-20250505-0696.mp3",
+  "audio_duration_seconds": 81,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.7,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "government",
+    "resource",
+    "the",
+    "service",
+    "hospital",
+    "make"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Place decision experience offer generation arm dog may push how power huge goal more century right usually there couple thought shoulder suggest age you year.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

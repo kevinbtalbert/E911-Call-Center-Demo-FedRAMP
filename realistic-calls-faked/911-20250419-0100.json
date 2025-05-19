@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250419-0100",
+  "timestamp_received": "2025-04-19T18:05:00Z",
+  "caller_number": "001317807823578452",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 80,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.2173,
+    "longitude": -80.22588,
+    "county": "North Lauderdale",
+    "state": "TN",
+    "census_tract": "25389"
+  },
+  "location_type": "Industrial",
+  "incident_address": "230 Hughes Way, North Larryton, PA 11914",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 812,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4618",
+  "audio_file_name": "911-20250419-0100.mp3",
+  "audio_duration_seconds": 86,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.1,
+  "incident_type": "Mental Health Crisis",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "four",
+    "threat",
+    "billion",
+    "she",
+    "seat",
+    "against",
+    "serve"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 7.7,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Fly court everybody five kid brother chance event address performance method deal go five center region exist.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.94,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

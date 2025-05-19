@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250420-0004",
+  "timestamp_received": "2025-04-20T07:23:27Z",
+  "caller_number": "+1578713315098393",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.63316,
+    "longitude": -74.13653,
+    "county": "Port Richmond",
+    "state": "SC",
+    "census_tract": "70589"
+  },
+  "location_type": "School",
+  "incident_address": "10518 Joshua Oval, New David, OK 76026",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 1200,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4598",
+  "audio_file_name": "911-20250420-0004.mp3",
+  "audio_duration_seconds": 113,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.2,
+  "incident_type": "Drug Overdose",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "line",
+    "six",
+    "space",
+    "couple"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Probably great in tell approach president position art rock song body court movie cell.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.84,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

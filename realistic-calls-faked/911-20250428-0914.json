@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250428-0914",
+  "timestamp_received": "2025-04-28T16:45:12Z",
+  "caller_number": "0182087163",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 63,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 27.71809,
+    "longitude": -82.35176,
+    "county": "Sun City Center",
+    "state": "NY",
+    "census_tract": "56169"
+  },
+  "location_type": "Apartment Complex",
+  "incident_address": "392 Miller Court, New Mary, RI 70530",
+  "response_unit_dispatched": "Rescue 7",
+  "response_time_seconds": 540,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3430",
+  "audio_file_name": "911-20250428-0914.mp3",
+  "audio_duration_seconds": 73,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 7.3,
+  "incident_type": "Medical",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "long",
+    "page",
+    "benefit",
+    "forward"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.8,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [],
+  "notes": "Summer western let gun inside account memory whole issue keep success see call capital.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

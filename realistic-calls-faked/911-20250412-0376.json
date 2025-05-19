@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250412-0376",
+  "timestamp_received": "2025-04-12T09:49:23Z",
+  "caller_number": "+1290350061848974",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 75,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.06084,
+    "longitude": -97.92977,
+    "county": "Hutchinson",
+    "state": "KY",
+    "census_tract": "35295"
+  },
+  "location_type": "School",
+  "incident_address": "Unit 2354 Box 3404, DPO AP 55456",
+  "response_unit_dispatched": "Rescue 1",
+  "response_time_seconds": 513,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1324",
+  "audio_file_name": "911-20250412-0376.mp3",
+  "audio_duration_seconds": 101,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 8.3,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "these",
+    "senior",
+    "natural",
+    "water",
+    "character"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.8,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Unknown Pills"
+  ],
+  "notes": "So item education scene green ground offer common wide process everybody executive stand short big report manage crime nearly most.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

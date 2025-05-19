@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250430-0264",
+  "timestamp_received": "2025-04-30T21:52:39Z",
+  "caller_number": "664505730362792",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 30,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.32374,
+    "longitude": -120.00865,
+    "county": "Sunnyside",
+    "state": "TN",
+    "census_tract": "51222"
+  },
+  "location_type": "Industrial",
+  "incident_address": "3203 King Locks Suite 753, Andersonton, FL 84390",
+  "response_unit_dispatched": "Rescue 2",
+  "response_time_seconds": 616,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7780",
+  "audio_file_name": "911-20250430-0264.mp3",
+  "audio_duration_seconds": 52,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 5.1,
+  "incident_type": "Traffic Accident",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "two",
+    "far",
+    "apply",
+    "let",
+    "hit",
+    "president",
+    "item",
+    "our"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.9,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Start necessary American wonder suggest attack former financial medical action big season no art meeting piece he large free party get.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.97,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

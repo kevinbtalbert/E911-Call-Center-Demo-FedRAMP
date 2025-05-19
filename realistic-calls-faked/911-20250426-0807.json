@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250426-0807",
+  "timestamp_received": "2025-04-26T21:29:45Z",
+  "caller_number": "30539003432926",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 45,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 31.84568,
+    "longitude": -102.36764,
+    "county": "Odessa",
+    "state": "NY",
+    "census_tract": "94848"
+  },
+  "location_type": "Commercial",
+  "incident_address": "555 Fuentes Parkways Suite 975, Hoganmouth, UT 29289",
+  "response_unit_dispatched": "Rescue 3",
+  "response_time_seconds": 544,
+  "response_status": "Arrived",
+  "dispatcher_id": "D3148",
+  "audio_file_name": "911-20250426-0807.mp3",
+  "audio_duration_seconds": 59,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 2.9,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "strong",
+    "special",
+    "organization",
+    "own",
+    "significant",
+    "debate",
+    "ahead"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 7.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Bag much meet seven natural most cost thing vote address suffer future conference than meeting page million activity take night.",
+  "ai_crisis_classification": {
+    "classified_as": "Substance Abuse",
+    "confidence": 0.91,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

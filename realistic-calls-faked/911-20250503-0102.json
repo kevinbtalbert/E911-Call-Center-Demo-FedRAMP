@@ -1,0 +1,50 @@
+{
+  "call_id": "911-20250503-0102",
+  "timestamp_received": "2025-05-03T15:01:29Z",
+  "caller_number": "5577017157",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 74,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.68066,
+    "longitude": -73.47429,
+    "county": "Massapequa",
+    "state": "SC",
+    "census_tract": "77272"
+  },
+  "location_type": "School",
+  "incident_address": "5992 Richard Station, West Angelaland, ME 70329",
+  "response_unit_dispatched": "Rescue 15",
+  "response_time_seconds": 178,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8575",
+  "audio_file_name": "911-20250503-0102.mp3",
+  "audio_duration_seconds": 108,
+  "known_individuals_involved": true,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 8.3,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "leave",
+    "opportunity",
+    "draw",
+    "during"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 6.7,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [],
+  "notes": "Wind himself future sport opportunity six itself skin name door production back us off main option.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

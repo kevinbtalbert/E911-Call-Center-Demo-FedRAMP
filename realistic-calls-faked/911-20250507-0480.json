@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250507-0480",
+  "timestamp_received": "2025-05-07T04:38:09Z",
+  "caller_number": "0015377403767",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 56,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 34.25628,
+    "longitude": -78.04471,
+    "county": "Leland",
+    "state": "KY",
+    "census_tract": "32336"
+  },
+  "location_type": "Highway",
+  "incident_address": "0420 Fisher Knoll Apt. 497, Jamesland, MD 99379",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 555,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7412",
+  "audio_file_name": "911-20250507-0480.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 4.9,
+  "incident_type": "Drug Overdose",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "likely",
+    "debate",
+    "since",
+    "arrive",
+    "open",
+    "small",
+    "poor"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 7.6,
+    "agitation_level": "Moderate"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Number everyone almost important huge rise change seat reveal gas moment when four.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.93,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

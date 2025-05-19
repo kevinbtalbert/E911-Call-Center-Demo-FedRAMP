@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250422-0585",
+  "timestamp_received": "2025-04-22T13:42:00Z",
+  "caller_number": "0861647904",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 51,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 26.68451,
+    "longitude": -80.66756,
+    "county": "Belle Glade",
+    "state": "KY",
+    "census_tract": "57602"
+  },
+  "location_type": "Industrial",
+  "incident_address": "7380 Gibson Ports, Murraybury, NV 24291",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 710,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9229",
+  "audio_file_name": "911-20250422-0585.mp3",
+  "audio_duration_seconds": 167,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 3,
+  "incident_risk_score": 5.5,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "within",
+    "once",
+    "hour",
+    "and",
+    "Congress",
+    "create",
+    "Congress"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.6,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Difference community hair sometimes nothing keep citizen environment guy worker billion such population gun radio peace church theory level.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.8,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

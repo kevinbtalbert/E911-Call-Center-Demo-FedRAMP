@@ -1,0 +1,54 @@
+{
+  "call_id": "911-20250504-0911",
+  "timestamp_received": "2025-05-04T11:12:00Z",
+  "caller_number": "8910548256273",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 32,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.91817,
+    "longitude": -78.19444,
+    "county": "Front Royal",
+    "state": "NY",
+    "census_tract": "66357"
+  },
+  "location_type": "School",
+  "incident_address": "31612 Dawn Ridges Apt. 868, Grantberg, UT 62382",
+  "response_unit_dispatched": "Rescue 11",
+  "response_time_seconds": 892,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4085",
+  "audio_file_name": "911-20250504-0911.mp3",
+  "audio_duration_seconds": 79,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 3.5,
+  "incident_type": "Fire",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "loss",
+    "bill",
+    "develop",
+    "price",
+    "so",
+    "another"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.1,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Fentanyl"
+  ],
+  "notes": "Keep want war already himself pattern billion value campaign run finish talk how form technology fact inside start door between toward beautiful high PM my fine agreement.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.98,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

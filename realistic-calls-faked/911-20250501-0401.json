@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250501-0401",
+  "timestamp_received": "2025-05-01T09:16:01Z",
+  "caller_number": "79986491259497",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 66,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 40.60538,
+    "longitude": -73.75513,
+    "county": "Far Rockaway",
+    "state": "VA",
+    "census_tract": "11407"
+  },
+  "location_type": "Public Park",
+  "incident_address": "Unit 2204 Box 2986, DPO AE 22230",
+  "response_unit_dispatched": "Rescue 4",
+  "response_time_seconds": 339,
+  "response_status": "Arrived",
+  "dispatcher_id": "D6359",
+  "audio_file_name": "911-20250501-0401.mp3",
+  "audio_duration_seconds": 148,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 0,
+  "incident_risk_score": 1.7,
+  "incident_type": "Medical",
+  "call_priority": "Critical",
+  "transcription_keywords": [
+    "which",
+    "nor",
+    "can",
+    "himself",
+    "huge"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 9.1,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "We notice impact country general particular operation threat over start onto say social safe easy fly need local win new less many particularly.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.92,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

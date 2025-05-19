@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250505-0693",
+  "timestamp_received": "2025-05-05T20:10:18Z",
+  "caller_number": "+10581380573",
+  "call_type": "Emergency",
+  "caller_gender": "Male",
+  "caller_age_estimate": 73,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 38.17492,
+    "longitude": -122.2608,
+    "county": "American Canyon",
+    "state": "TN",
+    "census_tract": "31331"
+  },
+  "location_type": "Residential",
+  "incident_address": "7886 Kelly Village, Dennisville, DE 04455",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 738,
+  "response_status": "Arrived",
+  "dispatcher_id": "D7991",
+  "audio_file_name": "911-20250505-0693.mp3",
+  "audio_duration_seconds": 58,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 1,
+  "incident_risk_score": 5.3,
+  "incident_type": "Medical",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "key",
+    "year",
+    "girl",
+    "half",
+    "marriage",
+    "hair",
+    "whatever"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Panicked",
+    "urgency_score": 9.0,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Watch already huge manage something eye camera course up only study whose national its community value no others them east issue alone possible friend generation hand lot.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.86,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

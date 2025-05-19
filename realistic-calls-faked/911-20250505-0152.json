@@ -1,0 +1,56 @@
+{
+  "call_id": "911-20250505-0152",
+  "timestamp_received": "2025-05-05T12:41:33Z",
+  "caller_number": "257150997683890",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 88,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 35.05266,
+    "longitude": -78.87836,
+    "county": "Fayetteville",
+    "state": "PA",
+    "census_tract": "52153"
+  },
+  "location_type": "School",
+  "incident_address": "3639 Brian Landing, Phillipsberg, IL 84654",
+  "response_unit_dispatched": "Rescue 9",
+  "response_time_seconds": 428,
+  "response_status": "Arrived",
+  "dispatcher_id": "D1427",
+  "audio_file_name": "911-20250505-0152.mp3",
+  "audio_duration_seconds": 111,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 1.5,
+  "incident_type": "Robbery",
+  "call_priority": "High",
+  "transcription_keywords": [
+    "also",
+    "type",
+    "our",
+    "watch",
+    "school",
+    "forget",
+    "everything",
+    "poor"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 9.9,
+    "agitation_level": "Low"
+  },
+  "suspected_substances": [
+    "Alcohol"
+  ],
+  "notes": "Minute within possible eye agency suggest former drug much trade professor eat reach.",
+  "ai_crisis_classification": {
+    "classified_as": "Medical",
+    "confidence": 0.85,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "call_id": "911-20250427-0506",
+  "timestamp_received": "2025-04-27T15:42:58Z",
+  "caller_number": "01958663992879",
+  "call_type": "Emergency",
+  "caller_gender": "Other",
+  "caller_age_estimate": 33,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 39.78504,
+    "longitude": -85.76942,
+    "county": "Greenfield",
+    "state": "GA",
+    "census_tract": "42770"
+  },
+  "location_type": "Commercial",
+  "incident_address": "87314 Linda Port Suite 629, South Ruthshire, ME 39877",
+  "response_unit_dispatched": "Rescue 14",
+  "response_time_seconds": 1195,
+  "response_status": "Arrived",
+  "dispatcher_id": "D4268",
+  "audio_file_name": "911-20250427-0506.mp3",
+  "audio_duration_seconds": 107,
+  "known_individuals_involved": false,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 2,
+  "incident_risk_score": 6.1,
+  "incident_type": "Robbery",
+  "call_priority": "Medium",
+  "transcription_keywords": [
+    "boy",
+    "across",
+    "crime",
+    "consumer",
+    "news",
+    "according",
+    "above"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 5.5,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [
+    "Marijuana"
+  ],
+  "notes": "Bad among money fine range change again race room prevent about rich major father water at every marriage case ten.",
+  "ai_crisis_classification": {
+    "classified_as": "Violent",
+    "confidence": 0.9,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

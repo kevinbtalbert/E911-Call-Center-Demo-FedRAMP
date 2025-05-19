@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250416-0857",
+  "timestamp_received": "2025-04-16T02:52:37Z",
+  "caller_number": "+1525539625561441",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 72,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 41.85059,
+    "longitude": -87.882,
+    "county": "Westchester",
+    "state": "OH",
+    "census_tract": "37037"
+  },
+  "location_type": "Commercial",
+  "incident_address": "USCGC Brown, FPO AE 80737",
+  "response_unit_dispatched": "Rescue 10",
+  "response_time_seconds": 400,
+  "response_status": "Arrived",
+  "dispatcher_id": "D9016",
+  "audio_file_name": "911-20250416-0857.mp3",
+  "audio_duration_seconds": 73,
+  "known_individuals_involved": true,
+  "repeat_call_location": true,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 5.9,
+  "incident_type": "Assault",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "course",
+    "can",
+    "four",
+    "open",
+    "blue",
+    "south",
+    "body"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Distressed",
+    "urgency_score": 8.6,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Those film wide church seek also image garden serious use in baby but stand.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.95,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}

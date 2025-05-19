@@ -1,0 +1,53 @@
+{
+  "call_id": "911-20250502-0359",
+  "timestamp_received": "2025-05-02T03:31:12Z",
+  "caller_number": "+15229425251",
+  "call_type": "Emergency",
+  "caller_gender": "Female",
+  "caller_age_estimate": 47,
+  "language_detected": "English",
+  "transcription_status": "Completed",
+  "transcription_source": "AWS Transcribe",
+  "geolocation": {
+    "latitude": 46.09273,
+    "longitude": -88.64235,
+    "county": "Iron River",
+    "state": "SC",
+    "census_tract": "79422"
+  },
+  "location_type": "School",
+  "incident_address": "5917 Brian Center Apt. 549, West Shaneport, NJ 30689",
+  "response_unit_dispatched": "Rescue 8",
+  "response_time_seconds": 342,
+  "response_status": "Arrived",
+  "dispatcher_id": "D8025",
+  "audio_file_name": "911-20250502-0359.mp3",
+  "audio_duration_seconds": 135,
+  "known_individuals_involved": false,
+  "repeat_call_location": false,
+  "prior_incidents_last_30_days": 4,
+  "incident_risk_score": 8.2,
+  "incident_type": "Domestic Disturbance",
+  "call_priority": "Low",
+  "transcription_keywords": [
+    "share",
+    "police",
+    "ground",
+    "center",
+    "just",
+    "more",
+    "sea"
+  ],
+  "emotion_analysis": {
+    "caller_sentiment": "Calm",
+    "urgency_score": 8.9,
+    "agitation_level": "High"
+  },
+  "suspected_substances": [],
+  "notes": "Born smile leave ground feel south number current eye top data four major move develop by design bar skin.",
+  "ai_crisis_classification": {
+    "classified_as": "None",
+    "confidence": 0.82,
+    "model_version": "amazon.titan-text-express-v1"
+  }
+}
